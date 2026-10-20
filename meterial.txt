@@ -1,0 +1,16 @@
+Brand: Shardra
+Pronunciation: SHAR-dra
+Name idea: A field of shard readings struck into one line
+Slug / wordmark: shardra
+Project token ticker: none introduced; the market-asset symbol stays YES
+Technical asset: configured market-asset mint (classic SPL Token on Solana Testnet)
+Token mint: EvatdLdQKLV5pMzp75dCbyWbVewckB2SXuEwnoHQfEbj (9 decimals, zero supply, mint authority retained, freeze authority disabled, no on-chain metadata)
+Tagline: Every reading strikes one line.
+Network: Solana Testnet (cluster configurable through VITE_SOLANA_CLUSTER)
+Product: simulated event contracts, a six-reading shard field, illustrative outcome splits, local practice receipts
+Wallet: injected Phantom/Solflare-compatible provider, read-only native SOL and configured market-asset balances
+Deployment: configured market-asset mint deployed; prediction-market execution, oracle, settlement and issuance remain pending
+Visual direction: pale ledger sheet; bone-white canvas #F7F7F4, white sheets #FFFFFF, hairline rules #DCDCD4, indigo signals #2B24E8, ultra-violet traces #8B3DFF, mint YES states #0E9F5B, ember NO/warning states #FF5A1F; tabular monospace numerals and ledger-style metadata.
+Mark: shard forge; rotated-square frame around a diagonal shard with four perpendicular ticks, a bright core and an ember crest. Below roughly 48 px a reduced variant keeps only the shard and the crest node.
+Frontend package: shardra-terminal
+Candidate destinations: shardra.xyz and @shardra (read-only Chrome checks on 2026-10-20 returned no record); shardra.com not checked; ownership not confirmed.

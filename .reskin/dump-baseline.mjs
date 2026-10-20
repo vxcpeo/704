@@ -1,0 +1,27 @@
+import fs from 'node:fs/promises'
+
+const pages = JSON.parse(await fs.readFile('.reskin/baseline/pages.json', 'utf8'))
+const page = pages.pages['/']
+const d = page.desktop
+console.log('=== META', JSON.stringify(d.meta))
+console.log('=== LANDMARKS')
+for (const l of d.landmarks) console.log(`  ${l.tag} role=${l.role} ${l.left},${l.top} ${l.width}x${l.height}`)
+console.log('=== FORMS', JSON.stringify(d.forms))
+console.log('=== ATTRS')
+for (const a of d.attrs) console.log(`  ${a.count}x ${a.key}`)
+console.log('=== LINKS')
+for (const l of d.links) console.log(`  ${l.count}x ${l.href}`)
+console.log('=== HEADINGS')
+for (const h of d.headings) console.log(`  ${h.tag} ${h.text}`)
+console.log('=== MOBILE NAV', JSON.stringify(page.mobileNav))
+console.log('=== WORDS', d.words.length, 'unique,', d.words.reduce((n, w) => n + w.count, 0), 'total')
+const stable = d.words.filter((w) => /[a-zA-Z\u00C0-\u024F]/.test(w.word))
+const numeric = d.words.filter((w) => !/[a-zA-Z\u00C0-\u024F]/.test(w.word))
+console.log('--- stable words')
+console.log(stable.map((w) => `${w.word}:${w.count}`).join(' | '))
+console.log('--- numeric words')
+console.log(numeric.map((w) => `${w.word}:${w.count}`).join(' | '))
+console.log('=== CLASS TOKENS', d.classTokens.length)
+console.log(d.classTokens.join(', '))
+console.log('=== FINGERPRINT', d.fingerprint.length)
+console.log(d.fingerprint.join(' '))

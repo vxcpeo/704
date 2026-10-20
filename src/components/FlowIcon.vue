@@ -1,0 +1,50 @@
+<script setup>
+defineProps({ name: { type: String, default: "arrow" } });
+const paths = {
+  layers: "m12 3 10 5-10 5L2 8l10-5ZM2 12l10 5 10-5M2 16l10 5 10-5",
+  portfolio: "M4 7h16v14H4zM8 7V3h8v4M4 12h16M10 12v3h4v-3",
+  community:
+    "M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2M17 4a4 4 0 0 1 0 8M22 21v-2a4 4 0 0 0-3-3.87M13 7a4 4 0 1 1-8 0 4 4 0 0 1 8 0",
+  book: "M12 6v15M12 6C8 3 4 3 2 4v15c3-1 6-1 10 2 4-3 7-3 10-2V4c-2-1-6-1-10 2Z",
+  arrow: "M5 12h14M13 6l6 6-6 6",
+  external: "M7 17 17 7M7 7h10v10",
+  search: "m21 21-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0",
+  wallet: "M20 8V5H4a2 2 0 0 0 0 4h17v11H4a2 2 0 0 1-2-2V7m19 6h-5v3h5",
+  close: "m6 6 12 12M6 18 18 6",
+  check: "m5 12 4 4L19 6",
+  plus: "M12 5v14M5 12h14",
+  chevron: "m8 5 7 7-7 7",
+  refresh:
+    "M20 7v5h-5M4 17v-5h5M5 7a8 8 0 0 1 13-2l2 3M4 16l2 3a8 8 0 0 0 13-2",
+  shield: "M12 3 3 7v5c0 5 9 9 9 9s9-4 9-9V7l-9-4Zm-4 9 3 3 5-6",
+  grid: "M3 3h7v7H3zM14 3h7v7h-7zM3 14h7v7H3zM14 14h7v7h-7z",
+  globe:
+    "M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM3 12h18M12 3c-5 5-5 13 0 18 5-5 5-13 0-18Z",
+  activity: "M3 13h4l3-8 4 14 3-6h4",
+  sort: "M8 4v16M4 8l4-4 4 4M16 20V4m-4 12 4 4 4-4",
+  info: "M12 11v6M12 7v.1M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z",
+  trash: "M3 6h18M9 6V3h6v3M5 6l1 15h12l1-15M10 10v7M14 10v7",
+  clock: "M12 7v5l3 2M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z",
+  forge: "M12 3l9 9-9 9-9-9 9-9ZM6.5 17.5 17.5 6.5",
+  ticket: "M4 9V6h16v3a3 3 0 0 0 0 6v3H4v-3a3 3 0 0 0 0-6ZM12 7v10",
+  expand: "M8 3H3v5M16 3h5v5M8 21H3v-5M16 21h5v-5",
+  dot: "M12 8v.1M12 12v.1M12 16v.1",
+  ledger: "M4 5h16v14H4zM8 5v14M12 9h5M12 13h5",
+};
+</script>
+<template>
+  <svg
+    class="orb-glyph"
+    width="20"
+    height="20"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="1.4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    aria-hidden="true"
+  >
+    <path :d="paths[name] || paths.arrow" />
+  </svg>
+</template>
