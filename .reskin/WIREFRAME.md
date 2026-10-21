@@ -1,93 +1,94 @@
-# Wireframe — Poster Optimism / Ticker Stage
+# Wireframe commitment — Spectrum Terminal / Terminal Console
 
-Committed before implementation. Every route must use this skeleton; no fallback
-to the old `orb-*` shell.
+## Decision record
 
-## Shell
+The selector returned **Spectrum Terminal** (`solana-spectrum`, live-sampled from
+solana.com, accent `#9945ff`, 135.9 ΔE from the current `#ff0421`) with skeleton
+**Ticker Stage**. The art direction is adopted unchanged.
 
-| Region | Element | Content it carries |
-|---|---|---|
-| `brd-masthead` | `<header>` | wordmark (mark + `BRAND_NAME` + `CLUSTER_LABEL`), primary **ticker nav** (`<nav aria-label="Primary navigation">`), cluster chip, X link, wallet button |
-| `brd-band--figures` | `<div role="region">` | the desk ticker: `BRAND_SLUG / BRAND_DOMAIN`, EVENTS, READINGS, FIELD, VOLUME, DEPTH, 24H MOVERS, SAVED, `TOKEN_SYMBOL · … · CLUSTER_LABEL` |
-| `brd-stage` | `<main id="main-content">` | one `<section class="brd-scene">` per beat |
-| `brd-roll` | `<footer>` | route index (`<nav aria-label="Section navigation">`), colophon line with `BRAND_NAME` / `BRAND_TAGLINE`, cluster + unregistered-domain notice |
-| `brd-sheet` | `<dialog>` | the three existing sheets, restyled as poster panels |
+The skeleton is adjusted from `ticker-stage` to **`terminal-console`** (same
+catalogue, same `linear` family). Reason, with evidence:
 
-The old `orb-root` / `orb-sky` / `orb-stage` / floating dock / vertical route
-index / scroll-snap scene stack are gone. Navigation is a **horizontal ticker**
-under the wordmark plus a **credit roll** in the footer, not a dock or a rail.
+- The live shell being replaced *already is a Ticker Stage*: a sticky masthead, a
+  horizontal ticker ribbon, full-width horizontal "beats" with a sticky label
+  column and a ruled ledger. It was produced by the previous reskin cycle
+  (`.reskin/previous-poster-run/REPORT.md`).
+- `inventory.mjs` classified that shell as `marketing-stack` because frozen copy
+  mentions "panel" and "hero"; the skeleton recommender therefore proposed
+  `ticker-stage` as "different" from an archetype the page does not actually use.
+- Building Ticker Stage again would reproduce the current skeleton and fail both
+  the "visibly different skeleton" requirement and the DOM-similarity gate
+  (`maxLandmarkSimilarity 0.68`, `maxStructureSimilarity 0.50`).
+- `terminal-console` is the catalogue archetype closest to the sampled
+  "Spectrum Terminal" DNA (thin status bar, monospace data, dense three-pane
+  console, no marketing hero) and is the documented fix for a
+  "skeleton too similar" gate.
+
+Everything else from the direction is kept: dark ground, `#9945ff` accent,
+`#14f195` secondary, narrow uppercase display, IBM-Plex-style mono numerals,
+spectrum gradient shards, scanline grain, LED dots, 120 ms motion, dense rhythm.
+
+## New shell
+
+`src/App.vue` renders `SpectrumShell` regions directly (no shared layout component):
+
+```
+a.st-skip
+header.st-bar              status bar: brand + ticker telemetry + cluster + wallet
+nav.st-commands            route commands (glyph + label + count)
+div.st-work                grid: filters aside | main view | inspector aside
+  aside.st-filters         profile segment + search (+ sort on Events)
+  main#main-content.st-view
+  aside.st-detail          selected event inspector / shard field
+footer.st-foot             colophon + footer route nav
+dialog.st-dialog           preview / wallet / guide sheets
+Toast
+```
+
+Landmark sequence changed from `header > nav > div > main > footer` to
+`header > nav > aside > main > aside > footer`; nav moved out of the header, the
+ticker ribbon became a status-bar telemetry row, and the full-bleed "beats" were
+replaced by a console grid with a persistent filter pane and an inspector pane.
 
 ## Route → composition
 
-### `/` Overview (label `Ledger`)
+| Route | Filters pane | Main view | Inspector |
+|---|---|---|---|
+| Overview (`/`) | profile segment + search | readout (label, h1, lede, actions, telemetry trace), KPI cells, event ledger, board digest | Selected event (split control, facts, Model) + shard field |
+| Events (`/#markets`) | profile segment + search + sort | heading, lede, event ledger (wide mode), disclosure | shard field |
+| Receipts (`/#positions`) | — | heading, lede, receipt list, disclosure | — |
+| Chain (`/#governance`) | — | heading, lede, position statement, chain facts + capability matrix | — |
 
-1. `brd-scene--open` — statement band: label column (`SHARD TRACE / ref`) and a
-   three-column stage: headline + lede + actions (`Open events`, `Read the
-   guide`, `ILLUSTRATIVE DATA`), then the selected-event trace panel
-   (`field level · … pt spread · … 24h`, `{{ selectedField.level }}%`,
-   `SESSION TRACE · tenor`, opens/now/closes line).
-2. `brd-scene--figures` — four oversized figures as a horizontal rule row
-   (`Tracked events`, `Readings / event`, `Highest field`, `Board volume`).
-3. `brd-scene--ledger` — `EVENT LEDGER` / `Sample events` heading, filter
-   segment + search field in the page margin, then the **ledger band**
-   (`EventLedger`): a spec row and ruled rows, not cards.
-4. `brd-scene--field` — `EventBeat` (left: selected event, split slider, facts,
-   `Model a position`) and `FieldBeat` (right: axis, six horizontal readings,
-   foot figures).
-5. `brd-scene--digest` — `BOARD DIGEST` heading, `SNAPSHOT` stamp, then three
-   stacked ruled bands: `PROFILE COVERAGE`, `BIGGEST SAMPLE MOVES`,
-   `DEEPEST SAMPLE BOOKS`.
+## Component map
 
-### `/#markets` (label `Events`)
-
-1. `brd-scene--atlas` header band: `EVENT COMPARISON`, `h1 Events`, lede,
-   `{{ filteredMarkets.length }} of {{ board.events }}` stamp.
-2. Toolbar strip: filter segment, search, sort select.
-3. Ledger wall (all filtered rows, same `EventLedger` component) + `FieldBeat`
-   for the selected row + disclosure.
-
-### `/#positions` (label `Receipts`)
-
-Header band (`RECEIPT STACK`, `Saved previews`, `New model`), `ReceiptLedger`
-(each receipt a ruled band with an index stamp), disclosure.
-
-### `/#governance` (label `Chain`)
-
-Header band (`CHAIN SURFACE`, `Chain`, lede, mint stamp), then two beats:
-`POSITION IN ONE LINE` statement + `ChainLedger` (`CHAIN FACTS` fact list and
-`CAPABILITY MATRIX` as a ruled table).
-
-## Components
-
-| New | Replaces | Kept content |
-|---|---|---|
-| `BroadcastBar.vue` | `OrbitDock.vue` | wordmark, route labels + icons, position count, cluster chip, wallet button, X link |
-| `RouteRoll.vue` | `SectionIndex.vue` | second route index in the footer (keeps the label/icon multiplicity) |
-| `TickerBand.vue` | `MetricStrip.vue` | every desk figure |
-| `EventLedger.vue` | `EventGallery.vue` | spec cells, row select, row model action |
-| `FieldBeat.vue` | `ShardField.vue` | axis, six readings, foot figures |
-| `EventBeat.vue` | `FieldChamber.vue` | selected event, split slider, facts, model action, note |
-| `ReceiptLedger.vue` | `ReceiptDeck.vue` | empty state, receipt rows, remove action |
-| `ChainLedger.vue` | `ChainAtlas.vue` | chain facts, capability matrix, actions |
-| `FlowIcon.vue`, `Toast.vue` | same files | icon paths and toast message unchanged |
+| Old (deleted from render path) | New |
+|---|---|
+| `BroadcastBar.vue` | `SpectrumBar.vue` |
+| `TickerBand.vue` | folded into `SpectrumBar.vue` telemetry row |
+| `RouteRoll.vue` | `CommandNav.vue` (primary) + `ConsoleFoot.vue` (secondary) |
+| `EventLedger.vue` | `EventGrid.vue` |
+| `EventBeat.vue` | `EventInspector.vue` |
+| `FieldBeat.vue` | `ShardMeter.vue` |
+| `ReceiptLedger.vue` | `ReceiptList.vue` |
+| `ChainLedger.vue` | `ChainPanel.vue` |
+| `FlowIcon.vue` | `Glyph.vue` |
+| `Toast.vue` | `SignalToast.vue` |
 
 ## Tokens and breakpoints
 
-- New token layer in `src/style.css` (the delivery check requires that exact
-  path): `--bg`, `--surface`, `--surface-alt`, `--ink`, `--muted`, `--accent`,
-  `--accent-safe`, `--accent-2`, `--line`, `--success`, `--danger`, `--warning`,
-  `--font-display`, `--font-body`, `--font-mono`, `--border`, `--shadow`,
-  `--space-1..6`, `--page-pad`, `--max-width`, `--motion-*`. No `--orb-*` token
-  and no `orb-*` selector survives.
-- Breakpoints: 1080px (two-column beats collapse), 760px (ticker becomes a
-  scroll strip, figures wrap two-up), 420px (single column, sticky bar).
-- Mobile is a genuinely linear layout: masthead → ticker strip → scenes →
-  credit roll, not a collapsed dock.
+`src/style.css` is replaced in place (the delivery check requires this path and
+mirror parity). All selectors are new `st-*` classes; no `brd-*` selector or old
+token survives. Tokens come from `STYLE.md`, with `--accent-safe: #c6a2ff` for
+text on black (contrast 8.9:1) and `--accent` only for fills.
 
-## Out of scope
+Breakpoints: 1180 px (inspector narrows), 980 px (three panes → two, inspector
+becomes a bottom panel), 720 px (single column; filters become a horizontal
+strip, commands scroll natively, inspector follows the view). No content is
+hidden at any width.
 
-- One hash route only (`/`); `#markets`, `#positions`, `#governance` are views
-  of the same route and share the shell.
-- Sheets keep their `dialog` element, ids, labels and handlers.
-- No application logic changes: `config.js`, `data/fixtures.js`,
-  `composables/useWallet.js`, `main.js`, `polyfills.js` untouched.
+## Content invariant
+
+Every visible word, attribute value, form field, link target, binding and
+handler in `.reskin/content-contract.json` stays in the new templates at the
+same multiplicity; only markup, classes, tokens and composition change. The
+`.reskin/original-src/` directory holds the byte-for-byte pre-reskin sources.

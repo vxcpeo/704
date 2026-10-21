@@ -32,7 +32,7 @@ export const markets = [
     color: 'indigo',
     symbols: [TOKEN_SYMBOL.slice(0, 1), 'S'],
     model: 'Balanced outcome market',
-    reference: 'KAV-01',
+    reference: 'COR-01',
   },
   {
     id: 'sol-usdc',
@@ -51,7 +51,7 @@ export const markets = [
     color: 'mint',
     symbols: ['S', '$'],
     model: 'Stable outcome market',
-    reference: 'KAV-02',
+    reference: 'COR-02',
   },
   {
     id: 'index-usdc',
@@ -70,7 +70,7 @@ export const markets = [
     color: 'ember',
     symbols: [TOKEN_SYMBOL.slice(0, 1), '$'],
     model: 'Variable outcome market',
-    reference: 'KAV-03',
+    reference: 'COR-03',
   },
   {
     id: 'sol-200',
@@ -89,7 +89,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['S', '$'],
     model: 'Balanced outcome market',
-    reference: 'KAV-04',
+    reference: 'COR-04',
   },
   {
     id: 'tps-5k',
@@ -108,7 +108,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['N', 'T'],
     model: 'Balanced outcome market',
-    reference: 'KAV-05',
+    reference: 'COR-05',
   },
   {
     id: 'validator-2k',
@@ -127,7 +127,7 @@ export const markets = [
     color: 'ember',
     symbols: ['N', 'V'],
     model: 'Long-horizon outcome market',
-    reference: 'KAV-06',
+    reference: 'COR-06',
   },
   {
     id: 'fee-1m',
@@ -146,7 +146,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['N', 'F'],
     model: 'Balanced outcome market',
-    reference: 'KAV-07',
+    reference: 'COR-07',
   },
   {
     id: 'sol-drawdown',
@@ -165,7 +165,7 @@ export const markets = [
     color: 'mint',
     symbols: ['S', '$'],
     model: 'Stable outcome market',
-    reference: 'KAV-08',
+    reference: 'COR-08',
   },
   {
     id: 'raised-150',
@@ -184,7 +184,7 @@ export const markets = [
     color: 'ember',
     symbols: [TOKEN_SYMBOL.slice(0, 1), '$'],
     model: 'Long-horizon outcome market',
-    reference: 'KAV-09',
+    reference: 'COR-09',
   },
   {
     id: 'vol-under-40',
@@ -203,7 +203,7 @@ export const markets = [
     color: 'mint',
     symbols: ['S', 'V'],
     model: 'Stable outcome market',
-    reference: 'KAV-10',
+    reference: 'COR-10',
   },
   {
     id: 'etf-decision',
@@ -222,7 +222,7 @@ export const markets = [
     color: 'ember',
     symbols: ['E', 'T'],
     model: 'Variable outcome market',
-    reference: 'KAV-11',
+    reference: 'COR-11',
   },
   {
     id: 'tvl-20b',
@@ -241,7 +241,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['D', 'T'],
     model: 'Balanced outcome market',
-    reference: 'KAV-12',
+    reference: 'COR-12',
   },
   {
     id: 'stable-peg',
@@ -260,7 +260,7 @@ export const markets = [
     color: 'mint',
     symbols: ['U', '$'],
     model: 'Stable outcome market',
-    reference: 'KAV-13',
+    reference: 'COR-13',
   },
   {
     id: 'stake-yield',
@@ -279,7 +279,7 @@ export const markets = [
     color: 'mint',
     symbols: ['S', 'Y'],
     model: 'Stable outcome market',
-    reference: 'KAV-14',
+    reference: 'COR-14',
   },
   {
     id: 'liquid-stake',
@@ -298,7 +298,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['S', 'L'],
     model: 'Balanced outcome market',
-    reference: 'KAV-15',
+    reference: 'COR-15',
   },
   {
     id: 'dex-share',
@@ -317,7 +317,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['D', 'S'],
     model: 'Balanced outcome market',
-    reference: 'KAV-16',
+    reference: 'COR-16',
   },
   {
     id: 'uptime-100',
@@ -336,7 +336,7 @@ export const markets = [
     color: 'mint',
     symbols: ['N', 'U'],
     model: 'Stable outcome market',
-    reference: 'KAV-17',
+    reference: 'COR-17',
   },
   {
     id: 'blob-fees',
@@ -355,7 +355,7 @@ export const markets = [
     color: 'ember',
     symbols: ['N', 'B'],
     model: 'Long-horizon outcome market',
-    reference: 'KAV-18',
+    reference: 'COR-18',
   },
   {
     id: 'mcap-top3',
@@ -374,7 +374,7 @@ export const markets = [
     color: 'ember',
     symbols: ['S', 'R'],
     model: 'Variable outcome market',
-    reference: 'KAV-19',
+    reference: 'COR-19',
   },
   {
     id: 'gas-under',
@@ -393,7 +393,7 @@ export const markets = [
     color: 'mint',
     symbols: ['N', 'F'],
     model: 'Stable outcome market',
-    reference: 'KAV-20',
+    reference: 'COR-20',
   },
   {
     id: 'spread-tight',
@@ -412,7 +412,7 @@ export const markets = [
     color: 'mint',
     symbols: ['S', '$'],
     model: 'Stable outcome market',
-    reference: 'KAV-21',
+    reference: 'COR-21',
   },
   {
     id: 'new-high',
@@ -431,7 +431,7 @@ export const markets = [
     color: 'ember',
     symbols: ['S', '$'],
     model: 'Long-horizon outcome market',
-    reference: 'KAV-22',
+    reference: 'COR-22',
   },
   {
     id: 'fee-market',
@@ -450,7 +450,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['N', 'P'],
     model: 'Balanced outcome market',
-    reference: 'KAV-23',
+    reference: 'COR-23',
   },
   {
     id: 'yield-curve',
@@ -469,7 +469,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['R', 'C'],
     model: 'Balanced outcome market',
-    reference: 'KAV-24',
+    reference: 'COR-24',
   },
   {
     id: 'cpi-print',
@@ -488,7 +488,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['M', 'C'],
     model: 'Balanced outcome market',
-    reference: 'KAV-25',
+    reference: 'COR-25',
   },
   {
     id: 'equity-green',
@@ -507,7 +507,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['I', 'C'],
     model: 'Balanced outcome market',
-    reference: 'KAV-26',
+    reference: 'COR-26',
   },
   {
     id: 'payroll-beat',
@@ -526,7 +526,7 @@ export const markets = [
     color: 'indigo',
     symbols: ['M', 'J'],
     model: 'Balanced outcome market',
-    reference: 'KAV-27',
+    reference: 'COR-27',
   },
   {
     id: 'oil-cap',
@@ -545,7 +545,7 @@ export const markets = [
     color: 'ember',
     symbols: ['E', 'C'],
     model: 'Variable outcome market',
-    reference: 'KAV-28',
+    reference: 'COR-28',
   },
   {
     id: 'treasury-4',
@@ -564,7 +564,7 @@ export const markets = [
     color: 'mint',
     symbols: ['R', '1'],
     model: 'Stable outcome market',
-    reference: 'KAV-29',
+    reference: 'COR-29',
   },
   {
     id: 'dollar-range',
@@ -583,7 +583,7 @@ export const markets = [
     color: 'mint',
     symbols: ['D', 'B'],
     model: 'Stable outcome market',
-    reference: 'KAV-30',
+    reference: 'COR-30',
   },
   {
     id: 'halving-meme',
@@ -602,7 +602,7 @@ export const markets = [
     color: 'ember',
     symbols: ['M', 'I'],
     model: 'Long-horizon outcome market',
-    reference: 'KAV-31',
+    reference: 'COR-31',
   },
   {
     id: 'quantum-shard',
@@ -621,7 +621,7 @@ export const markets = [
     color: 'ember',
     symbols: ['R', 'S'],
     model: 'Long-horizon outcome market',
-    reference: 'KAV-32',
+    reference: 'COR-32',
   },
 ]
 
@@ -749,7 +749,7 @@ export function openProbability(market) {
 export function trendSeries(market, count = 24) {
   const target = Number(market?.probability) || 0
   const open = openProbability(market)
-  const seed = hashSeed(`${market?.reference || market?.id || 'kavrel'}::trace`)
+  const seed = hashSeed(`${market?.reference || market?.id || 'corvantis'}::trace`)
   const swing = 1.6 + ((seed % 7) / 10)
   const raw = Array.from({ length: count }, (_, index) => {
     const progress = index / (count - 1)

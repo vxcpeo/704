@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T15:55:10.241Z",
+  "project": {
+    "root": "E:/workspace/chuangye/solana/704/website",
+    "name": "kavrel-terminal",
+    "baseUrl": "http://127.0.0.1:4318/"
+  },
+  "passed": true,
+  "thresholds": {
+    "maxStructureSimilarity": 0.5,
+    "maxLandmarkSimilarity": 0.68,
+    "maxClassOverlap": 0.1,
+    "minAccentDistance": 30,
+    "maxContrastFailures": 0,
+    "maxAxeSerious": 0
+  },
+  "gates": {
+    "sourceContract": {
+      "passed": true,
+      "issues": [],
+      "warnings": [],
+      "hash": "623d3a5397a3bce834808c85a0156e170b7dcb36afddef8cb85aa8d4b233e258"
+    },
+    "skeleton": {
+      "passed": true,
+      "original": {
+        "id": "orbital",
+        "family": "spatial",
+        "traits": {
+          "sidebar": false,
+          "topbar": false,
+          "cards": true,
+          "hero": true,
+          "table": true,
+          "grid": true,
+          "tabs": true,
+          "modal": true,
+          "charts": true,
+          "sticky": true,
+          "orbital": true,
+          "terminal": false,
+          "bento": false,
+          "ticker": false,
+          "gallery": true
+        }
+      },
+      "current": {
+        "id": "marketing-stack",
+        "family": "editorial",
+        "traits": {
+          "sidebar": false,
+          "topbar": false,
+          "cards": true,
+          "hero": true,
+          "table": true,
+          "grid": true,
+          "tabs": true,
+          "modal": true,
+          "charts": true,
+          "sticky": true,
+          "orbital": false,
+          "terminal": false,
+          "bento": false,
+          "ticker": true,
+          "gallery": false
+        }
+      },
+      "accent": {
+        "original": "#40b3ff",
+        "current": "#ff0421",
+        "deltaE": 136.56,
+        "min": 30
+      }
+    },
+    "pages": [
+      {
+        "route": "/",
+        "passed": true,
+        "skipped": false,
+        "failures": [],
+        "warnings": [],
+        "structure": {
+          "fingerprintSimilarity": 0.337,
+          "landmarkSimilarity": 0.6,
+          "classOverlap": 0.009
+        },
+        "content": {
+          "missing": [],
+          "extra": [],
+          "numeric": {
+            "baseline": {
+              "tokens": 105,
+              "total": 144
+            },
+            "current": {
+              "tokens": 105,
+              "total": 144
+            }
+          }
+        },
+        "usability": {
+          "passed": true,
+          "failures": [],
+          "warnings": [],
+          "axe": {
+            "serious": [],
+            "moderate": []
+          }
+        },
+        "screenshots": {
+          "desktop": "current/home-desktop.png",
+          "mobile": "current/home-mobile.png"
+        }
+      }
+    ]
+  },
+  "failures": [],
+  "warnings": [],
+  "baseline": {
+    "generatedAt": "2026-10-20T15:36:48.016Z",
+    "routes": [
+      "/"
+    ]
+  }
+}

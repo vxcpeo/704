@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "meta": {
-    "projectName": "kavrel-terminal",
-    "title": "kavrel-terminal",
+    "projectName": "corvantis-terminal",
+    "title": "corvantis-terminal",
     "lang": "en"
   },
   "routes": [
@@ -1126,7 +1126,7 @@
     {
       "kind": "interpolation",
       "expr": "market.reference",
-      "count": 9
+      "count": 8
     },
     {
       "kind": "interpolation",

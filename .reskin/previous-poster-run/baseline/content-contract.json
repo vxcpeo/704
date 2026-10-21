@@ -1,0 +1,1650 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "projectName": "kavrel-terminal",
+    "title": "kavrel-terminal",
+    "lang": "en"
+  },
+  "routes": [
+    "/"
+  ],
+  "visibleText": [
+    {
+      "value": ". The candidate destination",
+      "count": 2
+    },
+    {
+      "value": "· read-only workspace ·",
+      "count": 2
+    },
+    {
+      "value": "· YES / NO",
+      "count": 2
+    },
+    {
+      "value": "/ 2",
+      "count": 2
+    },
+    {
+      "value": "% · closes",
+      "count": 2
+    },
+    {
+      "value": "% · mean",
+      "count": 2
+    },
+    {
+      "value": "% · now",
+      "count": 2
+    },
+    {
+      "value": "01",
+      "count": 2
+    },
+    {
+      "value": "01 / 03",
+      "count": 2
+    },
+    {
+      "value": "02",
+      "count": 2
+    },
+    {
+      "value": "03",
+      "count": 2
+    },
+    {
+      "value": "24h",
+      "count": 2
+    },
+    {
+      "value": "24H MOVERS",
+      "count": 2
+    },
+    {
+      "value": "24h volume",
+      "count": 6
+    },
+    {
+      "value": "4%",
+      "count": 2
+    },
+    {
+      "value": "9 / 0",
+      "count": 2
+    },
+    {
+      "value": "96%",
+      "count": 2
+    },
+    {
+      "value": "a negative one. No figure is read from a market program, an oracle or an RPC node.",
+      "count": 2
+    },
+    {
+      "value": "All figures on this screen are illustrative interface fixtures. No market program, oracle or settlement path is deployed.",
+      "count": 2
+    },
+    {
+      "value": "Back to amount",
+      "count": 2
+    },
+    {
+      "value": "Biggest move",
+      "count": 2
+    },
+    {
+      "value": "BIGGEST SAMPLE MOVES",
+      "count": 2
+    },
+    {
+      "value": "BOARD DIGEST",
+      "count": 2
+    },
+    {
+      "value": "Board volume",
+      "count": 2
+    },
+    {
+      "value": "Capability",
+      "count": 2
+    },
+    {
+      "value": "CAPABILITY MATRIX",
+      "count": 2
+    },
+    {
+      "value": "Chain",
+      "count": 2
+    },
+    {
+      "value": "CHAIN FACTS",
+      "count": 2
+    },
+    {
+      "value": "CHAIN SURFACE",
+      "count": 2
+    },
+    {
+      "value": "Choose an event, set an amount and save it for this session only.",
+      "count": 2
+    },
+    {
+      "value": "Close guide",
+      "count": 2
+    },
+    {
+      "value": "Closing soonest",
+      "count": 2
+    },
+    {
+      "value": "Cluster",
+      "count": 2
+    },
+    {
+      "value": "Compare illustrative Solana prediction-market scenarios, tune a sample YES / NO split, and keep every preview inside this browser tab.",
+      "count": 2
+    },
+    {
+      "value": "Configured mint",
+      "count": 2
+    },
+    {
+      "value": "Configured outcome mint",
+      "count": 2
+    },
+    {
+      "value": "Data state",
+      "count": 2
+    },
+    {
+      "value": "Decimals / supply",
+      "count": 2
+    },
+    {
+      "value": "DEEPEST SAMPLE BOOKS",
+      "count": 2
+    },
+    {
+      "value": "Depth",
+      "count": 2
+    },
+    {
+      "value": "DEPTH",
+      "count": 2
+    },
+    {
+      "value": "Derived from the selected event's sample probability and depth.",
+      "count": 2
+    },
+    {
+      "value": "Digest totals are sums of the illustrative fixtures above:",
+      "count": 2
+    },
+    {
+      "value": "Disabled",
+      "count": 2
+    },
+    {
+      "value": "Disconnect",
+      "count": 2
+    },
+    {
+      "value": "Dispersion",
+      "count": 2
+    },
+    {
+      "value": "Each row is a local model. Nothing was submitted, matched or settled.",
+      "count": 2
+    },
+    {
+      "value": "Enter a practice amount and review the YES / NO outcome split.",
+      "count": 2
+    },
+    {
+      "value": "Event",
+      "count": 6
+    },
+    {
+      "value": "EVENT COMPARISON",
+      "count": 2
+    },
+    {
+      "value": "EVENT LEDGER",
+      "count": 2
+    },
+    {
+      "value": "Events",
+      "count": 2
+    },
+    {
+      "value": "EVENTS",
+      "count": 2
+    },
+    {
+      "value": "events carry a positive sample move and",
+      "count": 2
+    },
+    {
+      "value": "Every probability, field level, depth and volume figure on this page is interface sample data for a simulated prediction-market workflow, not live market data. Wallet access is optional and reads only native SOL plus outcome shares from",
+      "count": 2
+    },
+    {
+      "value": "Featured",
+      "count": 2
+    },
+    {
+      "value": "FIELD",
+      "count": 2
+    },
+    {
+      "value": "Field level",
+      "count": 8
+    },
+    {
+      "value": "field level ·",
+      "count": 2
+    },
+    {
+      "value": "Field levels and shard readings are illustrative fixtures derived from the selected row.",
+      "count": 2
+    },
+    {
+      "value": "Freeze authority",
+      "count": 2
+    },
+    {
+      "value": "Highest field",
+      "count": 2
+    },
+    {
+      "value": "I understand this model places no order and settles no contract.",
+      "count": 2
+    },
+    {
+      "value": "Illustrative",
+      "count": 2
+    },
+    {
+      "value": "ILLUSTRATIVE",
+      "count": 2
+    },
+    {
+      "value": "ILLUSTRATIVE DATA",
+      "count": 2
+    },
+    {
+      "value": "illustrative events across",
+      "count": 2
+    },
+    {
+      "value": "Illustrative probability",
+      "count": 4
+    },
+    {
+      "value": "is a",
+      "count": 2
+    },
+    {
+      "value": "is an unregistered candidate destination",
+      "count": 2
+    },
+    {
+      "value": "is unregistered.",
+      "count": 2
+    },
+    {
+      "value": "Lead reading",
+      "count": 2
+    },
+    {
+      "value": "LOCAL PREVIEW",
+      "count": 2
+    },
+    {
+      "value": "M",
+      "count": 18
+    },
+    {
+      "value": "M 24h ·",
+      "count": 2
+    },
+    {
+      "value": "M of sample open interest.",
+      "count": 2
+    },
+    {
+      "value": "Manage wallet",
+      "count": 2
+    },
+    {
+      "value": "Market depth",
+      "count": 4
+    },
+    {
+      "value": "Mint authority",
+      "count": 2
+    },
+    {
+      "value": "Model",
+      "count": 4
+    },
+    {
+      "value": "Model a position",
+      "count": 2
+    },
+    {
+      "value": "Model a position in",
+      "count": 2
+    },
+    {
+      "value": "New model",
+      "count": 2
+    },
+    {
+      "value": "No matching events",
+      "count": 4
+    },
+    {
+      "value": "No mint address is configured for this cluster.",
+      "count": 2
+    },
+    {
+      "value": "No order, settlement or consensus program is available here.",
+      "count": 2
+    },
+    {
+      "value": "No saved models",
+      "count": 2
+    },
+    {
+      "value": "No wallet signature and no asset movement is possible here.",
+      "count": 2
+    },
+    {
+      "value": "None",
+      "count": 2
+    },
+    {
+      "value": "of",
+      "count": 2
+    },
+    {
+      "value": "Open events",
+      "count": 6
+    },
+    {
+      "value": "Open Explorer",
+      "count": 2
+    },
+    {
+      "value": "Open the mint on Explorer",
+      "count": 2
+    },
+    {
+      "value": "opens",
+      "count": 2
+    },
+    {
+      "value": "Outcome asset",
+      "count": 2
+    },
+    {
+      "value": "Outcome shares",
+      "count": 2
+    },
+    {
+      "value": "Outcome split",
+      "count": 2
+    },
+    {
+      "value": "Pick an event.",
+      "count": 2
+    },
+    {
+      "value": "POSITION IN ONE LINE",
+      "count": 2
+    },
+    {
+      "value": "Practice amount",
+      "count": 6
+    },
+    {
+      "value": "prediction-market desk for comparing sample event scenarios and keeping local receipts.",
+      "count": 2
+    },
+    {
+      "value": "PREVIEW",
+      "count": 2
+    },
+    {
+      "value": "Preview only. No order is placed and no funds move.",
+      "count": 2
+    },
+    {
+      "value": "Profile",
+      "count": 2
+    },
+    {
+      "value": "PROFILE COVERAGE",
+      "count": 2
+    },
+    {
+      "value": "profiles,",
+      "count": 2
+    },
+    {
+      "value": "pt",
+      "count": 4
+    },
+    {
+      "value": "pt spread",
+      "count": 2
+    },
+    {
+      "value": "pt spread ·",
+      "count": 2
+    },
+    {
+      "value": "QUICK GUIDE",
+      "count": 2
+    },
+    {
+      "value": "R",
+      "count": 2
+    },
+    {
+      "value": "Read the guide",
+      "count": 2
+    },
+    {
+      "value": "Reading the shard field",
+      "count": 2
+    },
+    {
+      "value": "READINGS",
+      "count": 2
+    },
+    {
+      "value": "readings ·",
+      "count": 2
+    },
+    {
+      "value": "Readings / event",
+      "count": 2
+    },
+    {
+      "value": "reads balances from an injected Solana wallet and never requests a signature in this workspace.",
+      "count": 2
+    },
+    {
+      "value": "RECEIPT STACK",
+      "count": 2
+    },
+    {
+      "value": "Ref",
+      "count": 2
+    },
+    {
+      "value": "Reference",
+      "count": 2
+    },
+    {
+      "value": "Reset filters",
+      "count": 4
+    },
+    {
+      "value": "Retained",
+      "count": 2
+    },
+    {
+      "value": "Review before saving",
+      "count": 2
+    },
+    {
+      "value": "Review position",
+      "count": 2
+    },
+    {
+      "value": "S",
+      "count": 4
+    },
+    {
+      "value": "Sample events",
+      "count": 2
+    },
+    {
+      "value": "sample traders",
+      "count": 2
+    },
+    {
+      "value": "Save local receipt",
+      "count": 2
+    },
+    {
+      "value": "Save locally.",
+      "count": 2
+    },
+    {
+      "value": "SAVED",
+      "count": 2
+    },
+    {
+      "value": "Saved previews",
+      "count": 2
+    },
+    {
+      "value": "Scope",
+      "count": 2
+    },
+    {
+      "value": "SELECTED EVENT",
+      "count": 2
+    },
+    {
+      "value": "SESSION TRACE ·",
+      "count": 2
+    },
+    {
+      "value": "Set the split.",
+      "count": 2
+    },
+    {
+      "value": "Settlement",
+      "count": 2
+    },
+    {
+      "value": "SHARD FIELD",
+      "count": 2
+    },
+    {
+      "value": "shard readings and $",
+      "count": 2
+    },
+    {
+      "value": "SHARD TRACE /",
+      "count": 2
+    },
+    {
+      "value": "Simulation",
+      "count": 2
+    },
+    {
+      "value": "Simulation only: no orders, no settlement and no accrued returns. Receipts live in this browser tab.",
+      "count": 2
+    },
+    {
+      "value": "Skip to content",
+      "count": 2
+    },
+    {
+      "value": "SNAPSHOT",
+      "count": 2
+    },
+    {
+      "value": "SOL balance",
+      "count": 2
+    },
+    {
+      "value": "Sort",
+      "count": 2
+    },
+    {
+      "value": "Sort and filter the sample prediction-market board, then open an event to read its shard field in detail.",
+      "count": 2
+    },
+    {
+      "value": "Spread",
+      "count": 2
+    },
+    {
+      "value": "State",
+      "count": 2
+    },
+    {
+      "value": "Status",
+      "count": 2
+    },
+    {
+      "value": "STEP",
+      "count": 2
+    },
+    {
+      "value": "Stored in this browser tab only.",
+      "count": 2
+    },
+    {
+      "value": "The receipt is written to this browser tab only.",
+      "count": 2
+    },
+    {
+      "value": "Tracked events",
+      "count": 2
+    },
+    {
+      "value": "Try another profile or clear the search field.",
+      "count": 4
+    },
+    {
+      "value": "VOLUME",
+      "count": 2
+    },
+    {
+      "value": "WALLET READER",
+      "count": 2
+    },
+    {
+      "value": "What the sample board holds",
+      "count": 2
+    },
+    {
+      "value": "What this workspace can and cannot do on the configured cluster.",
+      "count": 2
+    },
+    {
+      "value": "YES / classic SPL",
+      "count": 2
+    },
+    {
+      "value": "YES / NO mix",
+      "count": 2
+    },
+    {
+      "value": "YES / NO split",
+      "count": 4
+    }
+  ],
+  "hiddenText": [
+    {
+      "value": "Program availability on the configured cluster",
+      "count": 2
+    }
+  ],
+  "attributes": [
+    {
+      "name": "href",
+      "value": "#main-content",
+      "count": 2
+    },
+    {
+      "name": "href",
+      "value": "#overview",
+      "count": 2
+    },
+    {
+      "name": "name",
+      "value": "arrow",
+      "count": 12
+    },
+    {
+      "name": "name",
+      "value": "book",
+      "count": 2
+    },
+    {
+      "name": "name",
+      "value": "check",
+      "count": 6
+    },
+    {
+      "name": "name",
+      "value": "close",
+      "count": 6
+    },
+    {
+      "name": "name",
+      "value": "expand",
+      "count": 2
+    },
+    {
+      "name": "name",
+      "value": "external",
+      "count": 6
+    },
+    {
+      "name": "name",
+      "value": "info",
+      "count": 8
+    },
+    {
+      "name": "name",
+      "value": "plus",
+      "count": 2
+    },
+    {
+      "name": "name",
+      "value": "refresh",
+      "count": 2
+    },
+    {
+      "name": "name",
+      "value": "search",
+      "count": 8
+    },
+    {
+      "name": "name",
+      "value": "shield",
+      "count": 4
+    },
+    {
+      "name": "name",
+      "value": "ticket",
+      "count": 2
+    },
+    {
+      "name": "name",
+      "value": "trash",
+      "count": 2
+    },
+    {
+      "name": "name",
+      "value": "wallet",
+      "count": 8
+    },
+    {
+      "name": "placeholder",
+      "value": "0.00",
+      "count": 2
+    },
+    {
+      "name": "placeholder",
+      "value": "Search events",
+      "count": 4
+    },
+    {
+      "name": "title",
+      "value": "Close guide",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "value": "Close preview",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "value": "Close wallet panel",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "value": "Full event list",
+      "count": 2
+    },
+    {
+      "name": "title",
+      "value": "Remove preview",
+      "count": 2
+    },
+    {
+      "name": "value",
+      "value": "closing",
+      "count": 2
+    },
+    {
+      "name": "value",
+      "value": "depth",
+      "count": 2
+    },
+    {
+      "name": "value",
+      "value": "featured",
+      "count": 2
+    },
+    {
+      "name": "value",
+      "value": "move",
+      "count": 2
+    },
+    {
+      "name": "value",
+      "value": "probability",
+      "count": 2
+    },
+    {
+      "name": "value",
+      "value": "volume",
+      "count": 2
+    }
+  ],
+  "bindings": [
+    {
+      "kind": "asset",
+      "expr": "BRAND_MARK_URL",
+      "count": 2
+    },
+    {
+      "kind": "attr",
+      "expr": "'#' + page.toLowerCase()",
+      "count": 4
+    },
+    {
+      "kind": "attr",
+      "expr": "`https://explorer.solana.com/address/${TOKEN_MINT}?cluster=testnet`",
+      "count": 2
+    },
+    {
+      "kind": "attr",
+      "expr": "allocation",
+      "count": 2
+    },
+    {
+      "kind": "attr",
+      "expr": "BRAND_MARK_URL",
+      "count": 2
+    },
+    {
+      "kind": "attr",
+      "expr": "icons[page]",
+      "count": 4
+    },
+    {
+      "kind": "attr",
+      "expr": "SOCIAL_URL",
+      "count": 2
+    },
+    {
+      "kind": "attr",
+      "expr": "TOKEN_EXPLORER_URL",
+      "count": 2
+    },
+    {
+      "kind": "form",
+      "expr": "icons[page]",
+      "count": 4
+    },
+    {
+      "kind": "interpolation",
+      "expr": "100 - (position.allocation || 50)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "100 - allocation",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "account",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "allocation",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "allocationLabel",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "amount",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "amountError",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "amountFor(position.amount)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "board.events",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "board.falling",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "board.highestFieldLevel",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "board.readings",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "board.rising",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "board.totalOpenInterest",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "board.totalVolume",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "BRAND_DOMAIN",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "BRAND_NAME",
+      "count": 8
+    },
+    {
+      "kind": "interpolation",
+      "expr": "BRAND_NAME.toUpperCase()",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "BRAND_SLUG.toUpperCase()",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "BRAND_TAGLINE",
+      "count": 4
+    },
+    {
+      "kind": "interpolation",
+      "expr": "categoryLabel(market.profile)",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "categoryLabel(marketFor(position).profile)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "CLUSTER_LABEL",
+      "count": 14
+    },
+    {
+      "kind": "interpolation",
+      "expr": "CLUSTER_LABEL.toUpperCase()",
+      "count": 4
+    },
+    {
+      "kind": "interpolation",
+      "expr": "connected ? 'Wallet connected' : 'Connect to read balances'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "connected ? shortAccount : 'Connect'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "connected ? shortAccount : 'No wallet connected'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "dateFor(position.createdAt)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "depth",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "displayAmount(reviewedAmount)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "displayDate('2026-10-11T00:00:00.000Z').toUpperCase()",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "displayDate(selectedMarket.closesAt)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "displayToken(selectedMarket.token)",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "eventHeadline(market)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "eventHeadline(selectedMarket)",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "eventName(market)",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "eventName(marketFor(position))",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "events",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "fieldLevel",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "fields[market.id]?.level ?? market.probability",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "fields[market.id]?.spread ?? '—'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "filteredMarkets.length",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "HERO_HEADLINE",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "index + 1",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "isConnecting ? 'Connecting…' : 'Connect wallet'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "isRefreshing ? 'Refreshing…' : 'Refresh'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "isRefreshing ? 'Refreshing…' : balance ?? '—'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "labels[page]",
+      "count": 4
+    },
+    {
+      "kind": "interpolation",
+      "expr": "lead + 1",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "level",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "market.depth",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "market.model",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "market.name",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "market.probability",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "market.reference",
+      "count": 8
+    },
+    {
+      "kind": "interpolation",
+      "expr": "market.tenor",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "market.traders.toLocaleString('en-US')",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "market.volume",
+      "count": 6
+    },
+    {
+      "kind": "interpolation",
+      "expr": "marketFor(position).reference",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "message",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "movers",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "noLabel",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "openProbability(selectedMarket)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "option.label",
+      "count": 4
+    },
+    {
+      "kind": "interpolation",
+      "expr": "position.allocation || 50",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "positionCount",
+      "count": 4
+    },
+    {
+      "kind": "interpolation",
+      "expr": "previewStep",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "profiles.length",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "readings",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "readings.length",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.capability",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.events",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.label",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.meanProbability",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.note",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.scope",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.share",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.status",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "row.volume",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "saved",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "selectedField.level",
+      "count": 4
+    },
+    {
+      "kind": "interpolation",
+      "expr": "selectedField.spread",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "selectedMarket.probability",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "selectedMarket.reference",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "selectedMarket.tenor.toUpperCase()",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "SHARD_COUNT",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "signedPercent(market.change24h)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "signedPercent(selectedMarket.change24h)",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "spread",
+      "count": 4
+    },
+    {
+      "kind": "interpolation",
+      "expr": "String(index + 1).padStart(2, '0')",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "TOKEN_MINT",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "TOKEN_MINT ? 'MINT CONFIGURED' : 'NO MINT'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "TOKEN_MINT ? 'PROGRAMS PENDING' : 'NOTHING DEPLOYED'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "TOKEN_MINT || 'Not configured'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "TOKEN_SYMBOL",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "tokenBalance ?? '—'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "tokenConfigured ? 'MINT CONFIGURED' : 'NO MINT'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "tokenConfigured ? 'MINT READABLE' : 'AWAITING DEPLOYMENT'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "tokenConfigured ? 'The outcome mint exists. The market does not.' : 'Nothing is deployed yet.'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "tokenConfigured ? `A classic SPL outcome mint is configured on ${CLUSTER_LABEL} with 9 decimals and zero supply. No market, oracle, faucet or settlement program is deployed, so every event and position here stays illustrative.` : 'No outcome mint, market program or oracle is configured for this workspace.'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "tokenError || tokenNotice",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "value",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "value >= level ? 'above field' : 'below field'",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "volume",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "walletError",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "walletStatus",
+      "count": 2
+    },
+    {
+      "kind": "interpolation",
+      "expr": "yesLabel",
+      "count": 4
+    },
+    {
+      "kind": "link",
+      "expr": "'#' + page.toLowerCase()",
+      "count": 4
+    },
+    {
+      "kind": "link",
+      "expr": "`https://explorer.solana.com/address/${TOKEN_MINT}?cluster=testnet`",
+      "count": 2
+    },
+    {
+      "kind": "link",
+      "expr": "SOCIAL_URL",
+      "count": 2
+    },
+    {
+      "kind": "link",
+      "expr": "TOKEN_EXPLORER_URL",
+      "count": 2
+    },
+    {
+      "kind": "model",
+      "expr": "acknowledged",
+      "count": 2
+    },
+    {
+      "kind": "model",
+      "expr": "previewAmount",
+      "count": 2
+    },
+    {
+      "kind": "model",
+      "expr": "search",
+      "count": 4
+    },
+    {
+      "kind": "model",
+      "expr": "sort",
+      "count": 2
+    },
+    {
+      "kind": "prop",
+      "expr": "toast",
+      "count": 2
+    }
+  ],
+  "events": [
+    {
+      "event": "click",
+      "handler": "closeModal",
+      "count": 8
+    },
+    {
+      "event": "click",
+      "handler": "connect",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "copyAddress",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "disconnect",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "document.getElementById('main-content')?.focus()",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('browse')",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('go', 'Markets')",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('go', 'Overview')",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('go', page)",
+      "count": 4
+    },
+    {
+      "event": "click",
+      "handler": "emit('model', market)",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('model')",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('open-markets')",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('remove', position)",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('select', market)",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "emit('wallet')",
+      "count": 4
+    },
+    {
+      "event": "click",
+      "handler": "filter = option.value",
+      "count": 4
+    },
+    {
+      "event": "click",
+      "handler": "filter = row.profile; goTo('Markets')",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "goTo('Markets')",
+      "count": 4
+    },
+    {
+      "event": "click",
+      "handler": "onBackdrop",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "openModal('docs')",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "previewAmount = amount",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "previewStep = 1",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "refreshBalances",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "resetFilters",
+      "count": 4
+    },
+    {
+      "event": "click",
+      "handler": "reviewPreview",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "savePreview",
+      "count": 2
+    },
+    {
+      "event": "click",
+      "handler": "selectMarket(market); goTo('Markets')",
+      "count": 4
+    },
+    {
+      "event": "close",
+      "handler": "onSheetClose",
+      "count": 2
+    },
+    {
+      "event": "input",
+      "handler": "emit('update:allocation', Number($event.target.value))",
+      "count": 2
+    },
+    {
+      "event": "keydown",
+      "handler": "emit('select', market)",
+      "count": 4
+    },
+    {
+      "event": "keydown",
+      "handler": "reviewPreview",
+      "count": 2
+    }
+  ],
+  "links": [
+    {
+      "kind": "href",
+      "target": "#main-content",
+      "count": 2
+    },
+    {
+      "kind": "href",
+      "target": "#overview",
+      "count": 2
+    }
+  ],
+  "assets": [],
+  "forms": [
+    {
+      "tag": "input",
+      "name": "",
+      "type": "",
+      "count": 2
+    },
+    {
+      "tag": "input",
+      "name": "",
+      "type": "checkbox",
+      "count": 2
+    },
+    {
+      "tag": "input",
+      "name": "",
+      "type": "range",
+      "count": 2
+    },
+    {
+      "tag": "input",
+      "name": "",
+      "type": "search",
+      "count": 4
+    },
+    {
+      "tag": "select",
+      "name": "",
+      "type": "",
+      "count": 2
+    }
+  ],
+  "i18n": [],
+  "i18nKeys": [],
+  "i18nFiles": [],
+  "api": [],
+  "env": [
+    "VITE_SOLANA_CLUSTER",
+    "VITE_SOLANA_EXPLORER_URL",
+    "VITE_SOLANA_RPC_URL",
+    "VITE_TOKEN_MINT",
+    "VITE_X_URL"
+  ]
+}

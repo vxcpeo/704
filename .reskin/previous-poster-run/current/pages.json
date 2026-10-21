@@ -1,0 +1,5496 @@
+{
+  "schemaVersion": 1,
+  "label": "current",
+  "generatedAt": "2026-10-20T15:55:04.376Z",
+  "baseUrl": "http://127.0.0.1:4318/",
+  "browser": {
+    "executablePath": "C:\\Users\\Administrator\\AppData\\Local\\ms-playwright\\chromium-1247\\chrome-win64\\chrome.exe",
+    "playwrightSource": "reskin-tools",
+    "axe": true
+  },
+  "pages": {
+    "/": {
+      "route": "/",
+      "url": "http://127.0.0.1:4318/",
+      "status": 200,
+      "desktop": {
+        "meta": {
+          "title": "Ledger | Kavrel",
+          "lang": "en",
+          "h1Count": 1,
+          "bodyTextLength": 7842,
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "focusableCount": 100
+        },
+        "words": [
+          {
+            "word": "$0.01",
+            "count": 2
+          },
+          {
+            "word": "$0.16M",
+            "count": 1
+          },
+          {
+            "word": "$0.22M",
+            "count": 1
+          },
+          {
+            "word": "$0.28M",
+            "count": 1
+          },
+          {
+            "word": "$0.38M",
+            "count": 1
+          },
+          {
+            "word": "$0.44M",
+            "count": 1
+          },
+          {
+            "word": "$0.61M",
+            "count": 1
+          },
+          {
+            "word": "$0.92M",
+            "count": 1
+          },
+          {
+            "word": "$1.06M",
+            "count": 1
+          },
+          {
+            "word": "$1.14M",
+            "count": 1
+          },
+          {
+            "word": "$1.32M",
+            "count": 1
+          },
+          {
+            "word": "$1.88M",
+            "count": 1
+          },
+          {
+            "word": "$10.4M",
+            "count": 1
+          },
+          {
+            "word": "$104.2M",
+            "count": 1
+          },
+          {
+            "word": "$11.3M",
+            "count": 2
+          },
+          {
+            "word": "$11072.1M",
+            "count": 2
+          },
+          {
+            "word": "$12.4M",
+            "count": 1
+          },
+          {
+            "word": "$12.7M",
+            "count": 2
+          },
+          {
+            "word": "$14.2M",
+            "count": 2
+          },
+          {
+            "word": "$1408.5M",
+            "count": 2
+          },
+          {
+            "word": "$158.9M",
+            "count": 1
+          },
+          {
+            "word": "$16.2M",
+            "count": 2
+          },
+          {
+            "word": "$168.3M",
+            "count": 1
+          },
+          {
+            "word": "$184.2M",
+            "count": 2
+          },
+          {
+            "word": "$184.74M",
+            "count": 1
+          },
+          {
+            "word": "$19.4M",
+            "count": 1
+          },
+          {
+            "word": "$2.42M",
+            "count": 1
+          },
+          {
+            "word": "$2.84M",
+            "count": 2
+          },
+          {
+            "word": "$200",
+            "count": 1
+          },
+          {
+            "word": "$20B",
+            "count": 1
+          },
+          {
+            "word": "$21.6M",
+            "count": 2
+          },
+          {
+            "word": "$212.6M",
+            "count": 1
+          },
+          {
+            "word": "$24.8M",
+            "count": 1
+          },
+          {
+            "word": "$246.7M",
+            "count": 1
+          },
+          {
+            "word": "$250",
+            "count": 2
+          },
+          {
+            "word": "$268.4M",
+            "count": 1
+          },
+          {
+            "word": "$28.6M",
+            "count": 1
+          },
+          {
+            "word": "$296.8M",
+            "count": 1
+          },
+          {
+            "word": "$3.18M",
+            "count": 1
+          },
+          {
+            "word": "$3.72M",
+            "count": 1
+          },
+          {
+            "word": "$318.5M",
+            "count": 1
+          },
+          {
+            "word": "$344.9M",
+            "count": 1
+          },
+          {
+            "word": "$380M",
+            "count": 1
+          },
+          {
+            "word": "$388.2M",
+            "count": 1
+          },
+          {
+            "word": "$4.05M",
+            "count": 1
+          },
+          {
+            "word": "$4.28M",
+            "count": 1
+          },
+          {
+            "word": "$402.7M",
+            "count": 1
+          },
+          {
+            "word": "$41.7M",
+            "count": 1
+          },
+          {
+            "word": "$4252.3M",
+            "count": 1
+          },
+          {
+            "word": "$428.1M",
+            "count": 1
+          },
+          {
+            "word": "$466.2M",
+            "count": 1
+          },
+          {
+            "word": "$5.36M",
+            "count": 1
+          },
+          {
+            "word": "$52.1M",
+            "count": 1
+          },
+          {
+            "word": "$524.1M",
+            "count": 2
+          },
+          {
+            "word": "$534.6M",
+            "count": 1
+          },
+          {
+            "word": "$588.4M",
+            "count": 1
+          },
+          {
+            "word": "$6.42M",
+            "count": 1
+          },
+          {
+            "word": "$6.88M",
+            "count": 1
+          },
+          {
+            "word": "$6104.8M",
+            "count": 1
+          },
+          {
+            "word": "$612.4M",
+            "count": 1
+          },
+          {
+            "word": "$618.9M",
+            "count": 2
+          },
+          {
+            "word": "$7.14M",
+            "count": 1
+          },
+          {
+            "word": "$7.62M",
+            "count": 1
+          },
+          {
+            "word": "$712.8M",
+            "count": 1
+          },
+          {
+            "word": "$715M",
+            "count": 1
+          },
+          {
+            "word": "$74.8M",
+            "count": 1
+          },
+          {
+            "word": "$742.3M",
+            "count": 2
+          },
+          {
+            "word": "$8.36M",
+            "count": 1
+          },
+          {
+            "word": "$8.91M",
+            "count": 1
+          },
+          {
+            "word": "$85",
+            "count": 2
+          },
+          {
+            "word": "$88.6M",
+            "count": 1
+          },
+          {
+            "word": "$9.15M",
+            "count": 1
+          },
+          {
+            "word": "$9.6M",
+            "count": 1
+          },
+          {
+            "word": "$902.6M",
+            "count": 2
+          },
+          {
+            "word": "$96.4M",
+            "count": 1
+          },
+          {
+            "word": "0",
+            "count": 1
+          },
+          {
+            "word": "1,000",
+            "count": 1
+          },
+          {
+            "word": "1.8%",
+            "count": 1
+          },
+          {
+            "word": "1.9",
+            "count": 1
+          },
+          {
+            "word": "10",
+            "count": 4
+          },
+          {
+            "word": "10-year",
+            "count": 1
+          },
+          {
+            "word": "100%",
+            "count": 1
+          },
+          {
+            "word": "10Y",
+            "count": 1
+          },
+          {
+            "word": "11",
+            "count": 2
+          },
+          {
+            "word": "12",
+            "count": 1
+          },
+          {
+            "word": "12%",
+            "count": 1
+          },
+          {
+            "word": "14.9%",
+            "count": 1
+          },
+          {
+            "word": "17",
+            "count": 1
+          },
+          {
+            "word": "17.1%",
+            "count": 1
+          },
+          {
+            "word": "192",
+            "count": 1
+          },
+          {
+            "word": "2,000",
+            "count": 1
+          },
+          {
+            "word": "2,240",
+            "count": 1
+          },
+          {
+            "word": "2,480",
+            "count": 1
+          },
+          {
+            "word": "2.1",
+            "count": 1
+          },
+          {
+            "word": "2.3",
+            "count": 1
+          },
+          {
+            "word": "2.6",
+            "count": 1
+          },
+          {
+            "word": "2%",
+            "count": 1
+          },
+          {
+            "word": "20",
+            "count": 1
+          },
+          {
+            "word": "20.4%",
+            "count": 1
+          },
+          {
+            "word": "22.8%",
+            "count": 1
+          },
+          {
+            "word": "24h",
+            "count": 8
+          },
+          {
+            "word": "24H",
+            "count": 1
+          },
+          {
+            "word": "27.5%",
+            "count": 1
+          },
+          {
+            "word": "28.6%",
+            "count": 1
+          },
+          {
+            "word": "3",
+            "count": 1
+          },
+          {
+            "word": "3,180",
+            "count": 1
+          },
+          {
+            "word": "3,410",
+            "count": 1
+          },
+          {
+            "word": "3.1",
+            "count": 1
+          },
+          {
+            "word": "3.6",
+            "count": 1
+          },
+          {
+            "word": "3.7",
+            "count": 2
+          },
+          {
+            "word": "3.8",
+            "count": 1
+          },
+          {
+            "word": "3%",
+            "count": 1
+          },
+          {
+            "word": "31",
+            "count": 1
+          },
+          {
+            "word": "31.3%",
+            "count": 2
+          },
+          {
+            "word": "31.6%",
+            "count": 1
+          },
+          {
+            "word": "32",
+            "count": 3
+          },
+          {
+            "word": "33%",
+            "count": 1
+          },
+          {
+            "word": "37.5%",
+            "count": 1
+          },
+          {
+            "word": "39.1%",
+            "count": 1
+          },
+          {
+            "word": "4",
+            "count": 6
+          },
+          {
+            "word": "4.1",
+            "count": 1
+          },
+          {
+            "word": "4.2",
+            "count": 1
+          },
+          {
+            "word": "4.3",
+            "count": 1
+          },
+          {
+            "word": "4.4",
+            "count": 3
+          },
+          {
+            "word": "4.5",
+            "count": 1
+          },
+          {
+            "word": "4.5%",
+            "count": 1
+          },
+          {
+            "word": "4.7",
+            "count": 1
+          },
+          {
+            "word": "4.8",
+            "count": 4
+          },
+          {
+            "word": "4.8%",
+            "count": 1
+          },
+          {
+            "word": "4.9",
+            "count": 1
+          },
+          {
+            "word": "4%",
+            "count": 1
+          },
+          {
+            "word": "40%",
+            "count": 1
+          },
+          {
+            "word": "42.6%",
+            "count": 1
+          },
+          {
+            "word": "45.4%",
+            "count": 1
+          },
+          {
+            "word": "48.2%",
+            "count": 1
+          },
+          {
+            "word": "5",
+            "count": 3
+          },
+          {
+            "word": "5,000",
+            "count": 1
+          },
+          {
+            "word": "5,240",
+            "count": 1
+          },
+          {
+            "word": "5.1",
+            "count": 3
+          },
+          {
+            "word": "5.2",
+            "count": 3
+          },
+          {
+            "word": "5.4%",
+            "count": 1
+          },
+          {
+            "word": "50.3%",
+            "count": 1
+          },
+          {
+            "word": "50%",
+            "count": 5
+          },
+          {
+            "word": "53%",
+            "count": 1
+          },
+          {
+            "word": "55.1%",
+            "count": 1
+          },
+          {
+            "word": "55.4%",
+            "count": 1
+          },
+          {
+            "word": "55.9%",
+            "count": 1
+          },
+          {
+            "word": "57.8%",
+            "count": 1
+          },
+          {
+            "word": "58.2%",
+            "count": 1
+          },
+          {
+            "word": "6",
+            "count": 3
+          },
+          {
+            "word": "6.8%",
+            "count": 1
+          },
+          {
+            "word": "6%",
+            "count": 2
+          },
+          {
+            "word": "60.1%",
+            "count": 1
+          },
+          {
+            "word": "62.4%",
+            "count": 1
+          },
+          {
+            "word": "63.2%",
+            "count": 1
+          },
+          {
+            "word": "66.3%",
+            "count": 1
+          },
+          {
+            "word": "66.4%",
+            "count": 1
+          },
+          {
+            "word": "66%",
+            "count": 1
+          },
+          {
+            "word": "67.5%",
+            "count": 1
+          },
+          {
+            "word": "68.4%",
+            "count": 2
+          },
+          {
+            "word": "68.5%",
+            "count": 1
+          },
+          {
+            "word": "68.6%",
+            "count": 4
+          },
+          {
+            "word": "69.1%",
+            "count": 1
+          },
+          {
+            "word": "69.6%",
+            "count": 1
+          },
+          {
+            "word": "69.7%",
+            "count": 1
+          },
+          {
+            "word": "7.2%",
+            "count": 1
+          },
+          {
+            "word": "70.3%",
+            "count": 1
+          },
+          {
+            "word": "72.2%",
+            "count": 1
+          },
+          {
+            "word": "72.9%",
+            "count": 1
+          },
+          {
+            "word": "74.9%",
+            "count": 1
+          },
+          {
+            "word": "76.2%",
+            "count": 1
+          },
+          {
+            "word": "76.5%",
+            "count": 1
+          },
+          {
+            "word": "8.5%",
+            "count": 1
+          },
+          {
+            "word": "8%",
+            "count": 1
+          },
+          {
+            "word": "81.6%",
+            "count": 1
+          },
+          {
+            "word": "88.8%",
+            "count": 1
+          },
+          {
+            "word": "9.1%",
+            "count": 1
+          },
+          {
+            "word": "91%",
+            "count": 1
+          },
+          {
+            "word": "94%",
+            "count": 2
+          },
+          {
+            "word": "96%",
+            "count": 1
+          },
+          {
+            "word": "a",
+            "count": 15
+          },
+          {
+            "word": "A",
+            "count": 4
+          },
+          {
+            "word": "above",
+            "count": 14
+          },
+          {
+            "word": "access",
+            "count": 1
+          },
+          {
+            "word": "across",
+            "count": 1
+          },
+          {
+            "word": "Active",
+            "count": 1
+          },
+          {
+            "word": "all",
+            "count": 1
+          },
+          {
+            "word": "All",
+            "count": 1
+          },
+          {
+            "word": "all-time",
+            "count": 2
+          },
+          {
+            "word": "an",
+            "count": 3
+          },
+          {
+            "word": "and",
+            "count": 7
+          },
+          {
+            "word": "annualised",
+            "count": 2
+          },
+          {
+            "word": "approved",
+            "count": 1
+          },
+          {
+            "word": "are",
+            "count": 1
+          },
+          {
+            "word": "at",
+            "count": 3
+          },
+          {
+            "word": "Balanced",
+            "count": 12
+          },
+          {
+            "word": "band",
+            "count": 1
+          },
+          {
+            "word": "BAND",
+            "count": 1
+          },
+          {
+            "word": "barrel",
+            "count": 2
+          },
+          {
+            "word": "basis",
+            "count": 4
+          },
+          {
+            "word": "beat",
+            "count": 1
+          },
+          {
+            "word": "before",
+            "count": 2
+          },
+          {
+            "word": "below",
+            "count": 5
+          },
+          {
+            "word": "BIGGEST",
+            "count": 1
+          },
+          {
+            "word": "BLOBS",
+            "count": 2
+          },
+          {
+            "word": "board",
+            "count": 1
+          },
+          {
+            "word": "Board",
+            "count": 1
+          },
+          {
+            "word": "BOARD",
+            "count": 1
+          },
+          {
+            "word": "BOOKS",
+            "count": 1
+          },
+          {
+            "word": "browser",
+            "count": 1
+          },
+          {
+            "word": "candidate",
+            "count": 2
+          },
+          {
+            "word": "cap",
+            "count": 1
+          },
+          {
+            "word": "carry",
+            "count": 1
+          },
+          {
+            "word": "Chain",
+            "count": 1
+          },
+          {
+            "word": "chains",
+            "count": 1
+          },
+          {
+            "word": "close",
+            "count": 1
+          },
+          {
+            "word": "CLOSE",
+            "count": 1
+          },
+          {
+            "word": "closes",
+            "count": 5
+          },
+          {
+            "word": "Cluster",
+            "count": 1
+          },
+          {
+            "word": "Compare",
+            "count": 1
+          },
+          {
+            "word": "Compressed-NFT",
+            "count": 2
+          },
+          {
+            "word": "CONFIGURED",
+            "count": 1
+          },
+          {
+            "word": "Connect",
+            "count": 1
+          },
+          {
+            "word": "consensus",
+            "count": 1
+          },
+          {
+            "word": "content",
+            "count": 1
+          },
+          {
+            "word": "count",
+            "count": 1
+          },
+          {
+            "word": "COVERAGE",
+            "count": 1
+          },
+          {
+            "word": "CPI",
+            "count": 2
+          },
+          {
+            "word": "Crude",
+            "count": 2
+          },
+          {
+            "word": "CRUDE",
+            "count": 2
+          },
+          {
+            "word": "CURVE",
+            "count": 1
+          },
+          {
+            "word": "cut",
+            "count": 1
+          },
+          {
+            "word": "Daily",
+            "count": 1
+          },
+          {
+            "word": "data",
+            "count": 2
+          },
+          {
+            "word": "Data",
+            "count": 1
+          },
+          {
+            "word": "DATA",
+            "count": 1
+          },
+          {
+            "word": "day",
+            "count": 3
+          },
+          {
+            "word": "DEEPEST",
+            "count": 1
+          },
+          {
+            "word": "DeFi",
+            "count": 1
+          },
+          {
+            "word": "DEFI",
+            "count": 1
+          },
+          {
+            "word": "depth",
+            "count": 3
+          },
+          {
+            "word": "Depth",
+            "count": 1
+          },
+          {
+            "word": "DEPTH",
+            "count": 1
+          },
+          {
+            "word": "Derived",
+            "count": 1
+          },
+          {
+            "word": "destination",
+            "count": 2
+          },
+          {
+            "word": "DEX",
+            "count": 2
+          },
+          {
+            "word": "Digest",
+            "count": 1
+          },
+          {
+            "word": "DIGEST",
+            "count": 1
+          },
+          {
+            "word": "Dispersion",
+            "count": 1
+          },
+          {
+            "word": "dollar",
+            "count": 1
+          },
+          {
+            "word": "Dollar",
+            "count": 2
+          },
+          {
+            "word": "doubles",
+            "count": 2
+          },
+          {
+            "word": "drawdown",
+            "count": 1
+          },
+          {
+            "word": "DXY",
+            "count": 1
+          },
+          {
+            "word": "end",
+            "count": 2
+          },
+          {
+            "word": "ENERGY",
+            "count": 2
+          },
+          {
+            "word": "ETF",
+            "count": 2
+          },
+          {
+            "word": "event",
+            "count": 1
+          },
+          {
+            "word": "Event",
+            "count": 1
+          },
+          {
+            "word": "EVENT",
+            "count": 2
+          },
+          {
+            "word": "event's",
+            "count": 1
+          },
+          {
+            "word": "events",
+            "count": 6
+          },
+          {
+            "word": "Events",
+            "count": 1
+          },
+          {
+            "word": "EVENTS",
+            "count": 1
+          },
+          {
+            "word": "every",
+            "count": 1
+          },
+          {
+            "word": "Every",
+            "count": 3
+          },
+          {
+            "word": "fee",
+            "count": 2
+          },
+          {
+            "word": "FEE",
+            "count": 1
+          },
+          {
+            "word": "fees",
+            "count": 3
+          },
+          {
+            "word": "FEES",
+            "count": 1
+          },
+          {
+            "word": "field",
+            "count": 9
+          },
+          {
+            "word": "Field",
+            "count": 2
+          },
+          {
+            "word": "FIELD",
+            "count": 2
+          },
+          {
+            "word": "figure",
+            "count": 2
+          },
+          {
+            "word": "fixtures",
+            "count": 1
+          },
+          {
+            "word": "for",
+            "count": 5
+          },
+          {
+            "word": "from",
+            "count": 4
+          },
+          {
+            "word": "full",
+            "count": 1
+          },
+          {
+            "word": "funds",
+            "count": 1
+          },
+          {
+            "word": "green",
+            "count": 1
+          },
+          {
+            "word": "guide",
+            "count": 1
+          },
+          {
+            "word": "Headline",
+            "count": 1
+          },
+          {
+            "word": "high",
+            "count": 2
+          },
+          {
+            "word": "higher",
+            "count": 1
+          },
+          {
+            "word": "Highest",
+            "count": 1
+          },
+          {
+            "word": "holds",
+            "count": 13
+          },
+          {
+            "word": "illustrative",
+            "count": 3
+          },
+          {
+            "word": "Illustrative",
+            "count": 2
+          },
+          {
+            "word": "ILLUSTRATIVE",
+            "count": 2
+          },
+          {
+            "word": "in",
+            "count": 3
+          },
+          {
+            "word": "index",
+            "count": 5
+          },
+          {
+            "word": "INDEX",
+            "count": 3
+          },
+          {
+            "word": "inside",
+            "count": 7
+          },
+          {
+            "word": "interest",
+            "count": 1
+          },
+          {
+            "word": "interface",
+            "count": 1
+          },
+          {
+            "word": "is",
+            "count": 8
+          },
+          {
+            "word": "its",
+            "count": 3
+          },
+          {
+            "word": "JOBS",
+            "count": 1
+          },
+          {
+            "word": "KAV-01",
+            "count": 3
+          },
+          {
+            "word": "KAV-02",
+            "count": 2
+          },
+          {
+            "word": "KAV-03",
+            "count": 1
+          },
+          {
+            "word": "KAV-04",
+            "count": 1
+          },
+          {
+            "word": "KAV-05",
+            "count": 1
+          },
+          {
+            "word": "KAV-06",
+            "count": 1
+          },
+          {
+            "word": "KAV-07",
+            "count": 1
+          },
+          {
+            "word": "KAV-08",
+            "count": 1
+          },
+          {
+            "word": "KAV-09",
+            "count": 2
+          },
+          {
+            "word": "KAV-10",
+            "count": 1
+          },
+          {
+            "word": "KAV-11",
+            "count": 1
+          },
+          {
+            "word": "KAV-12",
+            "count": 1
+          },
+          {
+            "word": "KAV-13",
+            "count": 2
+          },
+          {
+            "word": "KAV-14",
+            "count": 2
+          },
+          {
+            "word": "KAV-15",
+            "count": 1
+          },
+          {
+            "word": "KAV-16",
+            "count": 1
+          },
+          {
+            "word": "KAV-17",
+            "count": 1
+          },
+          {
+            "word": "KAV-18",
+            "count": 2
+          },
+          {
+            "word": "KAV-19",
+            "count": 1
+          },
+          {
+            "word": "KAV-20",
+            "count": 2
+          },
+          {
+            "word": "KAV-21",
+            "count": 2
+          },
+          {
+            "word": "KAV-22",
+            "count": 2
+          },
+          {
+            "word": "KAV-23",
+            "count": 1
+          },
+          {
+            "word": "KAV-24",
+            "count": 1
+          },
+          {
+            "word": "KAV-25",
+            "count": 1
+          },
+          {
+            "word": "KAV-26",
+            "count": 1
+          },
+          {
+            "word": "KAV-27",
+            "count": 1
+          },
+          {
+            "word": "KAV-28",
+            "count": 2
+          },
+          {
+            "word": "KAV-29",
+            "count": 1
+          },
+          {
+            "word": "KAV-30",
+            "count": 1
+          },
+          {
+            "word": "KAV-31",
+            "count": 2
+          },
+          {
+            "word": "KAV-32",
+            "count": 1
+          },
+          {
+            "word": "Kavrel",
+            "count": 2
+          },
+          {
+            "word": "KAVREL",
+            "count": 2
+          },
+          {
+            "word": "kavrel.xyz",
+            "count": 3
+          },
+          {
+            "word": "keep",
+            "count": 1
+          },
+          {
+            "word": "Lead",
+            "count": 1
+          },
+          {
+            "word": "leads",
+            "count": 1
+          },
+          {
+            "word": "Ledger",
+            "count": 1
+          },
+          {
+            "word": "LEDGER",
+            "count": 1
+          },
+          {
+            "word": "level",
+            "count": 4
+          },
+          {
+            "word": "line",
+            "count": 3
+          },
+          {
+            "word": "Liquid",
+            "count": 1
+          },
+          {
+            "word": "live",
+            "count": 1
+          },
+          {
+            "word": "Long",
+            "count": 17
+          },
+          {
+            "word": "Long-horizon",
+            "count": 6
+          },
+          {
+            "word": "LST",
+            "count": 1
+          },
+          {
+            "word": "Macro",
+            "count": 15
+          },
+          {
+            "word": "MACRO",
+            "count": 2
+          },
+          {
+            "word": "market",
+            "count": 35
+          },
+          {
+            "word": "Market",
+            "count": 1
+          },
+          {
+            "word": "mean",
+            "count": 3
+          },
+          {
+            "word": "Median",
+            "count": 2
+          },
+          {
+            "word": "meeting",
+            "count": 1
+          },
+          {
+            "word": "meme",
+            "count": 2
+          },
+          {
+            "word": "MEME",
+            "count": 2
+          },
+          {
+            "word": "million",
+            "count": 2
+          },
+          {
+            "word": "MINT",
+            "count": 1
+          },
+          {
+            "word": "mints",
+            "count": 2
+          },
+          {
+            "word": "Model",
+            "count": 34
+          },
+          {
+            "word": "month",
+            "count": 4
+          },
+          {
+            "word": "Monthly",
+            "count": 1
+          },
+          {
+            "word": "move",
+            "count": 2
+          },
+          {
+            "word": "MOVERS",
+            "count": 1
+          },
+          {
+            "word": "MOVES",
+            "count": 1
+          },
+          {
+            "word": "native",
+            "count": 1
+          },
+          {
+            "word": "negative",
+            "count": 1
+          },
+          {
+            "word": "network",
+            "count": 1
+          },
+          {
+            "word": "Network",
+            "count": 1
+          },
+          {
+            "word": "NETWORK",
+            "count": 8
+          },
+          {
+            "word": "new",
+            "count": 2
+          },
+          {
+            "word": "next",
+            "count": 1
+          },
+          {
+            "word": "no",
+            "count": 1
+          },
+          {
+            "word": "No",
+            "count": 2
+          },
+          {
+            "word": "NO",
+            "count": 36
+          },
+          {
+            "word": "node",
+            "count": 1
+          },
+          {
+            "word": "Non-farm",
+            "count": 1
+          },
+          {
+            "word": "not",
+            "count": 1
+          },
+          {
+            "word": "now",
+            "count": 1
+          },
+          {
+            "word": "Oct",
+            "count": 1
+          },
+          {
+            "word": "OCT",
+            "count": 1
+          },
+          {
+            "word": "of",
+            "count": 6
+          },
+          {
+            "word": "on",
+            "count": 2
+          },
+          {
+            "word": "one",
+            "count": 5
+          },
+          {
+            "word": "One",
+            "count": 1
+          },
+          {
+            "word": "only",
+            "count": 2
+          },
+          {
+            "word": "open",
+            "count": 1
+          },
+          {
+            "word": "Open",
+            "count": 1
+          },
+          {
+            "word": "opens",
+            "count": 1
+          },
+          {
+            "word": "optional",
+            "count": 1
+          },
+          {
+            "word": "or",
+            "count": 1
+          },
+          {
+            "word": "oracle",
+            "count": 1
+          },
+          {
+            "word": "order",
+            "count": 1
+          },
+          {
+            "word": "outcome",
+            "count": 33
+          },
+          {
+            "word": "Outcome",
+            "count": 2
+          },
+          {
+            "word": "page",
+            "count": 1
+          },
+          {
+            "word": "pass",
+            "count": 2
+          },
+          {
+            "word": "passes",
+            "count": 2
+          },
+          {
+            "word": "payrolls",
+            "count": 1
+          },
+          {
+            "word": "peg",
+            "count": 2
+          },
+          {
+            "word": "placed",
+            "count": 1
+          },
+          {
+            "word": "plus",
+            "count": 1
+          },
+          {
+            "word": "points",
+            "count": 4
+          },
+          {
+            "word": "policy",
+            "count": 1
+          },
+          {
+            "word": "position",
+            "count": 1
+          },
+          {
+            "word": "positive",
+            "count": 1
+          },
+          {
+            "word": "posts",
+            "count": 1
+          },
+          {
+            "word": "prediction-market",
+            "count": 2
+          },
+          {
+            "word": "preview",
+            "count": 1
+          },
+          {
+            "word": "Preview",
+            "count": 1
+          },
+          {
+            "word": "print",
+            "count": 1
+          },
+          {
+            "word": "prints",
+            "count": 3
+          },
+          {
+            "word": "Priority",
+            "count": 1
+          },
+          {
+            "word": "PRIORITY",
+            "count": 1
+          },
+          {
+            "word": "probability",
+            "count": 3
+          },
+          {
+            "word": "Profile",
+            "count": 1
+          },
+          {
+            "word": "PROFILE",
+            "count": 1
+          },
+          {
+            "word": "profiles",
+            "count": 1
+          },
+          {
+            "word": "program",
+            "count": 1
+          },
+          {
+            "word": "pt",
+            "count": 35
+          },
+          {
+            "word": "quarter",
+            "count": 5
+          },
+          {
+            "word": "Quarterly",
+            "count": 4
+          },
+          {
+            "word": "rank",
+            "count": 1
+          },
+          {
+            "word": "RANK",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "RATES",
+            "count": 2
+          },
+          {
+            "word": "read",
+            "count": 1
+          },
+          {
+            "word": "Read",
+            "count": 1
+          },
+          {
+            "word": "read-only",
+            "count": 1
+          },
+          {
+            "word": "reading",
+            "count": 3
+          },
+          {
+            "word": "readings",
+            "count": 3
+          },
+          {
+            "word": "Readings",
+            "count": 1
+          },
+          {
+            "word": "READINGS",
+            "count": 1
+          },
+          {
+            "word": "reads",
+            "count": 1
+          },
+          {
+            "word": "Realised",
+            "count": 1
+          },
+          {
+            "word": "Receipts",
+            "count": 1
+          },
+          {
+            "word": "Ref",
+            "count": 1
+          },
+          {
+            "word": "research",
+            "count": 1
+          },
+          {
+            "word": "RESEARCH",
+            "count": 1
+          },
+          {
+            "word": "result",
+            "count": 1
+          },
+          {
+            "word": "RPC",
+            "count": 1
+          },
+          {
+            "word": "S1",
+            "count": 1
+          },
+          {
+            "word": "S2",
+            "count": 1
+          },
+          {
+            "word": "S3",
+            "count": 1
+          },
+          {
+            "word": "S4",
+            "count": 1
+          },
+          {
+            "word": "S5",
+            "count": 1
+          },
+          {
+            "word": "S6",
+            "count": 2
+          },
+          {
+            "word": "sample",
+            "count": 11
+          },
+          {
+            "word": "Sample",
+            "count": 1
+          },
+          {
+            "word": "SAMPLE",
+            "count": 2
+          },
+          {
+            "word": "SAVED",
+            "count": 1
+          },
+          {
+            "word": "scenarios",
+            "count": 1
+          },
+          {
+            "word": "selected",
+            "count": 1
+          },
+          {
+            "word": "SELECTED",
+            "count": 1
+          },
+          {
+            "word": "session",
+            "count": 2
+          },
+          {
+            "word": "SESSION",
+            "count": 1
+          },
+          {
+            "word": "settles",
+            "count": 1
+          },
+          {
+            "word": "shard",
+            "count": 2
+          },
+          {
+            "word": "SHARD",
+            "count": 3
+          },
+          {
+            "word": "share",
+            "count": 1
+          },
+          {
+            "word": "SHARE",
+            "count": 1
+          },
+          {
+            "word": "shares",
+            "count": 1
+          },
+          {
+            "word": "shot",
+            "count": 17
+          },
+          {
+            "word": "simulated",
+            "count": 1
+          },
+          {
+            "word": "six",
+            "count": 1
+          },
+          {
+            "word": "Skip",
+            "count": 1
+          },
+          {
+            "word": "SNAPSHOT",
+            "count": 1
+          },
+          {
+            "word": "SOL",
+            "count": 22
+          },
+          {
+            "word": "Solana",
+            "count": 12
+          },
+          {
+            "word": "SOLANA",
+            "count": 2
+          },
+          {
+            "word": "split",
+            "count": 2
+          },
+          {
+            "word": "spot",
+            "count": 1
+          },
+          {
+            "word": "spread",
+            "count": 4
+          },
+          {
+            "word": "Spread",
+            "count": 1
+          },
+          {
+            "word": "stability",
+            "count": 2
+          },
+          {
+            "word": "Stable",
+            "count": 22
+          },
+          {
+            "word": "staking",
+            "count": 1
+          },
+          {
+            "word": "Staking",
+            "count": 2
+          },
+          {
+            "word": "STAKING",
+            "count": 1
+          },
+          {
+            "word": "state",
+            "count": 1
+          },
+          {
+            "word": "stay",
+            "count": 2
+          },
+          {
+            "word": "stays",
+            "count": 6
+          },
+          {
+            "word": "strikes",
+            "count": 2
+          },
+          {
+            "word": "struck",
+            "count": 1
+          },
+          {
+            "word": "sums",
+            "count": 1
+          },
+          {
+            "word": "supply",
+            "count": 1
+          },
+          {
+            "word": "sustains",
+            "count": 1
+          },
+          {
+            "word": "tab",
+            "count": 1
+          },
+          {
+            "word": "target",
+            "count": 2
+          },
+          {
+            "word": "Testnet",
+            "count": 4
+          },
+          {
+            "word": "TESTNET",
+            "count": 2
+          },
+          {
+            "word": "the",
+            "count": 22
+          },
+          {
+            "word": "The",
+            "count": 5
+          },
+          {
+            "word": "this",
+            "count": 10
+          },
+          {
+            "word": "through",
+            "count": 2
+          },
+          {
+            "word": "to",
+            "count": 1
+          },
+          {
+            "word": "Top-of-book",
+            "count": 2
+          },
+          {
+            "word": "top-three",
+            "count": 1
+          },
+          {
+            "word": "total",
+            "count": 1
+          },
+          {
+            "word": "totals",
+            "count": 1
+          },
+          {
+            "word": "TPS",
+            "count": 2
+          },
+          {
+            "word": "TRACE",
+            "count": 2
+          },
+          {
+            "word": "Tracked",
+            "count": 1
+          },
+          {
+            "word": "traders",
+            "count": 5
+          },
+          {
+            "word": "trades",
+            "count": 3
+          },
+          {
+            "word": "transaction",
+            "count": 2
+          },
+          {
+            "word": "tune",
+            "count": 1
+          },
+          {
+            "word": "TVL",
+            "count": 2
+          },
+          {
+            "word": "under",
+            "count": 7
+          },
+          {
+            "word": "unregistered",
+            "count": 2
+          },
+          {
+            "word": "uptime",
+            "count": 1
+          },
+          {
+            "word": "UPTIME",
+            "count": 1
+          },
+          {
+            "word": "USD",
+            "count": 1
+          },
+          {
+            "word": "USDC",
+            "count": 12
+          },
+          {
+            "word": "validator",
+            "count": 1
+          },
+          {
+            "word": "VALIDATORS",
+            "count": 1
+          },
+          {
+            "word": "Variable",
+            "count": 4
+          },
+          {
+            "word": "verifiable",
+            "count": 1
+          },
+          {
+            "word": "VOL",
+            "count": 1
+          },
+          {
+            "word": "volatility",
+            "count": 1
+          },
+          {
+            "word": "volume",
+            "count": 5
+          },
+          {
+            "word": "VOLUME",
+            "count": 1
+          },
+          {
+            "word": "Wallet",
+            "count": 1
+          },
+          {
+            "word": "week",
+            "count": 4
+          },
+          {
+            "word": "weekly",
+            "count": 3
+          },
+          {
+            "word": "WEEKLY",
+            "count": 1
+          },
+          {
+            "word": "What",
+            "count": 1
+          },
+          {
+            "word": "workflow",
+            "count": 1
+          },
+          {
+            "word": "workspace",
+            "count": 1
+          },
+          {
+            "word": "year",
+            "count": 5
+          },
+          {
+            "word": "YES",
+            "count": 42
+          },
+          {
+            "word": "yield",
+            "count": 3
+          }
+        ],
+        "attrs": [
+          {
+            "key": "aria-label=Filter events by profile",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Illustrative desk summary",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Illustrative prediction events",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Kavrel home",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Open the full event list",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Outcome split",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Primary navigation",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for A research shard posts a verifiable result this year",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for A Solana meme index doubles inside the quarter",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for A spot SOL ETF is approved this quarter",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Active validator count passes 2,000",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Cluster uptime holds at 100% for the month",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Compressed-NFT mints pass one million in a day",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Crude holds above $85 a barrel for the month",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Daily network fees stay under 1,000 SOL",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Dollar stability holds through the session",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Headline CPI prints under 3% year on year",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Liquid staking share passes 12% of supply",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Median transaction fee stays under $0.01",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Network sustains 5,000 TPS for a full day",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Non-farm payrolls beat the consensus print",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Outcome index settles higher this week",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Priority fees stay below 50% of total fees",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Realised volatility closes under 40% this month",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for SOL drawdown stays inside 8% this week",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for SOL market cap holds a top-three rank",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for SOL prints a new all-time high this year",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for SOL trades above $250 before the end of the quarter",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Solana closes above the weekly target",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Solana DeFi TVL holds above $20B",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Solana DEX volume leads all chains this week",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Solana trades above $200 at the weekly close",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Staking yield stays above 6% annualised",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for The 10-year yield stays below 4.5%",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for The dollar index holds inside its 2% band",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for The index closes the week in the green",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for The policy rate is cut at the next meeting",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Top-of-book spread holds under 5 basis points",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for USDC holds its peg inside 10 basis points",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Search events",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Section navigation",
+            "count": 1
+          },
+          {
+            "key": "placeholder=Search events",
+            "count": 1
+          },
+          {
+            "key": "title=Full event list",
+            "count": 1
+          }
+        ],
+        "links": [
+          {
+            "href": "#governance",
+            "count": 2
+          },
+          {
+            "href": "#main-content",
+            "count": 1
+          },
+          {
+            "href": "#markets",
+            "count": 2
+          },
+          {
+            "href": "#overview",
+            "count": 3
+          },
+          {
+            "href": "#positions",
+            "count": 2
+          }
+        ],
+        "forms": [
+          {
+            "key": "input::range",
+            "count": 1
+          },
+          {
+            "key": "input::search",
+            "count": 1
+          }
+        ],
+        "fieldIssues": [],
+        "imageIssues": [],
+        "interactiveIssues": [],
+        "classTokens": [
+          "brd-actions",
+          "brd-axis",
+          "brd-axis-line",
+          "brd-beat",
+          "brd-beat-body",
+          "brd-beat-label",
+          "brd-beat-rule",
+          "brd-brand",
+          "brd-brand-cluster",
+          "brd-brand-mark",
+          "brd-brand-name",
+          "brd-brand-type",
+          "brd-btn",
+          "brd-btn--ghost",
+          "brd-btn--solid",
+          "brd-cluster",
+          "brd-colophon",
+          "brd-delta",
+          "brd-depth-bar",
+          "brd-digest",
+          "brd-disclosure",
+          "brd-dot",
+          "brd-dot--no",
+          "brd-dot--yes",
+          "brd-event",
+          "brd-event-body",
+          "brd-event-head",
+          "brd-event-meta",
+          "brd-event-visual",
+          "brd-facts",
+          "brd-field",
+          "brd-field-foot",
+          "brd-field-head",
+          "brd-figure",
+          "brd-figures",
+          "brd-fill-ember",
+          "brd-fill-indigo",
+          "brd-fill-mint",
+          "brd-glyph",
+          "brd-iconbtn",
+          "brd-kicker",
+          "brd-lede",
+          "brd-ledger",
+          "brd-legend",
+          "brd-list",
+          "brd-list-body",
+          "brd-list-ref",
+          "brd-list-row",
+          "brd-list-row--depth",
+          "brd-masthead",
+          "brd-meter",
+          "brd-note",
+          "brd-open",
+          "brd-open-copy",
+          "brd-page",
+          "brd-profile-row",
+          "brd-profiles",
+          "brd-range",
+          "brd-reading",
+          "brd-reading-index",
+          "brd-reading-note",
+          "brd-reading-track",
+          "brd-reading-value",
+          "brd-readings",
+          "brd-ribbon",
+          "brd-ribbon-end",
+          "brd-ribbon-item",
+          "brd-ribbon-tag",
+          "brd-roll",
+          "brd-rollnav",
+          "brd-row",
+          "brd-row-act",
+          "brd-row-facts",
+          "brd-row-head",
+          "brd-row-hit",
+          "brd-row-level",
+          "brd-row-profile",
+          "brd-row-ref",
+          "brd-rows",
+          "brd-scene",
+          "brd-scene--digest",
+          "brd-scene--field",
+          "brd-scene--ledger",
+          "brd-scene--open",
+          "brd-scene-label",
+          "brd-search",
+          "brd-segment",
+          "brd-skip",
+          "brd-slab",
+          "brd-slab-head",
+          "brd-spark",
+          "brd-spec",
+          "brd-split",
+          "brd-split-bar",
+          "brd-split-head",
+          "brd-stage",
+          "brd-stamp",
+          "brd-stamp--quiet",
+          "brd-statement",
+          "brd-statement--sm",
+          "brd-tag",
+          "brd-tag--ember",
+          "brd-tag--indigo",
+          "brd-tag--mint",
+          "brd-ticker",
+          "brd-ticker-link",
+          "brd-toolbar",
+          "brd-tools",
+          "brd-trace",
+          "brd-trace-bars",
+          "brd-trace-foot",
+          "brd-trace-head",
+          "brd-trace-level",
+          "brd-trace-main",
+          "brd-trace-note",
+          "brd-up",
+          "brd-wallet",
+          "is-current",
+          "is-lead",
+          "is-live"
+        ],
+        "fingerprint": [
+          "a@5:0",
+          "a@6:2",
+          "a@7:2",
+          "article@10:2",
+          "b@11:0",
+          "b@12:0",
+          "b@14:0",
+          "b@7:0",
+          "button@10:1",
+          "button@11:0",
+          "button@12:1",
+          "button@13:3",
+          "button@13:4+",
+          "button@7:2",
+          "button@9:1",
+          "dd@11:0",
+          "div@10:1",
+          "div@10:2",
+          "div@10:3",
+          "div@10:4+",
+          "div@11:2",
+          "div@11:3",
+          "div@12:4+",
+          "div@3:1",
+          "div@4:4+",
+          "div@5:4+",
+          "div@6:2",
+          "div@7:2",
+          "div@8:1",
+          "div@8:2",
+          "div@8:4+",
+          "div@9:2",
+          "div@9:3",
+          "div@9:4+",
+          "dl@9:4+",
+          "dt@11:0",
+          "em@15:0",
+          "figcaption@11:2",
+          "figure@10:3",
+          "footer@5:2",
+          "h1@11:0",
+          "h2@10:0",
+          "h2@9:0",
+          "h3@12:0",
+          "header@5:3",
+          "i@10:0",
+          "i@11:0",
+          "i@12:0",
+          "i@13:0",
+          "i@14:0",
+          "i@14:1",
+          "i@15:0",
+          "i@8:0",
+          "img@7:0",
+          "input@10:0",
+          "input@11:0",
+          "label@10:2",
+          "label@11:0",
+          "li@11:3",
+          "li@11:4+",
+          "li@12:1",
+          "main@5:4+",
+          "nav@6:4+",
+          "ol@10:4+",
+          "ol@11:4+",
+          "p@10:4+",
+          "p@11:0",
+          "p@11:1",
+          "p@9:0",
+          "p@9:1",
+          "p@9:3",
+          "path@11:0",
+          "path@12:0",
+          "path@13:0",
+          "path@14:0",
+          "path@9:0",
+          "section@6:1",
+          "section@8:4+",
+          "section@9:4+",
+          "small@11:0",
+          "small@12:0",
+          "small@14:0",
+          "small@15:0",
+          "small@8:0",
+          "span@10:0",
+          "span@10:2",
+          "span@11:0",
+          "span@11:1",
+          "span@11:2",
+          "span@12:0",
+          "span@12:1",
+          "span@12:4+",
+          "span@13:1",
+          "span@13:2",
+          "span@13:3",
+          "span@14:0",
+          "span@14:1",
+          "span@14:2",
+          "span@6:0",
+          "span@6:1",
+          "span@7:0",
+          "span@7:1",
+          "span@7:2",
+          "span@8:0",
+          "span@9:0",
+          "strong@11:0",
+          "strong@14:0",
+          "strong@15:0",
+          "strong@8:0",
+          "svg@10:1",
+          "svg@11:1",
+          "svg@12:1",
+          "svg@13:1",
+          "svg@8:1",
+          "ul@10:4+",
+          "ul@11:3"
+        ],
+        "landmarks": [
+          {
+            "tag": "header",
+            "role": "",
+            "top": 0,
+            "left": 0,
+            "width": 1440,
+            "height": 75
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 0,
+            "left": 270,
+            "width": 898,
+            "height": 73
+          },
+          {
+            "tag": "main",
+            "role": "",
+            "top": -323,
+            "left": 0,
+            "width": 1440,
+            "height": 8556
+          },
+          {
+            "tag": "footer",
+            "role": "",
+            "top": 8232,
+            "left": 0,
+            "width": 1440,
+            "height": 78
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 8234,
+            "left": 1134,
+            "width": 306,
+            "height": 76
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#161616",
+            "count": 727
+          },
+          {
+            "hex": "#6e625c",
+            "count": 306
+          },
+          {
+            "hex": "#ffffff",
+            "count": 154
+          },
+          {
+            "hex": "#fafaf9",
+            "count": 41
+          },
+          {
+            "hex": "#ff7a00",
+            "count": 25
+          },
+          {
+            "hex": "#1e6b47",
+            "count": 20
+          },
+          {
+            "hex": "#ff0421",
+            "count": 13
+          },
+          {
+            "hex": "#b00016",
+            "count": 11
+          },
+          {
+            "hex": "#ffe3d6",
+            "count": 8
+          },
+          {
+            "hex": "#e30005",
+            "count": 5
+          },
+          {
+            "hex": "#e2b8ab",
+            "count": 1
+          },
+          {
+            "hex": "#e7d5ca",
+            "count": 1
+          }
+        ],
+        "contrast": [],
+        "contrastChecked": 444,
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "ONE LINE, STRUCK FROM SIX READINGS."
+          },
+          {
+            "tag": "h2",
+            "text": "SAMPLE EVENTS"
+          },
+          {
+            "tag": "h2",
+            "text": "SOLANA CLOSES ABOVE THE WEEKLY TARGET · YES / NO"
+          },
+          {
+            "tag": "h3",
+            "text": "6 READINGS · 4 PT SPREAD"
+          },
+          {
+            "tag": "h2",
+            "text": "WHAT THE SAMPLE BOARD HOLDS"
+          }
+        ],
+        "navTargets": [
+          ""
+        ],
+        "overflow": {
+          "documentOverflow": false,
+          "offenders": []
+        }
+      },
+      "axe": {
+        "skipped": true,
+        "violations": []
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": [],
+      "failedResponses": [],
+      "screenshots": {
+        "desktop": "current/home-desktop.png",
+        "mobile": "current/home-mobile.png"
+      },
+      "mobile": {
+        "meta": {
+          "title": "Ledger | Kavrel",
+          "lang": "en",
+          "h1Count": 1,
+          "bodyTextLength": 7449,
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "focusableCount": 100
+        },
+        "words": [
+          {
+            "word": "$0.01",
+            "count": 2
+          },
+          {
+            "word": "$0.16M",
+            "count": 1
+          },
+          {
+            "word": "$0.22M",
+            "count": 1
+          },
+          {
+            "word": "$0.28M",
+            "count": 1
+          },
+          {
+            "word": "$0.38M",
+            "count": 1
+          },
+          {
+            "word": "$0.44M",
+            "count": 1
+          },
+          {
+            "word": "$0.61M",
+            "count": 1
+          },
+          {
+            "word": "$0.92M",
+            "count": 1
+          },
+          {
+            "word": "$1.06M",
+            "count": 1
+          },
+          {
+            "word": "$1.14M",
+            "count": 1
+          },
+          {
+            "word": "$1.32M",
+            "count": 1
+          },
+          {
+            "word": "$1.88M",
+            "count": 1
+          },
+          {
+            "word": "$10.4M",
+            "count": 1
+          },
+          {
+            "word": "$104.2M",
+            "count": 1
+          },
+          {
+            "word": "$11.3M",
+            "count": 2
+          },
+          {
+            "word": "$11072.1M",
+            "count": 2
+          },
+          {
+            "word": "$12.4M",
+            "count": 1
+          },
+          {
+            "word": "$12.7M",
+            "count": 2
+          },
+          {
+            "word": "$14.2M",
+            "count": 2
+          },
+          {
+            "word": "$1408.5M",
+            "count": 2
+          },
+          {
+            "word": "$158.9M",
+            "count": 1
+          },
+          {
+            "word": "$16.2M",
+            "count": 2
+          },
+          {
+            "word": "$168.3M",
+            "count": 1
+          },
+          {
+            "word": "$184.2M",
+            "count": 2
+          },
+          {
+            "word": "$19.4M",
+            "count": 1
+          },
+          {
+            "word": "$2.42M",
+            "count": 1
+          },
+          {
+            "word": "$2.84M",
+            "count": 2
+          },
+          {
+            "word": "$200",
+            "count": 1
+          },
+          {
+            "word": "$20B",
+            "count": 1
+          },
+          {
+            "word": "$21.6M",
+            "count": 2
+          },
+          {
+            "word": "$212.6M",
+            "count": 1
+          },
+          {
+            "word": "$24.8M",
+            "count": 1
+          },
+          {
+            "word": "$246.7M",
+            "count": 1
+          },
+          {
+            "word": "$250",
+            "count": 2
+          },
+          {
+            "word": "$268.4M",
+            "count": 1
+          },
+          {
+            "word": "$28.6M",
+            "count": 1
+          },
+          {
+            "word": "$296.8M",
+            "count": 1
+          },
+          {
+            "word": "$3.18M",
+            "count": 1
+          },
+          {
+            "word": "$3.72M",
+            "count": 1
+          },
+          {
+            "word": "$318.5M",
+            "count": 1
+          },
+          {
+            "word": "$344.9M",
+            "count": 1
+          },
+          {
+            "word": "$380M",
+            "count": 1
+          },
+          {
+            "word": "$388.2M",
+            "count": 1
+          },
+          {
+            "word": "$4.05M",
+            "count": 1
+          },
+          {
+            "word": "$4.28M",
+            "count": 1
+          },
+          {
+            "word": "$402.7M",
+            "count": 1
+          },
+          {
+            "word": "$41.7M",
+            "count": 1
+          },
+          {
+            "word": "$4252.3M",
+            "count": 1
+          },
+          {
+            "word": "$428.1M",
+            "count": 1
+          },
+          {
+            "word": "$466.2M",
+            "count": 1
+          },
+          {
+            "word": "$5.36M",
+            "count": 1
+          },
+          {
+            "word": "$52.1M",
+            "count": 1
+          },
+          {
+            "word": "$524.1M",
+            "count": 2
+          },
+          {
+            "word": "$534.6M",
+            "count": 1
+          },
+          {
+            "word": "$588.4M",
+            "count": 1
+          },
+          {
+            "word": "$6.42M",
+            "count": 1
+          },
+          {
+            "word": "$6.88M",
+            "count": 1
+          },
+          {
+            "word": "$6104.8M",
+            "count": 1
+          },
+          {
+            "word": "$612.4M",
+            "count": 1
+          },
+          {
+            "word": "$618.9M",
+            "count": 2
+          },
+          {
+            "word": "$7.14M",
+            "count": 1
+          },
+          {
+            "word": "$7.62M",
+            "count": 1
+          },
+          {
+            "word": "$712.8M",
+            "count": 1
+          },
+          {
+            "word": "$715M",
+            "count": 1
+          },
+          {
+            "word": "$74.8M",
+            "count": 1
+          },
+          {
+            "word": "$742.3M",
+            "count": 2
+          },
+          {
+            "word": "$8.36M",
+            "count": 1
+          },
+          {
+            "word": "$8.91M",
+            "count": 1
+          },
+          {
+            "word": "$85",
+            "count": 2
+          },
+          {
+            "word": "$88.6M",
+            "count": 1
+          },
+          {
+            "word": "$9.15M",
+            "count": 1
+          },
+          {
+            "word": "$9.6M",
+            "count": 1
+          },
+          {
+            "word": "$902.6M",
+            "count": 2
+          },
+          {
+            "word": "$96.4M",
+            "count": 1
+          },
+          {
+            "word": "1,000",
+            "count": 1
+          },
+          {
+            "word": "1.8%",
+            "count": 1
+          },
+          {
+            "word": "1.9",
+            "count": 1
+          },
+          {
+            "word": "10",
+            "count": 4
+          },
+          {
+            "word": "10-year",
+            "count": 1
+          },
+          {
+            "word": "100%",
+            "count": 1
+          },
+          {
+            "word": "10Y",
+            "count": 1
+          },
+          {
+            "word": "11",
+            "count": 2
+          },
+          {
+            "word": "12",
+            "count": 1
+          },
+          {
+            "word": "12%",
+            "count": 1
+          },
+          {
+            "word": "14.9%",
+            "count": 1
+          },
+          {
+            "word": "17",
+            "count": 1
+          },
+          {
+            "word": "17.1%",
+            "count": 1
+          },
+          {
+            "word": "192",
+            "count": 1
+          },
+          {
+            "word": "2,000",
+            "count": 1
+          },
+          {
+            "word": "2,240",
+            "count": 1
+          },
+          {
+            "word": "2,480",
+            "count": 1
+          },
+          {
+            "word": "2.1",
+            "count": 1
+          },
+          {
+            "word": "2.3",
+            "count": 1
+          },
+          {
+            "word": "2.6",
+            "count": 1
+          },
+          {
+            "word": "2%",
+            "count": 1
+          },
+          {
+            "word": "20",
+            "count": 1
+          },
+          {
+            "word": "20.4%",
+            "count": 1
+          },
+          {
+            "word": "22.8%",
+            "count": 1
+          },
+          {
+            "word": "24h",
+            "count": 7
+          },
+          {
+            "word": "27.5%",
+            "count": 1
+          },
+          {
+            "word": "28.6%",
+            "count": 1
+          },
+          {
+            "word": "3",
+            "count": 1
+          },
+          {
+            "word": "3,180",
+            "count": 1
+          },
+          {
+            "word": "3,410",
+            "count": 1
+          },
+          {
+            "word": "3.1",
+            "count": 1
+          },
+          {
+            "word": "3.6",
+            "count": 1
+          },
+          {
+            "word": "3.7",
+            "count": 2
+          },
+          {
+            "word": "3.8",
+            "count": 1
+          },
+          {
+            "word": "3%",
+            "count": 1
+          },
+          {
+            "word": "31.3%",
+            "count": 2
+          },
+          {
+            "word": "31.6%",
+            "count": 1
+          },
+          {
+            "word": "32",
+            "count": 3
+          },
+          {
+            "word": "33%",
+            "count": 1
+          },
+          {
+            "word": "37.5%",
+            "count": 1
+          },
+          {
+            "word": "39.1%",
+            "count": 1
+          },
+          {
+            "word": "4",
+            "count": 6
+          },
+          {
+            "word": "4.1",
+            "count": 1
+          },
+          {
+            "word": "4.2",
+            "count": 1
+          },
+          {
+            "word": "4.3",
+            "count": 1
+          },
+          {
+            "word": "4.4",
+            "count": 3
+          },
+          {
+            "word": "4.5",
+            "count": 1
+          },
+          {
+            "word": "4.5%",
+            "count": 1
+          },
+          {
+            "word": "4.7",
+            "count": 1
+          },
+          {
+            "word": "4.8",
+            "count": 4
+          },
+          {
+            "word": "4.8%",
+            "count": 1
+          },
+          {
+            "word": "4.9",
+            "count": 1
+          },
+          {
+            "word": "4%",
+            "count": 1
+          },
+          {
+            "word": "40%",
+            "count": 1
+          },
+          {
+            "word": "42.6%",
+            "count": 1
+          },
+          {
+            "word": "45.4%",
+            "count": 1
+          },
+          {
+            "word": "48.2%",
+            "count": 1
+          },
+          {
+            "word": "5",
+            "count": 3
+          },
+          {
+            "word": "5,000",
+            "count": 1
+          },
+          {
+            "word": "5,240",
+            "count": 1
+          },
+          {
+            "word": "5.1",
+            "count": 3
+          },
+          {
+            "word": "5.2",
+            "count": 3
+          },
+          {
+            "word": "5.4%",
+            "count": 1
+          },
+          {
+            "word": "50.3%",
+            "count": 1
+          },
+          {
+            "word": "50%",
+            "count": 5
+          },
+          {
+            "word": "53%",
+            "count": 1
+          },
+          {
+            "word": "55.1%",
+            "count": 1
+          },
+          {
+            "word": "55.4%",
+            "count": 1
+          },
+          {
+            "word": "55.9%",
+            "count": 1
+          },
+          {
+            "word": "57.8%",
+            "count": 1
+          },
+          {
+            "word": "58.2%",
+            "count": 1
+          },
+          {
+            "word": "6",
+            "count": 3
+          },
+          {
+            "word": "6.8%",
+            "count": 1
+          },
+          {
+            "word": "6%",
+            "count": 2
+          },
+          {
+            "word": "60.1%",
+            "count": 1
+          },
+          {
+            "word": "62.4%",
+            "count": 1
+          },
+          {
+            "word": "63.2%",
+            "count": 1
+          },
+          {
+            "word": "66.3%",
+            "count": 1
+          },
+          {
+            "word": "66.4%",
+            "count": 1
+          },
+          {
+            "word": "66%",
+            "count": 1
+          },
+          {
+            "word": "67.5%",
+            "count": 1
+          },
+          {
+            "word": "68.4%",
+            "count": 2
+          },
+          {
+            "word": "68.5%",
+            "count": 1
+          },
+          {
+            "word": "68.6%",
+            "count": 4
+          },
+          {
+            "word": "69.1%",
+            "count": 1
+          },
+          {
+            "word": "69.6%",
+            "count": 1
+          },
+          {
+            "word": "69.7%",
+            "count": 1
+          },
+          {
+            "word": "7.2%",
+            "count": 1
+          },
+          {
+            "word": "70.3%",
+            "count": 1
+          },
+          {
+            "word": "72.2%",
+            "count": 1
+          },
+          {
+            "word": "72.9%",
+            "count": 1
+          },
+          {
+            "word": "74.9%",
+            "count": 1
+          },
+          {
+            "word": "76.2%",
+            "count": 1
+          },
+          {
+            "word": "76.5%",
+            "count": 1
+          },
+          {
+            "word": "8.5%",
+            "count": 1
+          },
+          {
+            "word": "8%",
+            "count": 1
+          },
+          {
+            "word": "81.6%",
+            "count": 1
+          },
+          {
+            "word": "88.8%",
+            "count": 1
+          },
+          {
+            "word": "9.1%",
+            "count": 1
+          },
+          {
+            "word": "91%",
+            "count": 1
+          },
+          {
+            "word": "94%",
+            "count": 2
+          },
+          {
+            "word": "96%",
+            "count": 1
+          },
+          {
+            "word": "a",
+            "count": 15
+          },
+          {
+            "word": "A",
+            "count": 4
+          },
+          {
+            "word": "above",
+            "count": 14
+          },
+          {
+            "word": "access",
+            "count": 1
+          },
+          {
+            "word": "across",
+            "count": 1
+          },
+          {
+            "word": "Active",
+            "count": 1
+          },
+          {
+            "word": "all",
+            "count": 1
+          },
+          {
+            "word": "All",
+            "count": 1
+          },
+          {
+            "word": "all-time",
+            "count": 2
+          },
+          {
+            "word": "an",
+            "count": 3
+          },
+          {
+            "word": "and",
+            "count": 7
+          },
+          {
+            "word": "annualised",
+            "count": 2
+          },
+          {
+            "word": "approved",
+            "count": 1
+          },
+          {
+            "word": "are",
+            "count": 1
+          },
+          {
+            "word": "at",
+            "count": 3
+          },
+          {
+            "word": "Balanced",
+            "count": 12
+          },
+          {
+            "word": "band",
+            "count": 1
+          },
+          {
+            "word": "BAND",
+            "count": 1
+          },
+          {
+            "word": "barrel",
+            "count": 2
+          },
+          {
+            "word": "basis",
+            "count": 4
+          },
+          {
+            "word": "beat",
+            "count": 1
+          },
+          {
+            "word": "before",
+            "count": 2
+          },
+          {
+            "word": "below",
+            "count": 5
+          },
+          {
+            "word": "BIGGEST",
+            "count": 1
+          },
+          {
+            "word": "BLOBS",
+            "count": 2
+          },
+          {
+            "word": "board",
+            "count": 1
+          },
+          {
+            "word": "Board",
+            "count": 1
+          },
+          {
+            "word": "BOARD",
+            "count": 1
+          },
+          {
+            "word": "BOOKS",
+            "count": 1
+          },
+          {
+            "word": "browser",
+            "count": 1
+          },
+          {
+            "word": "candidate",
+            "count": 2
+          },
+          {
+            "word": "cap",
+            "count": 1
+          },
+          {
+            "word": "carry",
+            "count": 1
+          },
+          {
+            "word": "Chain",
+            "count": 1
+          },
+          {
+            "word": "chains",
+            "count": 1
+          },
+          {
+            "word": "close",
+            "count": 1
+          },
+          {
+            "word": "CLOSE",
+            "count": 1
+          },
+          {
+            "word": "closes",
+            "count": 5
+          },
+          {
+            "word": "Cluster",
+            "count": 1
+          },
+          {
+            "word": "Compare",
+            "count": 1
+          },
+          {
+            "word": "Compressed-NFT",
+            "count": 2
+          },
+          {
+            "word": "Connect",
+            "count": 1
+          },
+          {
+            "word": "consensus",
+            "count": 1
+          },
+          {
+            "word": "content",
+            "count": 1
+          },
+          {
+            "word": "count",
+            "count": 1
+          },
+          {
+            "word": "COVERAGE",
+            "count": 1
+          },
+          {
+            "word": "CPI",
+            "count": 2
+          },
+          {
+            "word": "Crude",
+            "count": 2
+          },
+          {
+            "word": "CRUDE",
+            "count": 2
+          },
+          {
+            "word": "CURVE",
+            "count": 1
+          },
+          {
+            "word": "cut",
+            "count": 1
+          },
+          {
+            "word": "Daily",
+            "count": 1
+          },
+          {
+            "word": "data",
+            "count": 2
+          },
+          {
+            "word": "Data",
+            "count": 1
+          },
+          {
+            "word": "DATA",
+            "count": 1
+          },
+          {
+            "word": "day",
+            "count": 3
+          },
+          {
+            "word": "DEEPEST",
+            "count": 1
+          },
+          {
+            "word": "DeFi",
+            "count": 1
+          },
+          {
+            "word": "DEFI",
+            "count": 1
+          },
+          {
+            "word": "depth",
+            "count": 3
+          },
+          {
+            "word": "Derived",
+            "count": 1
+          },
+          {
+            "word": "destination",
+            "count": 2
+          },
+          {
+            "word": "DEX",
+            "count": 2
+          },
+          {
+            "word": "Digest",
+            "count": 1
+          },
+          {
+            "word": "DIGEST",
+            "count": 1
+          },
+          {
+            "word": "Dispersion",
+            "count": 1
+          },
+          {
+            "word": "dollar",
+            "count": 1
+          },
+          {
+            "word": "Dollar",
+            "count": 2
+          },
+          {
+            "word": "doubles",
+            "count": 2
+          },
+          {
+            "word": "drawdown",
+            "count": 1
+          },
+          {
+            "word": "DXY",
+            "count": 1
+          },
+          {
+            "word": "end",
+            "count": 2
+          },
+          {
+            "word": "ENERGY",
+            "count": 2
+          },
+          {
+            "word": "ETF",
+            "count": 2
+          },
+          {
+            "word": "event",
+            "count": 1
+          },
+          {
+            "word": "EVENT",
+            "count": 2
+          },
+          {
+            "word": "event's",
+            "count": 1
+          },
+          {
+            "word": "events",
+            "count": 6
+          },
+          {
+            "word": "Events",
+            "count": 1
+          },
+          {
+            "word": "EVENTS",
+            "count": 1
+          },
+          {
+            "word": "every",
+            "count": 1
+          },
+          {
+            "word": "Every",
+            "count": 3
+          },
+          {
+            "word": "fee",
+            "count": 2
+          },
+          {
+            "word": "FEE",
+            "count": 1
+          },
+          {
+            "word": "fees",
+            "count": 3
+          },
+          {
+            "word": "FEES",
+            "count": 1
+          },
+          {
+            "word": "field",
+            "count": 9
+          },
+          {
+            "word": "Field",
+            "count": 1
+          },
+          {
+            "word": "FIELD",
+            "count": 2
+          },
+          {
+            "word": "figure",
+            "count": 2
+          },
+          {
+            "word": "fixtures",
+            "count": 1
+          },
+          {
+            "word": "for",
+            "count": 5
+          },
+          {
+            "word": "from",
+            "count": 4
+          },
+          {
+            "word": "full",
+            "count": 1
+          },
+          {
+            "word": "funds",
+            "count": 1
+          },
+          {
+            "word": "green",
+            "count": 1
+          },
+          {
+            "word": "guide",
+            "count": 1
+          },
+          {
+            "word": "Headline",
+            "count": 1
+          },
+          {
+            "word": "high",
+            "count": 2
+          },
+          {
+            "word": "higher",
+            "count": 1
+          },
+          {
+            "word": "Highest",
+            "count": 1
+          },
+          {
+            "word": "holds",
+            "count": 13
+          },
+          {
+            "word": "illustrative",
+            "count": 3
+          },
+          {
+            "word": "Illustrative",
+            "count": 2
+          },
+          {
+            "word": "ILLUSTRATIVE",
+            "count": 2
+          },
+          {
+            "word": "in",
+            "count": 3
+          },
+          {
+            "word": "index",
+            "count": 5
+          },
+          {
+            "word": "INDEX",
+            "count": 3
+          },
+          {
+            "word": "inside",
+            "count": 7
+          },
+          {
+            "word": "interest",
+            "count": 1
+          },
+          {
+            "word": "interface",
+            "count": 1
+          },
+          {
+            "word": "is",
+            "count": 8
+          },
+          {
+            "word": "its",
+            "count": 3
+          },
+          {
+            "word": "JOBS",
+            "count": 1
+          },
+          {
+            "word": "KAV-01",
+            "count": 3
+          },
+          {
+            "word": "KAV-02",
+            "count": 2
+          },
+          {
+            "word": "KAV-03",
+            "count": 1
+          },
+          {
+            "word": "KAV-04",
+            "count": 1
+          },
+          {
+            "word": "KAV-05",
+            "count": 1
+          },
+          {
+            "word": "KAV-06",
+            "count": 1
+          },
+          {
+            "word": "KAV-07",
+            "count": 1
+          },
+          {
+            "word": "KAV-08",
+            "count": 1
+          },
+          {
+            "word": "KAV-09",
+            "count": 2
+          },
+          {
+            "word": "KAV-10",
+            "count": 1
+          },
+          {
+            "word": "KAV-11",
+            "count": 1
+          },
+          {
+            "word": "KAV-12",
+            "count": 1
+          },
+          {
+            "word": "KAV-13",
+            "count": 2
+          },
+          {
+            "word": "KAV-14",
+            "count": 2
+          },
+          {
+            "word": "KAV-15",
+            "count": 1
+          },
+          {
+            "word": "KAV-16",
+            "count": 1
+          },
+          {
+            "word": "KAV-17",
+            "count": 1
+          },
+          {
+            "word": "KAV-18",
+            "count": 2
+          },
+          {
+            "word": "KAV-19",
+            "count": 1
+          },
+          {
+            "word": "KAV-20",
+            "count": 2
+          },
+          {
+            "word": "KAV-21",
+            "count": 2
+          },
+          {
+            "word": "KAV-22",
+            "count": 2
+          },
+          {
+            "word": "KAV-23",
+            "count": 1
+          },
+          {
+            "word": "KAV-24",
+            "count": 1
+          },
+          {
+            "word": "KAV-25",
+            "count": 1
+          },
+          {
+            "word": "KAV-26",
+            "count": 1
+          },
+          {
+            "word": "KAV-27",
+            "count": 1
+          },
+          {
+            "word": "KAV-28",
+            "count": 2
+          },
+          {
+            "word": "KAV-29",
+            "count": 1
+          },
+          {
+            "word": "KAV-30",
+            "count": 1
+          },
+          {
+            "word": "KAV-31",
+            "count": 2
+          },
+          {
+            "word": "KAV-32",
+            "count": 1
+          },
+          {
+            "word": "Kavrel",
+            "count": 2
+          },
+          {
+            "word": "KAVREL",
+            "count": 2
+          },
+          {
+            "word": "kavrel.xyz",
+            "count": 3
+          },
+          {
+            "word": "keep",
+            "count": 1
+          },
+          {
+            "word": "Lead",
+            "count": 1
+          },
+          {
+            "word": "leads",
+            "count": 1
+          },
+          {
+            "word": "Ledger",
+            "count": 1
+          },
+          {
+            "word": "LEDGER",
+            "count": 1
+          },
+          {
+            "word": "level",
+            "count": 3
+          },
+          {
+            "word": "line",
+            "count": 3
+          },
+          {
+            "word": "Liquid",
+            "count": 1
+          },
+          {
+            "word": "live",
+            "count": 1
+          },
+          {
+            "word": "Long",
+            "count": 7
+          },
+          {
+            "word": "Long-horizon",
+            "count": 6
+          },
+          {
+            "word": "LST",
+            "count": 1
+          },
+          {
+            "word": "Macro",
+            "count": 3
+          },
+          {
+            "word": "MACRO",
+            "count": 2
+          },
+          {
+            "word": "market",
+            "count": 35
+          },
+          {
+            "word": "Market",
+            "count": 1
+          },
+          {
+            "word": "mean",
+            "count": 3
+          },
+          {
+            "word": "Median",
+            "count": 2
+          },
+          {
+            "word": "meeting",
+            "count": 1
+          },
+          {
+            "word": "meme",
+            "count": 2
+          },
+          {
+            "word": "MEME",
+            "count": 2
+          },
+          {
+            "word": "million",
+            "count": 2
+          },
+          {
+            "word": "mints",
+            "count": 2
+          },
+          {
+            "word": "Model",
+            "count": 33
+          },
+          {
+            "word": "month",
+            "count": 4
+          },
+          {
+            "word": "Monthly",
+            "count": 1
+          },
+          {
+            "word": "move",
+            "count": 2
+          },
+          {
+            "word": "MOVES",
+            "count": 1
+          },
+          {
+            "word": "native",
+            "count": 1
+          },
+          {
+            "word": "negative",
+            "count": 1
+          },
+          {
+            "word": "network",
+            "count": 1
+          },
+          {
+            "word": "Network",
+            "count": 1
+          },
+          {
+            "word": "NETWORK",
+            "count": 8
+          },
+          {
+            "word": "new",
+            "count": 2
+          },
+          {
+            "word": "next",
+            "count": 1
+          },
+          {
+            "word": "no",
+            "count": 1
+          },
+          {
+            "word": "No",
+            "count": 2
+          },
+          {
+            "word": "NO",
+            "count": 36
+          },
+          {
+            "word": "node",
+            "count": 1
+          },
+          {
+            "word": "Non-farm",
+            "count": 1
+          },
+          {
+            "word": "not",
+            "count": 1
+          },
+          {
+            "word": "now",
+            "count": 1
+          },
+          {
+            "word": "Oct",
+            "count": 1
+          },
+          {
+            "word": "OCT",
+            "count": 1
+          },
+          {
+            "word": "of",
+            "count": 6
+          },
+          {
+            "word": "on",
+            "count": 2
+          },
+          {
+            "word": "one",
+            "count": 5
+          },
+          {
+            "word": "One",
+            "count": 1
+          },
+          {
+            "word": "only",
+            "count": 2
+          },
+          {
+            "word": "open",
+            "count": 1
+          },
+          {
+            "word": "Open",
+            "count": 1
+          },
+          {
+            "word": "opens",
+            "count": 1
+          },
+          {
+            "word": "optional",
+            "count": 1
+          },
+          {
+            "word": "or",
+            "count": 1
+          },
+          {
+            "word": "oracle",
+            "count": 1
+          },
+          {
+            "word": "order",
+            "count": 1
+          },
+          {
+            "word": "outcome",
+            "count": 33
+          },
+          {
+            "word": "Outcome",
+            "count": 2
+          },
+          {
+            "word": "page",
+            "count": 1
+          },
+          {
+            "word": "pass",
+            "count": 2
+          },
+          {
+            "word": "passes",
+            "count": 2
+          },
+          {
+            "word": "payrolls",
+            "count": 1
+          },
+          {
+            "word": "peg",
+            "count": 2
+          },
+          {
+            "word": "placed",
+            "count": 1
+          },
+          {
+            "word": "plus",
+            "count": 1
+          },
+          {
+            "word": "points",
+            "count": 4
+          },
+          {
+            "word": "policy",
+            "count": 1
+          },
+          {
+            "word": "position",
+            "count": 1
+          },
+          {
+            "word": "positive",
+            "count": 1
+          },
+          {
+            "word": "posts",
+            "count": 1
+          },
+          {
+            "word": "prediction-market",
+            "count": 2
+          },
+          {
+            "word": "preview",
+            "count": 1
+          },
+          {
+            "word": "Preview",
+            "count": 1
+          },
+          {
+            "word": "print",
+            "count": 1
+          },
+          {
+            "word": "prints",
+            "count": 3
+          },
+          {
+            "word": "Priority",
+            "count": 1
+          },
+          {
+            "word": "PRIORITY",
+            "count": 1
+          },
+          {
+            "word": "probability",
+            "count": 3
+          },
+          {
+            "word": "PROFILE",
+            "count": 1
+          },
+          {
+            "word": "profiles",
+            "count": 1
+          },
+          {
+            "word": "program",
+            "count": 1
+          },
+          {
+            "word": "pt",
+            "count": 35
+          },
+          {
+            "word": "quarter",
+            "count": 5
+          },
+          {
+            "word": "Quarterly",
+            "count": 4
+          },
+          {
+            "word": "rank",
+            "count": 1
+          },
+          {
+            "word": "RANK",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "RATES",
+            "count": 2
+          },
+          {
+            "word": "read",
+            "count": 1
+          },
+          {
+            "word": "Read",
+            "count": 1
+          },
+          {
+            "word": "read-only",
+            "count": 1
+          },
+          {
+            "word": "reading",
+            "count": 3
+          },
+          {
+            "word": "readings",
+            "count": 3
+          },
+          {
+            "word": "Readings",
+            "count": 1
+          },
+          {
+            "word": "READINGS",
+            "count": 1
+          },
+          {
+            "word": "reads",
+            "count": 1
+          },
+          {
+            "word": "Realised",
+            "count": 1
+          },
+          {
+            "word": "Receipts",
+            "count": 1
+          },
+          {
+            "word": "research",
+            "count": 1
+          },
+          {
+            "word": "RESEARCH",
+            "count": 1
+          },
+          {
+            "word": "result",
+            "count": 1
+          },
+          {
+            "word": "RPC",
+            "count": 1
+          },
+          {
+            "word": "S1",
+            "count": 1
+          },
+          {
+            "word": "S2",
+            "count": 1
+          },
+          {
+            "word": "S3",
+            "count": 1
+          },
+          {
+            "word": "S4",
+            "count": 1
+          },
+          {
+            "word": "S5",
+            "count": 1
+          },
+          {
+            "word": "S6",
+            "count": 2
+          },
+          {
+            "word": "sample",
+            "count": 11
+          },
+          {
+            "word": "Sample",
+            "count": 1
+          },
+          {
+            "word": "SAMPLE",
+            "count": 2
+          },
+          {
+            "word": "scenarios",
+            "count": 1
+          },
+          {
+            "word": "selected",
+            "count": 1
+          },
+          {
+            "word": "SELECTED",
+            "count": 1
+          },
+          {
+            "word": "session",
+            "count": 2
+          },
+          {
+            "word": "SESSION",
+            "count": 1
+          },
+          {
+            "word": "settles",
+            "count": 1
+          },
+          {
+            "word": "shard",
+            "count": 2
+          },
+          {
+            "word": "SHARD",
+            "count": 3
+          },
+          {
+            "word": "share",
+            "count": 1
+          },
+          {
+            "word": "SHARE",
+            "count": 1
+          },
+          {
+            "word": "shares",
+            "count": 1
+          },
+          {
+            "word": "shot",
+            "count": 7
+          },
+          {
+            "word": "simulated",
+            "count": 1
+          },
+          {
+            "word": "six",
+            "count": 1
+          },
+          {
+            "word": "Skip",
+            "count": 1
+          },
+          {
+            "word": "SNAPSHOT",
+            "count": 1
+          },
+          {
+            "word": "SOL",
+            "count": 22
+          },
+          {
+            "word": "Solana",
+            "count": 11
+          },
+          {
+            "word": "SOLANA",
+            "count": 1
+          },
+          {
+            "word": "split",
+            "count": 2
+          },
+          {
+            "word": "spot",
+            "count": 1
+          },
+          {
+            "word": "spread",
+            "count": 4
+          },
+          {
+            "word": "stability",
+            "count": 2
+          },
+          {
+            "word": "Stable",
+            "count": 12
+          },
+          {
+            "word": "staking",
+            "count": 1
+          },
+          {
+            "word": "Staking",
+            "count": 2
+          },
+          {
+            "word": "STAKING",
+            "count": 1
+          },
+          {
+            "word": "state",
+            "count": 1
+          },
+          {
+            "word": "stay",
+            "count": 2
+          },
+          {
+            "word": "stays",
+            "count": 6
+          },
+          {
+            "word": "strikes",
+            "count": 2
+          },
+          {
+            "word": "struck",
+            "count": 1
+          },
+          {
+            "word": "sums",
+            "count": 1
+          },
+          {
+            "word": "supply",
+            "count": 1
+          },
+          {
+            "word": "sustains",
+            "count": 1
+          },
+          {
+            "word": "tab",
+            "count": 1
+          },
+          {
+            "word": "target",
+            "count": 2
+          },
+          {
+            "word": "Testnet",
+            "count": 3
+          },
+          {
+            "word": "TESTNET",
+            "count": 1
+          },
+          {
+            "word": "the",
+            "count": 22
+          },
+          {
+            "word": "The",
+            "count": 5
+          },
+          {
+            "word": "this",
+            "count": 10
+          },
+          {
+            "word": "through",
+            "count": 2
+          },
+          {
+            "word": "to",
+            "count": 1
+          },
+          {
+            "word": "Top-of-book",
+            "count": 2
+          },
+          {
+            "word": "top-three",
+            "count": 1
+          },
+          {
+            "word": "total",
+            "count": 1
+          },
+          {
+            "word": "totals",
+            "count": 1
+          },
+          {
+            "word": "TPS",
+            "count": 2
+          },
+          {
+            "word": "TRACE",
+            "count": 2
+          },
+          {
+            "word": "Tracked",
+            "count": 1
+          },
+          {
+            "word": "traders",
+            "count": 5
+          },
+          {
+            "word": "trades",
+            "count": 3
+          },
+          {
+            "word": "transaction",
+            "count": 2
+          },
+          {
+            "word": "tune",
+            "count": 1
+          },
+          {
+            "word": "TVL",
+            "count": 2
+          },
+          {
+            "word": "under",
+            "count": 7
+          },
+          {
+            "word": "unregistered",
+            "count": 2
+          },
+          {
+            "word": "uptime",
+            "count": 1
+          },
+          {
+            "word": "UPTIME",
+            "count": 1
+          },
+          {
+            "word": "USD",
+            "count": 1
+          },
+          {
+            "word": "USDC",
+            "count": 12
+          },
+          {
+            "word": "validator",
+            "count": 1
+          },
+          {
+            "word": "VALIDATORS",
+            "count": 1
+          },
+          {
+            "word": "Variable",
+            "count": 4
+          },
+          {
+            "word": "verifiable",
+            "count": 1
+          },
+          {
+            "word": "VOL",
+            "count": 1
+          },
+          {
+            "word": "volatility",
+            "count": 1
+          },
+          {
+            "word": "volume",
+            "count": 4
+          },
+          {
+            "word": "VOLUME",
+            "count": 1
+          },
+          {
+            "word": "Wallet",
+            "count": 1
+          },
+          {
+            "word": "week",
+            "count": 4
+          },
+          {
+            "word": "weekly",
+            "count": 3
+          },
+          {
+            "word": "WEEKLY",
+            "count": 1
+          },
+          {
+            "word": "What",
+            "count": 1
+          },
+          {
+            "word": "workflow",
+            "count": 1
+          },
+          {
+            "word": "workspace",
+            "count": 1
+          },
+          {
+            "word": "year",
+            "count": 5
+          },
+          {
+            "word": "YES",
+            "count": 41
+          },
+          {
+            "word": "yield",
+            "count": 3
+          }
+        ],
+        "attrs": [
+          {
+            "key": "aria-label=Filter events by profile",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Illustrative desk summary",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Illustrative prediction events",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Kavrel home",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Open the full event list",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Outcome split",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Primary navigation",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for A research shard posts a verifiable result this year",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for A Solana meme index doubles inside the quarter",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for A spot SOL ETF is approved this quarter",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Active validator count passes 2,000",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Cluster uptime holds at 100% for the month",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Compressed-NFT mints pass one million in a day",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Crude holds above $85 a barrel for the month",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Daily network fees stay under 1,000 SOL",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Dollar stability holds through the session",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Headline CPI prints under 3% year on year",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Liquid staking share passes 12% of supply",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Median transaction fee stays under $0.01",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Network sustains 5,000 TPS for a full day",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Non-farm payrolls beat the consensus print",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Outcome index settles higher this week",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Priority fees stay below 50% of total fees",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Realised volatility closes under 40% this month",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for SOL drawdown stays inside 8% this week",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for SOL market cap holds a top-three rank",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for SOL prints a new all-time high this year",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for SOL trades above $250 before the end of the quarter",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Solana closes above the weekly target",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Solana DeFi TVL holds above $20B",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Solana DEX volume leads all chains this week",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Solana trades above $200 at the weekly close",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Staking yield stays above 6% annualised",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for The 10-year yield stays below 4.5%",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for The dollar index holds inside its 2% band",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for The index closes the week in the green",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for The policy rate is cut at the next meeting",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for Top-of-book spread holds under 5 basis points",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Read the shard field for USDC holds its peg inside 10 basis points",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Search events",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Section navigation",
+            "count": 1
+          },
+          {
+            "key": "placeholder=Search events",
+            "count": 1
+          },
+          {
+            "key": "title=Full event list",
+            "count": 1
+          }
+        ],
+        "links": [
+          {
+            "href": "#governance",
+            "count": 2
+          },
+          {
+            "href": "#main-content",
+            "count": 1
+          },
+          {
+            "href": "#markets",
+            "count": 2
+          },
+          {
+            "href": "#overview",
+            "count": 3
+          },
+          {
+            "href": "#positions",
+            "count": 2
+          }
+        ],
+        "forms": [
+          {
+            "key": "input::range",
+            "count": 1
+          },
+          {
+            "key": "input::search",
+            "count": 1
+          }
+        ],
+        "fieldIssues": [],
+        "imageIssues": [],
+        "interactiveIssues": [],
+        "classTokens": [
+          "brd-actions",
+          "brd-axis",
+          "brd-axis-line",
+          "brd-beat",
+          "brd-beat-body",
+          "brd-beat-label",
+          "brd-beat-rule",
+          "brd-brand",
+          "brd-brand-cluster",
+          "brd-brand-mark",
+          "brd-brand-name",
+          "brd-brand-type",
+          "brd-btn",
+          "brd-btn--ghost",
+          "brd-btn--solid",
+          "brd-colophon",
+          "brd-delta",
+          "brd-depth-bar",
+          "brd-digest",
+          "brd-disclosure",
+          "brd-dot",
+          "brd-dot--no",
+          "brd-dot--yes",
+          "brd-event",
+          "brd-event-body",
+          "brd-event-head",
+          "brd-event-meta",
+          "brd-event-visual",
+          "brd-facts",
+          "brd-field",
+          "brd-field-foot",
+          "brd-field-head",
+          "brd-figure",
+          "brd-figures",
+          "brd-fill-ember",
+          "brd-fill-indigo",
+          "brd-fill-mint",
+          "brd-glyph",
+          "brd-iconbtn",
+          "brd-kicker",
+          "brd-lede",
+          "brd-ledger",
+          "brd-legend",
+          "brd-list",
+          "brd-list-body",
+          "brd-list-ref",
+          "brd-list-row",
+          "brd-list-row--depth",
+          "brd-masthead",
+          "brd-meter",
+          "brd-note",
+          "brd-open",
+          "brd-open-copy",
+          "brd-page",
+          "brd-profile-row",
+          "brd-profiles",
+          "brd-range",
+          "brd-reading",
+          "brd-reading-index",
+          "brd-reading-note",
+          "brd-reading-track",
+          "brd-reading-value",
+          "brd-readings",
+          "brd-ribbon",
+          "brd-ribbon-item",
+          "brd-ribbon-tag",
+          "brd-roll",
+          "brd-rollnav",
+          "brd-row",
+          "brd-row-act",
+          "brd-row-facts",
+          "brd-row-head",
+          "brd-row-hit",
+          "brd-row-level",
+          "brd-row-ref",
+          "brd-rows",
+          "brd-scene",
+          "brd-scene--digest",
+          "brd-scene--field",
+          "brd-scene--ledger",
+          "brd-scene--open",
+          "brd-scene-label",
+          "brd-search",
+          "brd-segment",
+          "brd-skip",
+          "brd-slab",
+          "brd-slab-head",
+          "brd-spark",
+          "brd-split",
+          "brd-split-bar",
+          "brd-split-head",
+          "brd-stage",
+          "brd-stamp",
+          "brd-stamp--quiet",
+          "brd-statement",
+          "brd-statement--sm",
+          "brd-tag",
+          "brd-tag--ember",
+          "brd-tag--indigo",
+          "brd-tag--mint",
+          "brd-ticker",
+          "brd-ticker-link",
+          "brd-toolbar",
+          "brd-tools",
+          "brd-trace",
+          "brd-trace-bars",
+          "brd-trace-foot",
+          "brd-trace-head",
+          "brd-trace-level",
+          "brd-trace-main",
+          "brd-trace-note",
+          "brd-up",
+          "brd-wallet",
+          "is-current",
+          "is-lead",
+          "is-live"
+        ],
+        "fingerprint": [
+          "a@5:0",
+          "a@6:2",
+          "a@7:2",
+          "article@10:2",
+          "b@11:0",
+          "b@12:0",
+          "b@14:0",
+          "b@7:0",
+          "button@10:1",
+          "button@11:0",
+          "button@12:1",
+          "button@13:3",
+          "button@13:4+",
+          "button@7:2",
+          "button@9:1",
+          "dd@11:0",
+          "div@10:1",
+          "div@10:2",
+          "div@10:3",
+          "div@10:4+",
+          "div@11:2",
+          "div@11:3",
+          "div@12:4+",
+          "div@3:1",
+          "div@4:4+",
+          "div@5:4+",
+          "div@6:2",
+          "div@7:2",
+          "div@8:1",
+          "div@8:2",
+          "div@8:4+",
+          "div@9:2",
+          "div@9:3",
+          "div@9:4+",
+          "dl@9:4+",
+          "dt@11:0",
+          "em@15:0",
+          "figcaption@11:2",
+          "figure@10:3",
+          "footer@5:2",
+          "h1@11:0",
+          "h2@10:0",
+          "h2@9:0",
+          "h3@12:0",
+          "header@5:3",
+          "i@10:0",
+          "i@11:0",
+          "i@12:0",
+          "i@13:0",
+          "i@14:0",
+          "i@14:1",
+          "i@15:0",
+          "img@7:0",
+          "input@10:0",
+          "input@11:0",
+          "label@10:2",
+          "label@11:0",
+          "li@11:3",
+          "li@11:4+",
+          "li@12:1",
+          "main@5:4+",
+          "nav@6:4+",
+          "ol@10:4+",
+          "ol@11:4+",
+          "p@11:0",
+          "p@11:1",
+          "p@9:0",
+          "p@9:1",
+          "p@9:3",
+          "path@11:0",
+          "path@12:0",
+          "path@13:0",
+          "path@14:0",
+          "path@9:0",
+          "section@6:1",
+          "section@8:4+",
+          "section@9:4+",
+          "small@11:0",
+          "small@12:0",
+          "small@14:0",
+          "small@15:0",
+          "small@8:0",
+          "span@10:0",
+          "span@10:2",
+          "span@11:0",
+          "span@11:1",
+          "span@11:2",
+          "span@12:0",
+          "span@12:1",
+          "span@12:4+",
+          "span@13:2",
+          "span@13:3",
+          "span@14:0",
+          "span@14:1",
+          "span@14:2",
+          "span@6:1",
+          "span@7:0",
+          "span@7:1",
+          "span@7:2",
+          "span@8:0",
+          "span@9:0",
+          "strong@11:0",
+          "strong@14:0",
+          "strong@15:0",
+          "strong@8:0",
+          "svg@10:1",
+          "svg@11:1",
+          "svg@12:1",
+          "svg@13:1",
+          "svg@8:1",
+          "ul@10:4+",
+          "ul@11:3"
+        ],
+        "landmarks": [
+          {
+            "tag": "header",
+            "role": "",
+            "top": 0,
+            "left": 0,
+            "width": 390,
+            "height": 117
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 68,
+            "left": 0,
+            "width": 390,
+            "height": 47
+          },
+          {
+            "tag": "main",
+            "role": "",
+            "top": 158,
+            "left": 0,
+            "width": 390,
+            "height": 12613
+          },
+          {
+            "tag": "footer",
+            "role": "",
+            "top": 12771,
+            "left": 0,
+            "width": 390,
+            "height": 121
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 12858,
+            "left": 0,
+            "width": 390,
+            "height": 34
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#161616",
+            "count": 682
+          },
+          {
+            "hex": "#6e625c",
+            "count": 304
+          },
+          {
+            "hex": "#ffffff",
+            "count": 122
+          },
+          {
+            "hex": "#fafaf9",
+            "count": 26
+          },
+          {
+            "hex": "#ff7a00",
+            "count": 25
+          },
+          {
+            "hex": "#ff0421",
+            "count": 13
+          },
+          {
+            "hex": "#1e6b47",
+            "count": 9
+          },
+          {
+            "hex": "#ffe3d6",
+            "count": 8
+          },
+          {
+            "hex": "#e30005",
+            "count": 5
+          },
+          {
+            "hex": "#b00016",
+            "count": 1
+          },
+          {
+            "hex": "#e7d5ca",
+            "count": 1
+          }
+        ],
+        "contrast": [],
+        "contrastChecked": 404,
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "ONE LINE, STRUCK FROM SIX READINGS."
+          },
+          {
+            "tag": "h2",
+            "text": "SAMPLE EVENTS"
+          },
+          {
+            "tag": "h2",
+            "text": "SOLANA CLOSES ABOVE THE WEEKLY TARGET · YES / NO"
+          },
+          {
+            "tag": "h3",
+            "text": "6 READINGS · 4 PT SPREAD"
+          },
+          {
+            "tag": "h2",
+            "text": "WHAT THE SAMPLE BOARD HOLDS"
+          }
+        ],
+        "navTargets": [
+          ""
+        ],
+        "overflow": {
+          "documentOverflow": false,
+          "offenders": [
+            {
+              "selector": "header.brd-masthead > nav.brd-ticker > a.brd-ticker-link",
+              "right": 422,
+              "width": 95
+            },
+            {
+              "selector": "nav.brd-ticker > a.brd-ticker-link > span",
+              "right": 407,
+              "width": 42
+            },
+            {
+              "selector": "div.brd-page > div.brd-ribbon > span.brd-ribbon-item",
+              "right": 479,
+              "width": 109
+            },
+            {
+              "selector": "div.brd-ribbon > span.brd-ribbon-item > b",
+              "right": 466,
+              "width": 42
+            },
+            {
+              "selector": "div.brd-page > div.brd-ribbon > span.brd-ribbon-item",
+              "right": 628,
+              "width": 150
+            },
+            {
+              "selector": "div.brd-ribbon > span.brd-ribbon-item > b",
+              "right": 615,
+              "width": 75
+            }
+          ]
+        }
+      },
+      "mobileNav": {
+        "opened": false,
+        "targets": [
+          ""
+        ],
+        "reachable": true
+      },
+      "focus": {
+        "samples": [
+          {
+            "tag": "a",
+            "text": "SKIP TO CONTENT",
+            "outlineStyle": "solid",
+            "outlineWidth": "3px",
+            "outlineColor": "rgb(255, 4, 33)",
+            "boxShadow": "none",
+            "borderColor": "rgb(250, 250, 249)",
+            "backgroundColor": "rgb(22, 22, 22)"
+          },
+          {
+            "tag": "a",
+            "text": "Kavrel home",
+            "outlineStyle": "solid",
+            "outlineWidth": "3px",
+            "outlineColor": "rgb(227, 0, 5)",
+            "boxShadow": "none",
+            "borderColor": "rgb(22, 22, 22)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "LEDGER",
+            "outlineStyle": "solid",
+            "outlineWidth": "3px",
+            "outlineColor": "rgb(227, 0, 5)",
+            "boxShadow": "none",
+            "borderColor": "rgb(22, 22, 22) rgb(231, 213, 202) rgb(22, 22, 22) rgb(22, 22, 22)",
+            "backgroundColor": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "a",
+            "text": "EVENTS",
+            "outlineStyle": "solid",
+            "outlineWidth": "3px",
+            "outlineColor": "rgb(227, 0, 5)",
+            "boxShadow": "none",
+            "borderColor": "rgb(110, 98, 92) rgb(231, 213, 202) rgb(110, 98, 92) rgb(110, 98, 92)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "RECEIPTS",
+            "outlineStyle": "solid",
+            "outlineWidth": "3px",
+            "outlineColor": "rgb(227, 0, 5)",
+            "boxShadow": "none",
+            "borderColor": "rgb(110, 98, 92) rgb(231, 213, 202) rgb(110, 98, 92) rgb(110, 98, 92)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "CHAIN",
+            "outlineStyle": "solid",
+            "outlineWidth": "3px",
+            "outlineColor": "rgb(227, 0, 5)",
+            "boxShadow": "none",
+            "borderColor": "rgb(110, 98, 92) rgb(231, 213, 202) rgb(110, 98, 92) rgb(110, 98, 92)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "button",
+            "text": "CONNECT",
+            "outlineStyle": "solid",
+            "outlineWidth": "3px",
+            "outlineColor": "rgb(227, 0, 5)",
+            "boxShadow": "none",
+            "borderColor": "rgb(250, 250, 249)",
+            "backgroundColor": "rgb(22, 22, 22)"
+          },
+          {
+            "tag": "div",
+            "text": "Illustrative desk summary",
+            "outlineStyle": "solid",
+            "outlineWidth": "3px",
+            "outlineColor": "rgb(227, 0, 5)",
+            "boxShadow": "none",
+            "borderColor": "rgb(250, 250, 249) rgb(250, 250, 249) rgb(22, 22, 22)",
+            "backgroundColor": "rgb(22, 22, 22)"
+          }
+        ],
+        "visibleCount": 8,
+        "passed": true
+      }
+    }
+  }
+}

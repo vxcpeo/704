@@ -1,17 +1,17 @@
 # Reskin verification — PASS
 
-Generated: 2026-10-20T15:55:10.241Z
+Generated: 2026-10-21T13:48:49.040Z
 
-- Project: **kavrel-terminal**
-- URL: http://127.0.0.1:4318/
-- Original skeleton: `orbital` (spatial)
-- New skeleton: `marketing-stack` (editorial)
-- Accent: #40b3ff -> #ff0421 (136.56 ΔE; min 30)
-- Source contract: intact (`623d3a5397a3`)
+- Project: **corvantis-terminal**
+- URL: http://127.0.0.1:4317/
+- Original skeleton: `marketing-stack` (editorial)
+- New skeleton: `sidebar-workspace` (shell)
+- Accent: #ff0421 -> #9945ff (135.92 ΔE; min 30)
+- Source contract: intact (`00fc81c53494`)
 
 | Route | Result | DOM similarity | Landmark similarity | Axe serious | Screenshot |
 |---|---|---:|---:|---:|---|
-| `/` | PASS | 0.337 | 0.6 | 0 | [desktop](current/home-desktop.png) |
+| `/` | PASS | 0.38 | 0.556 | 0 | [desktop](current/home-desktop.png) |
 
 ## Blocking issues
 

@@ -1,6 +1,6 @@
-# Kavrel frontend
+# Corvantis frontend
 
-**Every reading strikes one line.** Vue 3 / Vite on Solana, with a poster-desk interface: cream ground, ink rules, a ticker nav and ruled ledger bands.
+**Every reading strikes one line.** Vue 3 / Vite on Solana, with a spectrum-terminal interface: black ground, violet signal, phosphor-green trace, a command bar and a three-pane console.
 
 The interface supports illustrative event-scenario discovery, a six-reading shard field with a derived field level and point spread, local practice receipts, responsive navigation, and optional read-only SOL and configured outcome-share balance checks through an injected Solana provider. The configured YES market-asset mint `EvatdLdQKLV5pMzp75dCbyWbVewckB2SXuEwnoHQfEbj` is deployed on Testnet as a classic SPL Token with 9 decimals and zero initial supply; prediction-market execution, oracle, settlement, and issuance remain unavailable.
 
@@ -8,22 +8,22 @@ Copy `.env.example` to `.env` and set `VITE_SOLANA_CLUSTER`, `VITE_SOLANA_RPC_UR
 
 ## Layout
 
-The shell is a stacked ledger: sticky top bar, ledger strip, hero band, work band. There is no fixed side rail and no centred modal.
+The shell is a terminal console: a status-telemetry bar, a command bar, then a three-pane work area (filter rail, view, inspector) that collapses to one column below 980 px. It follows the spectrum-terminal direction sampled from solana.com.
 
 | Surface | Component | Notes |
 | --- | --- | --- |
-| Sticky top bar | `TopBar.vue` | Wordmark, inline route links, cluster chip, wallet chip |
-| Small-screen tabs | `MobileTabs.vue` | Top tab strip, shown below 860 px in place of a fixed bottom nav |
-| Ledger strip | `LedgerStrip.vue` | Horizontal band of desk facts: events, readings, field level, board volume, board depth, 24h movers, saved receipts, mint state |
-| Hero band | `App.vue` | Oversized headline, shard trace figure, session trace sparkline and board totals |
-| Event table | `EventTable.vue` | Full-width ledger table with ref, event, profile, field level, spread, depth, 24h volume and a model action |
-| Detail rail | `DetailRail.vue` | Pinned right-hand rail for the selected event: compact shard field, outcome split, illustrative facts |
-| Shard field | `ForgeStage.vue` | Six illustrated readings, derived field level, point spread, marked lead reading |
-| Board digest | `App.vue` | Profile coverage, biggest sample moves and deepest sample books, each row driving the board or the rail |
-| Receipt stack | `ReceiptStack.vue` | Saved session previews as receipts with per-receipt facts and removal |
-| Capability matrix | `CapabilityMatrix.vue` | Chain facts plus a capability table on the Chain route |
-| Toast | `Toast.vue` | Session notices |
-| Icons | `FlowIcon.vue` | Inline icon set |
+| Status bar | `SpectrumBar.vue` | Wordmark, desk telemetry strip, cluster LED, wallet chip |
+| Command bar | `CommandNav.vue` | Route commands with glyphs, labels and saved-receipt count |
+| Filter rail | `App.vue` | Profile segment and search for the Ledger and Events routes; sort is added on Events |
+| Readout | `App.vue` | Kicker, statement headline, lede, actions, session-trace telemetry and four KPI cells |
+| Event ledger | `EventGrid.vue` | Ruled ledger with ref gutter, event title, profile chip, field level and meter, facts and a model action |
+| Inspector | `EventInspector.vue` | Selected event: outcome split slider, illustrative facts, model action and the shard field |
+| Shard field | `ShardMeter.vue` | Six illustrated readings, derived field level, point spread, marked lead reading |
+| Board digest | `App.vue` | Profile coverage, biggest sample moves and deepest sample books, each row driving the view or the inspector |
+| Receipt list | `ReceiptList.vue` | Saved session previews with per-receipt facts and removal |
+| Chain panel | `ChainPanel.vue` | Chain facts plus a capability matrix on the Chain route |
+| Toast | `SignalToast.vue` | Session notices |
+| Icons | `Glyph.vue` | Inline icon set |
 
 Route hashes stay `#overview`, `#markets`, `#positions` and `#governance`, with `#staking` and `#pools` retained as aliases. The visible labels are Ledger, Events, Receipts and Chain. Dialogs are right-anchored `<dialog class="app-sheet">` sheets rather than centred modals.
 
@@ -35,13 +35,13 @@ Illustrative event fixtures and the deterministic shard-field derivation live in
 
 | Asset | Role |
 | --- | --- |
-| `kavrel-mark.svg` | Primary shard-forge mark (wordmark, avatar, cards) |
+| `corvantis-mark.svg` | Primary shard-forge mark (wordmark, avatar, cards) |
 | `favicon.svg` | Reduced mark for small sizes |
 | `favicon-64.png`, `icon-512.png` | Raster twins of the reduced mark |
-| `kavrel-og.png` | 1200 x 630 social and Open Graph card |
+| `corvantis-og.png` | 1200 x 630 social and Open Graph card |
 
-The mark is a shard forge: a rotated-square frame around a diagonal shard with four perpendicular ticks, a bright core and an ember crest. Below roughly 48 px the frame and ticks are dropped, so the favicon uses a reduced variant that keeps only the shard and the crest node; the two shapes are held apart so they stay separate at 16 px.
+The mark is a shard forge: a rotated-square frame around a diagonal shard with four perpendicular ticks, a bright core and an phosphor crest. Below roughly 48 px the frame and ticks are dropped, so the favicon uses a reduced variant that keeps only the shard and the crest node; the two shapes are held apart so they stay separate at 16 px.
 
-The palette follows `brand.json`: ground `#FAFAF9`, sheet `#FFFFFF`, panel `#FFE3D6`, raised panel `#F6EDE7`, ink `#161616`, soft ink `#3A3430`, muted `#6E625C`, rule `#E7D5CA`, signal `#FF0421`, pressed signal `#B00016`, trace `#FF7A00`, YES `#1E6B47`, NO `#B00016`, caution `#8F4B00`.
+The palette follows `brand.json`: ground `#000000`, panel `#0B0B0C`, raised field `#161618`, ink `#FFFFFF`, soft ink `#E6E6EA`, muted `#9B9B9F`, rule `#29292D`, strong rule `#4A4A52`, signal `#9945FF`, pressed signal `#6F2BD1`, trace `#14F195`, YES `#14F195`, NO `#FF5C7A`, caution `#FFD166`.
 
 Brand identity strings live in `src/config.js` (`BRAND_NAME`, `BRAND_SLUG`, `BRAND_TAGLINE`, `BRAND_MARK_URL`, `BRAND_ICON_URL`, `BRAND_DOMAIN`); document metadata lives in `index.html`. `website/a7104sol/` is a synchronized mirror — run `powershell -File scripts/sync-frontend.ps1` from the repository root after frontend changes.

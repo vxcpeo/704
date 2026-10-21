@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T15:55:10.241Z",
+  "generatedAt": "2026-10-21T13:48:49.040Z",
   "project": {
     "root": "E:/workspace/chuangye/solana/704/website",
-    "name": "kavrel-terminal",
-    "baseUrl": "http://127.0.0.1:4318/"
+    "name": "corvantis-terminal",
+    "baseUrl": "http://127.0.0.1:4317/"
   },
   "passed": true,
   "thresholds": {
@@ -20,32 +20,11 @@
       "passed": true,
       "issues": [],
       "warnings": [],
-      "hash": "623d3a5397a3bce834808c85a0156e170b7dcb36afddef8cb85aa8d4b233e258"
+      "hash": "00fc81c534945b1d151a52cfd80d4f53497e315ee88c9b829987d4f217cb00ed"
     },
     "skeleton": {
       "passed": true,
       "original": {
-        "id": "orbital",
-        "family": "spatial",
-        "traits": {
-          "sidebar": false,
-          "topbar": false,
-          "cards": true,
-          "hero": true,
-          "table": true,
-          "grid": true,
-          "tabs": true,
-          "modal": true,
-          "charts": true,
-          "sticky": true,
-          "orbital": true,
-          "terminal": false,
-          "bento": false,
-          "ticker": false,
-          "gallery": true
-        }
-      },
-      "current": {
         "id": "marketing-stack",
         "family": "editorial",
         "traits": {
@@ -66,10 +45,31 @@
           "gallery": false
         }
       },
+      "current": {
+        "id": "sidebar-workspace",
+        "family": "shell",
+        "traits": {
+          "sidebar": true,
+          "topbar": false,
+          "cards": true,
+          "hero": true,
+          "table": true,
+          "grid": true,
+          "tabs": true,
+          "modal": true,
+          "charts": true,
+          "sticky": true,
+          "orbital": false,
+          "terminal": true,
+          "bento": false,
+          "ticker": false,
+          "gallery": false
+        }
+      },
       "accent": {
-        "original": "#40b3ff",
-        "current": "#ff0421",
-        "deltaE": 136.56,
+        "original": "#ff0421",
+        "current": "#9945ff",
+        "deltaE": 135.92,
         "min": 30
       }
     },
@@ -81,9 +81,9 @@
         "failures": [],
         "warnings": [],
         "structure": {
-          "fingerprintSimilarity": 0.337,
-          "landmarkSimilarity": 0.6,
-          "classOverlap": 0.009
+          "fingerprintSimilarity": 0.38,
+          "landmarkSimilarity": 0.556,
+          "classOverlap": 0.008
         },
         "content": {
           "missing": [],
@@ -118,7 +118,7 @@
   "failures": [],
   "warnings": [],
   "baseline": {
-    "generatedAt": "2026-10-20T15:36:48.016Z",
+    "generatedAt": "2026-10-21T13:36:24.337Z",
     "routes": [
       "/"
     ]
