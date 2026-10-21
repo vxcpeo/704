@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "baseline",
-  "generatedAt": "2026-10-19T18:47:08.449Z",
+  "generatedAt": "2026-10-20T15:36:48.016Z",
   "baseUrl": "http://127.0.0.1:4317/",
   "browser": {
     "executablePath": "C:\\Users\\Administrator\\AppData\\Local\\ms-playwright\\chromium-1247\\chrome-win64\\chrome.exe",
@@ -15,13 +15,13 @@
       "status": 200,
       "desktop": {
         "meta": {
-          "title": "Ledger | Shardra",
+          "title": "Ledger | Kavrel",
           "lang": "en",
           "h1Count": 1,
-          "bodyTextLength": 7820,
+          "bodyTextLength": 7842,
           "scrollWidth": 1440,
           "clientWidth": 1440,
-          "focusableCount": 94
+          "focusableCount": 100
         },
         "words": [
           {
@@ -653,11 +653,11 @@
             "count": 1
           },
           {
-            "word": "67.5%",
+            "word": "66%",
             "count": 1
           },
           {
-            "word": "67%",
+            "word": "67.5%",
             "count": 1
           },
           {
@@ -1217,6 +1217,146 @@
             "count": 1
           },
           {
+            "word": "KAV-01",
+            "count": 3
+          },
+          {
+            "word": "KAV-02",
+            "count": 2
+          },
+          {
+            "word": "KAV-03",
+            "count": 1
+          },
+          {
+            "word": "KAV-04",
+            "count": 1
+          },
+          {
+            "word": "KAV-05",
+            "count": 1
+          },
+          {
+            "word": "KAV-06",
+            "count": 1
+          },
+          {
+            "word": "KAV-07",
+            "count": 1
+          },
+          {
+            "word": "KAV-08",
+            "count": 1
+          },
+          {
+            "word": "KAV-09",
+            "count": 2
+          },
+          {
+            "word": "KAV-10",
+            "count": 1
+          },
+          {
+            "word": "KAV-11",
+            "count": 1
+          },
+          {
+            "word": "KAV-12",
+            "count": 1
+          },
+          {
+            "word": "KAV-13",
+            "count": 2
+          },
+          {
+            "word": "KAV-14",
+            "count": 2
+          },
+          {
+            "word": "KAV-15",
+            "count": 1
+          },
+          {
+            "word": "KAV-16",
+            "count": 1
+          },
+          {
+            "word": "KAV-17",
+            "count": 1
+          },
+          {
+            "word": "KAV-18",
+            "count": 2
+          },
+          {
+            "word": "KAV-19",
+            "count": 1
+          },
+          {
+            "word": "KAV-20",
+            "count": 2
+          },
+          {
+            "word": "KAV-21",
+            "count": 2
+          },
+          {
+            "word": "KAV-22",
+            "count": 2
+          },
+          {
+            "word": "KAV-23",
+            "count": 1
+          },
+          {
+            "word": "KAV-24",
+            "count": 1
+          },
+          {
+            "word": "KAV-25",
+            "count": 1
+          },
+          {
+            "word": "KAV-26",
+            "count": 1
+          },
+          {
+            "word": "KAV-27",
+            "count": 1
+          },
+          {
+            "word": "KAV-28",
+            "count": 2
+          },
+          {
+            "word": "KAV-29",
+            "count": 1
+          },
+          {
+            "word": "KAV-30",
+            "count": 1
+          },
+          {
+            "word": "KAV-31",
+            "count": 2
+          },
+          {
+            "word": "KAV-32",
+            "count": 1
+          },
+          {
+            "word": "Kavrel",
+            "count": 2
+          },
+          {
+            "word": "KAVREL",
+            "count": 2
+          },
+          {
+            "word": "kavrel.xyz",
+            "count": 3
+          },
+          {
             "word": "keep",
             "count": 1
           },
@@ -1713,18 +1853,6 @@
             "count": 3
           },
           {
-            "word": "Shardra",
-            "count": 2
-          },
-          {
-            "word": "SHARDRA",
-            "count": 2
-          },
-          {
-            "word": "shardra.xyz",
-            "count": 3
-          },
-          {
             "word": "share",
             "count": 1
           },
@@ -1734,134 +1862,6 @@
           },
           {
             "word": "shares",
-            "count": 1
-          },
-          {
-            "word": "SHD-01",
-            "count": 3
-          },
-          {
-            "word": "SHD-02",
-            "count": 2
-          },
-          {
-            "word": "SHD-03",
-            "count": 1
-          },
-          {
-            "word": "SHD-04",
-            "count": 1
-          },
-          {
-            "word": "SHD-05",
-            "count": 1
-          },
-          {
-            "word": "SHD-06",
-            "count": 1
-          },
-          {
-            "word": "SHD-07",
-            "count": 1
-          },
-          {
-            "word": "SHD-08",
-            "count": 1
-          },
-          {
-            "word": "SHD-09",
-            "count": 2
-          },
-          {
-            "word": "SHD-10",
-            "count": 1
-          },
-          {
-            "word": "SHD-11",
-            "count": 1
-          },
-          {
-            "word": "SHD-12",
-            "count": 1
-          },
-          {
-            "word": "SHD-13",
-            "count": 2
-          },
-          {
-            "word": "SHD-14",
-            "count": 2
-          },
-          {
-            "word": "SHD-15",
-            "count": 1
-          },
-          {
-            "word": "SHD-16",
-            "count": 1
-          },
-          {
-            "word": "SHD-17",
-            "count": 1
-          },
-          {
-            "word": "SHD-18",
-            "count": 2
-          },
-          {
-            "word": "SHD-19",
-            "count": 1
-          },
-          {
-            "word": "SHD-20",
-            "count": 2
-          },
-          {
-            "word": "SHD-21",
-            "count": 2
-          },
-          {
-            "word": "SHD-22",
-            "count": 2
-          },
-          {
-            "word": "SHD-23",
-            "count": 1
-          },
-          {
-            "word": "SHD-24",
-            "count": 1
-          },
-          {
-            "word": "SHD-25",
-            "count": 1
-          },
-          {
-            "word": "SHD-26",
-            "count": 1
-          },
-          {
-            "word": "SHD-27",
-            "count": 1
-          },
-          {
-            "word": "SHD-28",
-            "count": 2
-          },
-          {
-            "word": "SHD-29",
-            "count": 1
-          },
-          {
-            "word": "SHD-30",
-            "count": 1
-          },
-          {
-            "word": "SHD-31",
-            "count": 2
-          },
-          {
-            "word": "SHD-32",
             "count": 1
           },
           {
@@ -2159,6 +2159,10 @@
             "count": 1
           },
           {
+            "key": "aria-label=Kavrel home",
+            "count": 1
+          },
+          {
             "key": "aria-label=Open the full event list",
             "count": 1
           },
@@ -2303,7 +2307,7 @@
             "count": 1
           },
           {
-            "key": "aria-label=Shardra home",
+            "key": "aria-label=Section navigation",
             "count": 1
           },
           {
@@ -2318,7 +2322,7 @@
         "links": [
           {
             "href": "#governance",
-            "count": 1
+            "count": 2
           },
           {
             "href": "#main-content",
@@ -2326,15 +2330,15 @@
           },
           {
             "href": "#markets",
-            "count": 1
-          },
-          {
-            "href": "#overview",
             "count": 2
           },
           {
+            "href": "#overview",
+            "count": 3
+          },
+          {
             "href": "#positions",
-            "count": 1
+            "count": 2
           }
         ],
         "forms": [
@@ -2351,127 +2355,154 @@
         "imageIssues": [],
         "interactiveIssues": [],
         "classTokens": [
-          "active",
-          "allocation-bar",
-          "allocation-block",
-          "allocation-head",
-          "allocation-legend",
-          "app-shell",
-          "band-column",
-          "band-head",
-          "band-tools",
-          "cell-bar",
-          "cell-depth",
-          "cell-event",
-          "cell-field",
-          "cell-profile",
-          "cell-ref",
-          "cell-spread",
-          "cell-volume",
-          "cluster-chip",
-          "compact",
-          "count-chip",
-          "data-flag",
-          "depth-bar",
-          "depth-head",
-          "detail-rail",
-          "digest-band",
-          "digest-card",
-          "digest-depth",
-          "digest-grid",
-          "digest-meter",
-          "digest-movers",
-          "digest-profiles",
-          "disclosure",
-          "dot",
-          "ember",
-          "event-head",
-          "event-row",
-          "event-table",
-          "field-search",
-          "forge-axis",
-          "forge-axis-line",
-          "forge-badge",
-          "forge-foot",
-          "forge-head",
-          "forge-shard",
-          "forge-shards",
-          "forge-stage",
-          "ghost-button",
-          "hero-actions",
-          "hero-band",
-          "hero-chart",
-          "hero-copy",
-          "hero-figure",
-          "hero-spark",
-          "hero-stats",
-          "icon",
-          "icon-button",
-          "indigo",
-          "label",
-          "lead",
-          "ledger-strip",
-          "mint",
-          "mover-body",
-          "mover-ref",
-          "mover-value",
-          "muted",
-          "page",
-          "page-foot",
-          "profile-chip",
-          "rail-facts",
-          "rail-head",
-          "rail-meta",
-          "rail-note",
-          "route-links",
-          "row-action",
-          "segmented",
-          "selected",
-          "shard-index",
-          "shard-note",
-          "shard-track",
-          "shard-value",
-          "skip-link",
-          "solid-button",
-          "spark-track",
-          "strip-end",
-          "strip-item",
-          "top-bar",
-          "top-bar-actions",
-          "top-bar-inner",
-          "up",
-          "wallet-chip",
-          "wide",
-          "wordmark",
-          "wordmark-text",
-          "work-band"
+          "is-current",
+          "is-lead",
+          "orb-actions",
+          "orb-badge",
+          "orb-btn",
+          "orb-btn-ghost",
+          "orb-btn-solid",
+          "orb-chamber",
+          "orb-chamber-body",
+          "orb-chamber-meta",
+          "orb-chamber-top",
+          "orb-chamber-visual",
+          "orb-chip",
+          "orb-chip--profile",
+          "orb-chip--quiet",
+          "orb-colophon",
+          "orb-cue",
+          "orb-depth-bar",
+          "orb-depths",
+          "orb-depths-head",
+          "orb-digest-head",
+          "orb-disclosure",
+          "orb-display",
+          "orb-dock",
+          "orb-dock-cluster",
+          "orb-dock-routes",
+          "orb-dock-seam",
+          "orb-dock-tools",
+          "orb-dock-wallet",
+          "orb-dot",
+          "orb-dot--no",
+          "orb-dot--yes",
+          "orb-facts",
+          "orb-field",
+          "orb-field-axis",
+          "orb-field-axis-line",
+          "orb-field-foot",
+          "orb-field-head",
+          "orb-fill-ember",
+          "orb-fill-indigo",
+          "orb-fill-mint",
+          "orb-flag",
+          "orb-frame",
+          "orb-gallery",
+          "orb-glyph",
+          "orb-hall-head",
+          "orb-hall-tools",
+          "orb-heading",
+          "orb-hero-stats",
+          "orb-iconbtn",
+          "orb-index",
+          "orb-kicker",
+          "orb-lede",
+          "orb-meter",
+          "orb-movers",
+          "orb-movers-body",
+          "orb-movers-ref",
+          "orb-movers-value",
+          "orb-note",
+          "orb-orbit",
+          "orb-orbit-caption",
+          "orb-orbit-level",
+          "orb-orbit-rays",
+          "orb-orbit-spokes",
+          "orb-orbit-trace",
+          "orb-orbit-visual",
+          "orb-plate",
+          "orb-plate-act",
+          "orb-plate-bar",
+          "orb-plate-chip",
+          "orb-plate-facts",
+          "orb-plate-field",
+          "orb-plate-head",
+          "orb-plate-hit",
+          "orb-plate-ref",
+          "orb-profiles",
+          "orb-prologue",
+          "orb-prologue-copy",
+          "orb-rail",
+          "orb-rail--digest",
+          "orb-root",
+          "orb-scene",
+          "orb-scene--chamber",
+          "orb-scene--digest",
+          "orb-scene--hall",
+          "orb-scene--prologue",
+          "orb-search",
+          "orb-segment",
+          "orb-shard",
+          "orb-shard-index",
+          "orb-shard-note",
+          "orb-shard-track",
+          "orb-shard-value",
+          "orb-shards",
+          "orb-signature",
+          "orb-signature-word",
+          "orb-skip",
+          "orb-sky",
+          "orb-sky-ring",
+          "orb-slab",
+          "orb-spec",
+          "orb-spec-cell",
+          "orb-split",
+          "orb-split-bar",
+          "orb-split-head",
+          "orb-split-legend",
+          "orb-stage",
+          "orb-strip",
+          "orb-strip-end",
+          "orb-strip-item",
+          "orb-tone-ember",
+          "orb-tone-indigo",
+          "orb-tone-mint",
+          "orb-trace-track",
+          "orb-up"
         ],
         "fingerprint": [
           "a@5:0",
+          "a@5:2",
+          "a@6:2",
           "a@7:2",
-          "a@8:0",
           "article@8:2",
-          "aside@7:4+",
           "b@10:0",
-          "b@11:0",
           "b@12:0",
           "b@13:0",
           "b@7:0",
           "b@9:0",
+          "button@10:0",
           "button@10:1",
-          "button@11:0",
+          "button@11:1",
           "button@11:3",
           "button@11:4+",
-          "button@8:1",
-          "button@8:2",
-          "button@9:1",
-          "dd@10:0",
+          "button@7:2",
+          "dd@9:0",
+          "div@10:1",
           "div@10:2",
           "div@10:4+",
+          "div@11:1",
+          "div@11:2",
+          "div@11:3",
+          "div@11:4+",
+          "div@12:2",
           "div@3:1",
           "div@4:4+",
-          "div@5:4+",
-          "div@6:3",
+          "div@5:3",
+          "div@6:2",
+          "div@6:4+",
+          "div@7:1",
           "div@7:2",
           "div@7:3",
           "div@7:4+",
@@ -2482,1279 +2513,189 @@
           "div@9:2",
           "div@9:3",
           "div@9:4+",
-          "dl@8:4+",
-          "dt@10:0",
-          "em@12:0",
+          "dl@7:4+",
+          "dt@9:0",
           "em@13:0",
-          "figcaption@8:3",
-          "figure@7:4+",
+          "figcaption@9:2",
+          "figure@8:3",
           "footer@5:2",
-          "footer@9:4+",
-          "h1@8:0",
+          "h1@9:0",
           "h2@10:0",
-          "h2@8:0",
           "h2@9:0",
-          "h3@11:0",
-          "header@5:1",
-          "header@7:2",
-          "header@8:2",
-          "header@9:2",
-          "i@10:0",
+          "h3@13:0",
           "i@11:0",
-          "i@11:1",
           "i@12:0",
+          "i@12:1",
           "i@13:0",
-          "i@9:0",
-          "img@8:0",
+          "i@14:0",
+          "i@8:0",
+          "img@6:0",
+          "input@10:0",
           "input@11:0",
-          "input@9:0",
-          "label@10:0",
-          "label@10:2",
+          "label@12:0",
+          "label@9:2",
           "li@10:1",
-          "li@10:4+",
-          "main@5:3",
-          "nav@7:4+",
+          "li@12:4+",
+          "li@9:2",
+          "main@5:4+",
+          "nav@5:3",
+          "nav@5:4+",
+          "ol@11:4+",
           "ol@9:4+",
           "p@10:1",
+          "p@10:3",
+          "p@12:1",
           "p@7:1",
-          "p@8:0",
-          "p@8:1",
-          "p@8:3",
           "p@9:0",
-          "path@10:0",
+          "p@9:3",
           "path@11:0",
           "path@12:0",
+          "path@13:0",
+          "path@14:0",
+          "path@8:0",
           "path@9:0",
-          "section@6:2",
+          "section@10:4+",
+          "section@6:1",
           "section@6:3",
-          "section@8:4+",
+          "section@6:4+",
+          "section@8:2",
           "small@10:0",
-          "small@11:0",
           "small@12:0",
           "small@13:0",
-          "small@9:0",
+          "small@7:0",
           "span@10:0",
           "span@10:1",
-          "span@10:2",
-          "span@10:3",
+          "span@10:4+",
           "span@11:0",
           "span@11:1",
+          "span@11:2",
+          "span@11:3",
           "span@12:0",
           "span@12:1",
           "span@12:2",
+          "span@13:0",
+          "span@13:1",
           "span@6:0",
           "span@6:1",
+          "span@6:2",
+          "span@7:0",
+          "span@7:1",
           "span@8:0",
           "span@8:1",
-          "span@8:2",
           "span@9:0",
-          "span@9:1",
-          "span@9:2",
-          "span@9:4+",
-          "strong@10:0",
-          "strong@11:0",
+          "strong@12:0",
           "strong@13:0",
-          "strong@9:0",
+          "strong@7:0",
           "svg@10:1",
           "svg@11:1",
+          "svg@12:1",
+          "svg@13:1",
+          "svg@7:1",
           "svg@8:1",
-          "svg@9:1",
+          "ul@8:4+",
           "ul@9:3"
         ],
         "landmarks": [
           {
-            "tag": "header",
+            "tag": "nav",
             "role": "",
-            "top": 0,
-            "left": 0,
-            "width": 1440,
-            "height": 61
+            "top": 822,
+            "left": 390,
+            "width": 660,
+            "height": 58
           },
           {
             "tag": "nav",
             "role": "",
-            "top": 12,
-            "left": 194,
-            "width": 269,
-            "height": 36
+            "top": 367,
+            "left": 1386,
+            "width": 48,
+            "height": 166
           },
           {
             "tag": "main",
             "role": "",
-            "top": -7,
+            "top": 0,
             "left": 0,
             "width": 1440,
-            "height": 3577
-          },
-          {
-            "tag": "header",
-            "role": "",
-            "top": 523,
-            "left": 28,
-            "width": 978,
-            "height": 120
-          },
-          {
-            "tag": "aside",
-            "role": "",
-            "top": 523,
-            "left": 1032,
-            "width": 380,
-            "height": 908
-          },
-          {
-            "tag": "header",
-            "role": "",
-            "top": 733,
-            "left": 1068,
-            "width": 308,
-            "height": 40
+            "height": 3618
           },
           {
             "tag": "footer",
             "role": "",
-            "top": 949,
-            "left": 1068,
-            "width": 308,
-            "height": 107
-          },
-          {
-            "tag": "header",
-            "role": "",
-            "top": 2911,
-            "left": 28,
-            "width": 1384,
-            "height": 162
-          },
-          {
-            "tag": "footer",
-            "role": "",
-            "top": 3593,
+            "top": 3618,
             "left": 0,
             "width": 1440,
-            "height": 35
+            "height": 151
           }
         ],
         "colors": [
           {
-            "hex": "#0b0b0c",
-            "count": 596
+            "hex": "#f5f4fa",
+            "count": 677
           },
           {
-            "hex": "#74747a",
-            "count": 167
+            "hex": "#9a98ad",
+            "count": 325
           },
           {
-            "hex": "#3c3c40",
-            "count": 137
+            "hex": "#262536",
+            "count": 59
           },
           {
-            "hex": "#ffffff",
-            "count": 51
+            "hex": "#a78bfa",
+            "count": 59
           },
           {
-            "hex": "#e6e6de",
-            "count": 46
+            "hex": "#5ce1a0",
+            "count": 23
           },
           {
-            "hex": "#efefe9",
-            "count": 38
+            "hex": "#04121c",
+            "count": 14
           },
           {
-            "hex": "#0e9f5b",
-            "count": 24
+            "hex": "#40b3ff",
+            "count": 12
           },
           {
-            "hex": "#2b24e8",
-            "count": 22
+            "hex": "#ff8a8a",
+            "count": 12
           },
           {
-            "hex": "#dcdcd4",
-            "count": 21
+            "hex": "#0a0a14",
+            "count": 2
           },
           {
-            "hex": "#9a9a9f",
-            "count": 16
+            "hex": "#12121e",
+            "count": 2
           },
           {
-            "hex": "#ff5a1f",
-            "count": 13
+            "hex": "#08080d",
+            "count": 1
           },
           {
-            "hex": "#f7f7f4",
-            "count": 7
+            "hex": "#08080f",
+            "count": 1
           },
           {
-            "hex": "#8b3dff",
-            "count": 6
+            "hex": "#0c0c16",
+            "count": 1
           },
           {
-            "hex": "#f3ebff",
+            "hex": "#0d0d17",
+            "count": 1
+          },
+          {
+            "hex": "#191927",
+            "count": 1
+          },
+          {
+            "hex": "#f2c94c",
             "count": 1
           }
         ],
-        "contrast": [
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "/ shardra.xyz",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "EVENTS",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "READINGS",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "FIELD",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "VOLUME",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "DEPTH",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "24H MOVERS",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "SAVED",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item.strip-end",
-            "text": "YES · MINT CONFIGURED · SOLANA TESTNET",
-            "ratio": 2.43,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "section.hero-band > div.hero-copy > span.label",
-            "text": "SHARDRA / SOLANA TESTNET",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.hero-copy > div.hero-actions > span.data-flag",
-            "text": "ILLUSTRATIVE DATA",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "header.band-head > div > span.label",
-            "text": "EVENT LEDGER",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-head > span",
-            "text": "Ref",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.event-table > div.event-head > span",
-            "text": "Event",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.event-table > div.event-head > span",
-            "text": "Profile",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.event-table > div.event-head > span",
-            "text": "Field level",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.event-table > div.event-head > span",
-            "text": "Spread",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.event-table > div.event-head > span",
-            "text": "Depth",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.event-table > div.event-head > span",
-            "text": "24h volume",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.event-table > div.event-head > span",
-            "text": "Model",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-02",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / USDC · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-03",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "YES / USDC · Variable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-04",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "SOL / USDC · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-05",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "NETWORK / TPS · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-06",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "NETWORK / VALIDATORS · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-07",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "NETWORK / FEES · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-08",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / USDC · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-09",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "YES / USDC · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-10",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / VOL · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-11",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "SOL / ETF · Variable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-12",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "DEFI / TVL · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-13",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "USDC / USD · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-14",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / STAKING · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-15",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "SOL / LST · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-16",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "DEX / SHARE · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-17",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "NETWORK / UPTIME · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-18",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "NETWORK / BLOBS · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-19",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "SOL / RANK · Variable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-20",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "NETWORK / FEE · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-21",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / USDC · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-22",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "SOL / USDC · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-23",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "NETWORK / PRIORITY · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-24",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "RATES / CURVE · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-25",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "MACRO / CPI · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-26",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "INDEX / CLOSE · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-27",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "MACRO / JOBS · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-28",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "ENERGY / CRUDE · Variable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-29",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "RATES / 10Y · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-30",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "DXY / BAND · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-31",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "MEME / INDEX · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-32",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "RESEARCH / SHARD · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "section.work-band > div.band-column > p.disclosure",
-            "text": "Every probability, field level, depth and volume figure on this page is interface sample data for a ",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S1",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "below field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S2",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "below field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S3",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "below field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S4",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "above field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S5",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "above field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard.lead > span.shard-index",
-            "text": "S6",
-            "ratio": 4.01,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f3ebff"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard.lead > span.shard-note",
-            "text": "above field",
-            "ratio": 2.42,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f3ebff"
-          },
-          {
-            "selector": "header.band-head.wide > div > span.label",
-            "text": "BOARD DIGEST",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "header.band-head.wide > div > p",
-            "text": "32 illustrative events across 3 profiles, 192 shard readings and $380M of sample open interest.",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 14,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "section.digest-band > header.band-head.wide > span.count-chip.muted",
-            "text": "SNAPSHOT OCT 11",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+9.1%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+7.2%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+6.8%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+5.4%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+4.8%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "main#main-content > section.digest-band > p.disclosure.wide",
-            "text": "Digest totals are sums of the illustrative fixtures above: 20 events carry a positive sample move an",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.app-shell > footer.page-foot > span",
-            "text": "/ Every reading strikes one line.",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.app-shell > footer.page-foot > span",
-            "text": "Solana Testnet · read-only workspace · shardra.xyz is an unregistered candidate destination",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          }
-        ],
+        "contrast": [],
         "contrastChecked": 452,
         "headings": [
           {
@@ -3766,12 +2707,12 @@
             "text": "Sample events"
           },
           {
-            "tag": "h2",
-            "text": "Solana closes above the weekly target · YES / NO"
-          },
-          {
             "tag": "h3",
             "text": "6 readings · 4 pt spread"
+          },
+          {
+            "tag": "h2",
+            "text": "Solana closes above the weekly target · YES / NO"
           },
           {
             "tag": "h2",
@@ -3783,7 +2724,48 @@
         ],
         "overflow": {
           "documentOverflow": false,
-          "offenders": []
+          "offenders": [
+            {
+              "selector": "div.orb-gallery > ul.orb-rail > li.orb-plate.orb-tone-indigo",
+              "right": 1446,
+              "width": 332
+            },
+            {
+              "selector": "div.orb-gallery > ul.orb-rail > li.orb-plate.orb-tone-indigo",
+              "right": 1798,
+              "width": 332
+            },
+            {
+              "selector": "ul.orb-rail > li.orb-plate.orb-tone-indigo > div.orb-plate-hit",
+              "right": 1777,
+              "width": 290
+            },
+            {
+              "selector": "li.orb-plate.orb-tone-indigo > div.orb-plate-hit > span.orb-plate-ref",
+              "right": 1777,
+              "width": 290
+            },
+            {
+              "selector": "li.orb-plate.orb-tone-indigo > div.orb-plate-hit > span.orb-plate-head",
+              "right": 1777,
+              "width": 290
+            },
+            {
+              "selector": "div.orb-plate-hit > span.orb-plate-head > strong",
+              "right": 1777,
+              "width": 290
+            },
+            {
+              "selector": "div.orb-plate-hit > span.orb-plate-head > small",
+              "right": 1777,
+              "width": 290
+            },
+            {
+              "selector": "li.orb-plate.orb-tone-indigo > div.orb-plate-hit > span.orb-plate-chip",
+              "right": 1777,
+              "width": 290
+            }
+          ]
         }
       },
       "axe": {
@@ -3800,13 +2782,13 @@
       },
       "mobile": {
         "meta": {
-          "title": "Ledger | Shardra",
+          "title": "Ledger | Kavrel",
           "lang": "en",
           "h1Count": 1,
-          "bodyTextLength": 8129,
+          "bodyTextLength": 8160,
           "scrollWidth": 390,
           "clientWidth": 390,
-          "focusableCount": 94
+          "focusableCount": 96
         },
         "words": [
           {
@@ -4211,7 +3193,7 @@
           },
           {
             "word": "24h",
-            "count": 7
+            "count": 8
           },
           {
             "word": "24H",
@@ -4438,11 +3420,11 @@
             "count": 1
           },
           {
-            "word": "67.5%",
+            "word": "66%",
             "count": 1
           },
           {
-            "word": "67%",
+            "word": "67.5%",
             "count": 1
           },
           {
@@ -4774,6 +3756,10 @@
             "count": 3
           },
           {
+            "word": "Depth",
+            "count": 1
+          },
+          {
             "word": "DEPTH",
             "count": 1
           },
@@ -4838,6 +3824,10 @@
             "count": 1
           },
           {
+            "word": "Event",
+            "count": 1
+          },
+          {
             "word": "EVENT",
             "count": 2
           },
@@ -4887,7 +3877,7 @@
           },
           {
             "word": "Field",
-            "count": 33
+            "count": 34
           },
           {
             "word": "FIELD",
@@ -4994,6 +3984,146 @@
             "count": 1
           },
           {
+            "word": "KAV-01",
+            "count": 3
+          },
+          {
+            "word": "KAV-02",
+            "count": 2
+          },
+          {
+            "word": "KAV-03",
+            "count": 1
+          },
+          {
+            "word": "KAV-04",
+            "count": 1
+          },
+          {
+            "word": "KAV-05",
+            "count": 1
+          },
+          {
+            "word": "KAV-06",
+            "count": 1
+          },
+          {
+            "word": "KAV-07",
+            "count": 1
+          },
+          {
+            "word": "KAV-08",
+            "count": 1
+          },
+          {
+            "word": "KAV-09",
+            "count": 2
+          },
+          {
+            "word": "KAV-10",
+            "count": 1
+          },
+          {
+            "word": "KAV-11",
+            "count": 1
+          },
+          {
+            "word": "KAV-12",
+            "count": 1
+          },
+          {
+            "word": "KAV-13",
+            "count": 2
+          },
+          {
+            "word": "KAV-14",
+            "count": 2
+          },
+          {
+            "word": "KAV-15",
+            "count": 1
+          },
+          {
+            "word": "KAV-16",
+            "count": 1
+          },
+          {
+            "word": "KAV-17",
+            "count": 1
+          },
+          {
+            "word": "KAV-18",
+            "count": 2
+          },
+          {
+            "word": "KAV-19",
+            "count": 1
+          },
+          {
+            "word": "KAV-20",
+            "count": 2
+          },
+          {
+            "word": "KAV-21",
+            "count": 2
+          },
+          {
+            "word": "KAV-22",
+            "count": 2
+          },
+          {
+            "word": "KAV-23",
+            "count": 1
+          },
+          {
+            "word": "KAV-24",
+            "count": 1
+          },
+          {
+            "word": "KAV-25",
+            "count": 1
+          },
+          {
+            "word": "KAV-26",
+            "count": 1
+          },
+          {
+            "word": "KAV-27",
+            "count": 1
+          },
+          {
+            "word": "KAV-28",
+            "count": 2
+          },
+          {
+            "word": "KAV-29",
+            "count": 1
+          },
+          {
+            "word": "KAV-30",
+            "count": 1
+          },
+          {
+            "word": "KAV-31",
+            "count": 2
+          },
+          {
+            "word": "KAV-32",
+            "count": 1
+          },
+          {
+            "word": "Kavrel",
+            "count": 1
+          },
+          {
+            "word": "KAVREL",
+            "count": 2
+          },
+          {
+            "word": "kavrel.xyz",
+            "count": 3
+          },
+          {
             "word": "keep",
             "count": 1
           },
@@ -5015,7 +4145,7 @@
           },
           {
             "word": "level",
-            "count": 35
+            "count": 36
           },
           {
             "word": "line",
@@ -5091,7 +4221,7 @@
           },
           {
             "word": "Model",
-            "count": 33
+            "count": 34
           },
           {
             "word": "month",
@@ -5314,6 +4444,10 @@
             "count": 3
           },
           {
+            "word": "Profile",
+            "count": 1
+          },
+          {
             "word": "PROFILE",
             "count": 1
           },
@@ -5391,6 +4525,10 @@
           },
           {
             "word": "Receipts",
+            "count": 1
+          },
+          {
+            "word": "Ref",
             "count": 1
           },
           {
@@ -5482,18 +4620,6 @@
             "count": 3
           },
           {
-            "word": "Shardra",
-            "count": 2
-          },
-          {
-            "word": "SHARDRA",
-            "count": 2
-          },
-          {
-            "word": "shardra.xyz",
-            "count": 3
-          },
-          {
             "word": "share",
             "count": 1
           },
@@ -5503,134 +4629,6 @@
           },
           {
             "word": "shares",
-            "count": 1
-          },
-          {
-            "word": "SHD-01",
-            "count": 3
-          },
-          {
-            "word": "SHD-02",
-            "count": 2
-          },
-          {
-            "word": "SHD-03",
-            "count": 1
-          },
-          {
-            "word": "SHD-04",
-            "count": 1
-          },
-          {
-            "word": "SHD-05",
-            "count": 1
-          },
-          {
-            "word": "SHD-06",
-            "count": 1
-          },
-          {
-            "word": "SHD-07",
-            "count": 1
-          },
-          {
-            "word": "SHD-08",
-            "count": 1
-          },
-          {
-            "word": "SHD-09",
-            "count": 2
-          },
-          {
-            "word": "SHD-10",
-            "count": 1
-          },
-          {
-            "word": "SHD-11",
-            "count": 1
-          },
-          {
-            "word": "SHD-12",
-            "count": 1
-          },
-          {
-            "word": "SHD-13",
-            "count": 2
-          },
-          {
-            "word": "SHD-14",
-            "count": 2
-          },
-          {
-            "word": "SHD-15",
-            "count": 1
-          },
-          {
-            "word": "SHD-16",
-            "count": 1
-          },
-          {
-            "word": "SHD-17",
-            "count": 1
-          },
-          {
-            "word": "SHD-18",
-            "count": 2
-          },
-          {
-            "word": "SHD-19",
-            "count": 1
-          },
-          {
-            "word": "SHD-20",
-            "count": 2
-          },
-          {
-            "word": "SHD-21",
-            "count": 2
-          },
-          {
-            "word": "SHD-22",
-            "count": 2
-          },
-          {
-            "word": "SHD-23",
-            "count": 1
-          },
-          {
-            "word": "SHD-24",
-            "count": 1
-          },
-          {
-            "word": "SHD-25",
-            "count": 1
-          },
-          {
-            "word": "SHD-26",
-            "count": 1
-          },
-          {
-            "word": "SHD-27",
-            "count": 1
-          },
-          {
-            "word": "SHD-28",
-            "count": 2
-          },
-          {
-            "word": "SHD-29",
-            "count": 1
-          },
-          {
-            "word": "SHD-30",
-            "count": 1
-          },
-          {
-            "word": "SHD-31",
-            "count": 2
-          },
-          {
-            "word": "SHD-32",
             "count": 1
           },
           {
@@ -5659,7 +4657,7 @@
           },
           {
             "word": "Solana",
-            "count": 11
+            "count": 10
           },
           {
             "word": "SOLANA",
@@ -5676,6 +4674,10 @@
           {
             "word": "spread",
             "count": 4
+          },
+          {
+            "word": "Spread",
+            "count": 1
           },
           {
             "word": "stability",
@@ -5739,7 +4741,7 @@
           },
           {
             "word": "Testnet",
-            "count": 3
+            "count": 2
           },
           {
             "word": "TESTNET",
@@ -5863,7 +4865,7 @@
           },
           {
             "word": "volume",
-            "count": 4
+            "count": 5
           },
           {
             "word": "VOLUME",
@@ -5924,11 +4926,19 @@
             "count": 1
           },
           {
+            "key": "aria-label=Kavrel home",
+            "count": 1
+          },
+          {
             "key": "aria-label=Open the full event list",
             "count": 1
           },
           {
             "key": "aria-label=Outcome split",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Primary navigation",
             "count": 1
           },
           {
@@ -6064,14 +5074,6 @@
             "count": 1
           },
           {
-            "key": "aria-label=Section navigation",
-            "count": 1
-          },
-          {
-            "key": "aria-label=Shardra home",
-            "count": 1
-          },
-          {
             "key": "placeholder=Search events",
             "count": 1
           },
@@ -6116,125 +5118,148 @@
         "imageIssues": [],
         "interactiveIssues": [],
         "classTokens": [
-          "active",
-          "allocation-bar",
-          "allocation-block",
-          "allocation-head",
-          "allocation-legend",
-          "app-shell",
-          "band-column",
-          "band-head",
-          "band-tools",
-          "cell-bar",
-          "cell-depth",
-          "cell-event",
-          "cell-field",
-          "cell-profile",
-          "cell-ref",
-          "cell-spread",
-          "cell-volume",
-          "compact",
-          "count-chip",
-          "data-flag",
-          "depth-bar",
-          "depth-head",
-          "detail-rail",
-          "digest-band",
-          "digest-card",
-          "digest-depth",
-          "digest-grid",
-          "digest-meter",
-          "digest-movers",
-          "digest-profiles",
-          "disclosure",
-          "dot",
-          "ember",
-          "event-row",
-          "event-table",
-          "field-search",
-          "forge-axis",
-          "forge-axis-line",
-          "forge-badge",
-          "forge-foot",
-          "forge-head",
-          "forge-shard",
-          "forge-shards",
-          "forge-stage",
-          "ghost-button",
-          "hero-actions",
-          "hero-band",
-          "hero-chart",
-          "hero-copy",
-          "hero-figure",
-          "hero-spark",
-          "hero-stats",
-          "icon",
-          "icon-button",
-          "indigo",
-          "label",
-          "lead",
-          "ledger-strip",
-          "mint",
-          "mover-body",
-          "mover-ref",
-          "mover-value",
-          "muted",
-          "page",
-          "page-foot",
-          "profile-chip",
-          "rail-facts",
-          "rail-head",
-          "rail-meta",
-          "rail-note",
-          "row-action",
-          "segmented",
-          "selected",
-          "shard-index",
-          "shard-note",
-          "shard-track",
-          "shard-value",
-          "skip-link",
-          "solid-button",
-          "spark-track",
-          "strip-end",
-          "strip-item",
-          "tab-strip",
-          "top-bar",
-          "top-bar-actions",
-          "top-bar-inner",
-          "up",
-          "wallet-chip",
-          "wide",
-          "wordmark",
-          "wordmark-text",
-          "work-band"
+          "is-current",
+          "is-lead",
+          "orb-actions",
+          "orb-badge",
+          "orb-btn",
+          "orb-btn-ghost",
+          "orb-btn-solid",
+          "orb-chamber",
+          "orb-chamber-body",
+          "orb-chamber-meta",
+          "orb-chamber-top",
+          "orb-chamber-visual",
+          "orb-chip",
+          "orb-chip--profile",
+          "orb-chip--quiet",
+          "orb-colophon",
+          "orb-depth-bar",
+          "orb-depths",
+          "orb-depths-head",
+          "orb-digest-head",
+          "orb-disclosure",
+          "orb-display",
+          "orb-dock",
+          "orb-dock-routes",
+          "orb-dock-tools",
+          "orb-dock-wallet",
+          "orb-dot",
+          "orb-dot--no",
+          "orb-dot--yes",
+          "orb-facts",
+          "orb-field",
+          "orb-field-axis",
+          "orb-field-axis-line",
+          "orb-field-foot",
+          "orb-field-head",
+          "orb-fill-ember",
+          "orb-fill-indigo",
+          "orb-fill-mint",
+          "orb-flag",
+          "orb-frame",
+          "orb-gallery",
+          "orb-glyph",
+          "orb-hall-head",
+          "orb-hall-tools",
+          "orb-heading",
+          "orb-hero-stats",
+          "orb-iconbtn",
+          "orb-kicker",
+          "orb-lede",
+          "orb-meter",
+          "orb-movers",
+          "orb-movers-body",
+          "orb-movers-ref",
+          "orb-movers-value",
+          "orb-note",
+          "orb-orbit",
+          "orb-orbit-caption",
+          "orb-orbit-level",
+          "orb-orbit-rays",
+          "orb-orbit-spokes",
+          "orb-orbit-trace",
+          "orb-orbit-visual",
+          "orb-plate",
+          "orb-plate-act",
+          "orb-plate-bar",
+          "orb-plate-chip",
+          "orb-plate-facts",
+          "orb-plate-field",
+          "orb-plate-head",
+          "orb-plate-hit",
+          "orb-plate-ref",
+          "orb-profiles",
+          "orb-prologue",
+          "orb-prologue-copy",
+          "orb-rail",
+          "orb-rail--digest",
+          "orb-root",
+          "orb-scene",
+          "orb-scene--chamber",
+          "orb-scene--digest",
+          "orb-scene--hall",
+          "orb-scene--prologue",
+          "orb-search",
+          "orb-segment",
+          "orb-shard",
+          "orb-shard-index",
+          "orb-shard-note",
+          "orb-shard-track",
+          "orb-shard-value",
+          "orb-shards",
+          "orb-signature",
+          "orb-skip",
+          "orb-sky",
+          "orb-sky-ring",
+          "orb-slab",
+          "orb-spec",
+          "orb-spec-cell",
+          "orb-split",
+          "orb-split-bar",
+          "orb-split-head",
+          "orb-split-legend",
+          "orb-stage",
+          "orb-strip",
+          "orb-strip-end",
+          "orb-strip-item",
+          "orb-tone-ember",
+          "orb-tone-indigo",
+          "orb-tone-mint",
+          "orb-trace-track",
+          "orb-up"
         ],
         "fingerprint": [
           "a@5:0",
-          "a@6:2",
+          "a@5:2",
           "a@7:2",
           "article@8:2",
-          "aside@7:4+",
           "b@10:0",
-          "b@11:0",
           "b@12:0",
           "b@13:0",
           "b@7:0",
           "b@9:0",
+          "button@10:0",
           "button@10:1",
-          "button@11:0",
+          "button@11:1",
           "button@11:3",
           "button@11:4+",
-          "button@8:1",
-          "button@8:2",
-          "button@9:1",
-          "dd@10:0",
+          "button@7:2",
+          "dd@9:0",
+          "div@10:1",
           "div@10:2",
           "div@10:4+",
+          "div@11:1",
+          "div@11:2",
+          "div@11:3",
+          "div@11:4+",
+          "div@12:2",
           "div@3:1",
           "div@4:4+",
-          "div@5:4+",
-          "div@6:3",
+          "div@5:3",
+          "div@6:2",
+          "div@6:4+",
+          "div@7:1",
           "div@7:2",
           "div@7:3",
           "div@7:4+",
@@ -6245,1512 +5270,173 @@
           "div@9:2",
           "div@9:3",
           "div@9:4+",
-          "dl@8:4+",
-          "dt@10:0",
-          "em@12:0",
+          "dl@7:4+",
+          "dt@9:0",
           "em@13:0",
-          "figcaption@8:3",
-          "figure@7:4+",
+          "figcaption@9:2",
+          "figure@8:3",
           "footer@5:2",
-          "footer@9:4+",
-          "h1@8:0",
+          "h1@9:0",
           "h2@10:0",
-          "h2@8:0",
           "h2@9:0",
-          "h3@11:0",
-          "header@5:1",
-          "header@7:2",
-          "header@8:2",
-          "header@9:2",
-          "i@10:0",
+          "h3@13:0",
           "i@11:0",
-          "i@11:1",
           "i@12:0",
+          "i@12:1",
           "i@13:0",
-          "i@9:0",
-          "img@8:0",
+          "i@14:0",
+          "img@6:0",
+          "input@10:0",
           "input@11:0",
-          "input@9:0",
-          "label@10:0",
-          "label@10:2",
+          "label@12:0",
+          "label@9:2",
           "li@10:1",
-          "li@10:4+",
-          "main@5:3",
-          "nav@5:4+",
+          "li@12:4+",
+          "li@9:2",
+          "main@5:4+",
+          "nav@5:3",
+          "ol@11:4+",
           "ol@9:4+",
           "p@10:1",
+          "p@10:3",
+          "p@12:1",
           "p@7:1",
-          "p@8:0",
-          "p@8:1",
-          "p@8:3",
           "p@9:0",
-          "path@10:0",
+          "p@9:3",
           "path@11:0",
           "path@12:0",
-          "path@8:0",
+          "path@13:0",
+          "path@14:0",
           "path@9:0",
-          "section@6:2",
+          "section@10:4+",
+          "section@6:1",
           "section@6:3",
-          "section@8:4+",
+          "section@6:4+",
+          "section@8:2",
           "small@10:0",
-          "small@11:0",
           "small@12:0",
           "small@13:0",
-          "small@9:0",
           "span@10:0",
           "span@10:1",
-          "span@10:2",
-          "span@10:3",
+          "span@10:4+",
           "span@11:0",
           "span@11:1",
+          "span@11:2",
+          "span@11:3",
           "span@12:0",
           "span@12:1",
           "span@12:2",
+          "span@13:0",
+          "span@13:1",
           "span@6:0",
           "span@6:1",
-          "span@7:0",
           "span@8:0",
-          "span@8:2",
+          "span@8:1",
           "span@9:0",
-          "span@9:1",
-          "span@9:2",
-          "span@9:4+",
-          "strong@10:0",
-          "strong@11:0",
+          "strong@12:0",
           "strong@13:0",
-          "strong@9:0",
           "svg@10:1",
           "svg@11:1",
-          "svg@7:1",
+          "svg@12:1",
+          "svg@13:1",
           "svg@8:1",
-          "svg@9:1",
+          "ul@8:4+",
           "ul@9:3"
         ],
         "landmarks": [
           {
-            "tag": "header",
-            "role": "",
-            "top": 0,
-            "left": 0,
-            "width": 390,
-            "height": 55
-          },
-          {
             "tag": "nav",
             "role": "",
-            "top": 55,
-            "left": 0,
-            "width": 390,
-            "height": 45
+            "top": 774,
+            "left": 12,
+            "width": 366,
+            "height": 58
           },
           {
             "tag": "main",
             "role": "",
-            "top": 132,
+            "top": 0,
             "left": 0,
             "width": 390,
-            "height": 11293
-          },
-          {
-            "tag": "header",
-            "role": "",
-            "top": 1010,
-            "left": 18,
-            "width": 354,
-            "height": 173
-          },
-          {
-            "tag": "aside",
-            "role": "",
-            "top": 8832,
-            "left": 18,
-            "width": 354,
-            "height": 1257
-          },
-          {
-            "tag": "header",
-            "role": "",
-            "top": 9042,
-            "left": 54,
-            "width": 282,
-            "height": 40
+            "height": 4600
           },
           {
             "tag": "footer",
             "role": "",
-            "top": 9556,
-            "left": 54,
-            "width": 282,
-            "height": 159
-          },
-          {
-            "tag": "header",
-            "role": "",
-            "top": 10125,
-            "left": 18,
-            "width": 354,
-            "height": 211
-          },
-          {
-            "tag": "footer",
-            "role": "",
-            "top": 11448,
+            "top": 4600,
             "left": 0,
             "width": 390,
-            "height": 74
+            "height": 194
           }
         ],
         "colors": [
           {
-            "hex": "#0b0b0c",
-            "count": 599
+            "hex": "#f5f4fa",
+            "count": 670
           },
           {
-            "hex": "#74747a",
-            "count": 197
+            "hex": "#9a98ad",
+            "count": 339
           },
           {
-            "hex": "#3c3c40",
-            "count": 137
+            "hex": "#a78bfa",
+            "count": 59
           },
           {
-            "hex": "#ffffff",
-            "count": 52
+            "hex": "#262536",
+            "count": 58
           },
           {
-            "hex": "#e6e6de",
-            "count": 46
-          },
-          {
-            "hex": "#efefe9",
-            "count": 37
-          },
-          {
-            "hex": "#0e9f5b",
-            "count": 23
-          },
-          {
-            "hex": "#2b24e8",
+            "hex": "#5ce1a0",
             "count": 22
           },
           {
-            "hex": "#dcdcd4",
-            "count": 21
+            "hex": "#ff8a8a",
+            "count": 12
           },
           {
-            "hex": "#9a9a9f",
-            "count": 16
+            "hex": "#40b3ff",
+            "count": 11
           },
           {
-            "hex": "#ff5a1f",
-            "count": 13
+            "hex": "#04121c",
+            "count": 9
           },
           {
-            "hex": "#8b3dff",
-            "count": 6
+            "hex": "#12121e",
+            "count": 2
           },
           {
-            "hex": "#f7f7f4",
-            "count": 6
+            "hex": "#08080d",
+            "count": 1
           },
           {
-            "hex": "#f3ebff",
+            "hex": "#08080f",
+            "count": 1
+          },
+          {
+            "hex": "#0a0a14",
+            "count": 1
+          },
+          {
+            "hex": "#0c0c16",
+            "count": 1
+          },
+          {
+            "hex": "#0d0d17",
+            "count": 1
+          },
+          {
+            "hex": "#191927",
+            "count": 1
+          },
+          {
+            "hex": "#f2c94c",
             "count": 1
           }
         ],
-        "contrast": [
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "/ shardra.xyz",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "EVENTS",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "READINGS",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "FIELD",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "VOLUME",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "DEPTH",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "24H MOVERS",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-            "text": "SAVED",
-            "ratio": 4.02,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "div.app-shell > div.ledger-strip > span.strip-item.strip-end",
-            "text": "YES · MINT CONFIGURED · SOLANA TESTNET",
-            "ratio": 2.43,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#efefe9"
-          },
-          {
-            "selector": "section.hero-band > div.hero-copy > span.label",
-            "text": "SHARDRA / SOLANA TESTNET",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.hero-copy > div.hero-actions > span.data-flag",
-            "text": "ILLUSTRATIVE DATA",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "header.band-head > div > span.label",
-            "text": "EVENT LEDGER",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-02",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / USDC · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-03",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "YES / USDC · Variable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-04",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "SOL / USDC · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-05",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "NETWORK / TPS · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-06",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "NETWORK / VALIDATORS · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-07",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "NETWORK / FEES · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-08",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / USDC · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-09",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "YES / USDC · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-10",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / VOL · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-11",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "SOL / ETF · Variable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-12",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "DEFI / TVL · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-13",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "USDC / USD · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-14",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / STAKING · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-15",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "SOL / LST · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-16",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "DEX / SHARE · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-17",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "NETWORK / UPTIME · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-18",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "NETWORK / BLOBS · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-19",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "SOL / RANK · Variable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-20",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "NETWORK / FEE · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-21",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "SOL / USDC · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-22",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "SOL / USDC · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-23",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "NETWORK / PRIORITY · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-24",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "RATES / CURVE · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-25",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "MACRO / CPI · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-26",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "INDEX / CLOSE · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.indigo > span.cell-ref",
-            "text": "SHD-27",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-event > small",
-            "text": "MACRO / JOBS · Balanced outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.indigo > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-28",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "ENERGY / CRUDE · Variable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-29",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "RATES / 10Y · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.mint > span.cell-ref",
-            "text": "SHD-30",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-event > small",
-            "text": "DXY / BAND · Stable outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.mint > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-31",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "MEME / INDEX · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-table > div.event-row.ember > span.cell-ref",
-            "text": "SHD-32",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-event > small",
-            "text": "RESEARCH / SHARD · Long-horizon outcome market · YES / NO",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.event-row.ember > span.cell-field > small",
-            "text": "Field level",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "section.work-band > div.band-column > p.disclosure",
-            "text": "Every probability, field level, depth and volume figure on this page is interface sample data for a ",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S1",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "below field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S2",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "below field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S3",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "below field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S4",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "above field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-index",
-            "text": "S5",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard > span.shard-note",
-            "text": "above field",
-            "ratio": 2.61,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard.lead > span.shard-index",
-            "text": "S6",
-            "ratio": 4.01,
-            "required": 4.5,
-            "fontSize": 9.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f3ebff"
-          },
-          {
-            "selector": "ol.forge-shards > li.forge-shard.lead > span.shard-note",
-            "text": "above field",
-            "ratio": 2.42,
-            "required": 4.5,
-            "fontSize": 9,
-            "weight": 400,
-            "color": "rgb(154, 154, 159)",
-            "background": "#f3ebff"
-          },
-          {
-            "selector": "header.band-head.wide > div > span.label",
-            "text": "BOARD DIGEST",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10,
-            "weight": 700,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "header.band-head.wide > div > p",
-            "text": "32 illustrative events across 3 profiles, 192 shard readings and $380M of sample open interest.",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 14,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "section.digest-band > header.band-head.wide > span.count-chip.muted",
-            "text": "SNAPSHOT OCT 11",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+9.1%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+7.2%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+6.8%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+5.4%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "li > button > span.mover-value.up",
-            "text": "+4.8%",
-            "ratio": 3.43,
-            "required": 4.5,
-            "fontSize": 12.5,
-            "weight": 700,
-            "color": "rgb(14, 159, 91)",
-            "background": "#ffffff"
-          },
-          {
-            "selector": "main#main-content > section.digest-band > p.disclosure.wide",
-            "text": "Digest totals are sums of the illustrative fixtures above: 20 events carry a positive sample move an",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 11.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.app-shell > footer.page-foot > span",
-            "text": "/ Every reading strikes one line.",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          },
-          {
-            "selector": "div.app-shell > footer.page-foot > span",
-            "text": "Solana Testnet · read-only workspace · shardra.xyz is an unregistered candidate destination",
-            "ratio": 4.33,
-            "required": 4.5,
-            "fontSize": 10.5,
-            "weight": 400,
-            "color": "rgb(116, 116, 122)",
-            "background": "#f7f7f4"
-          }
-        ],
-        "contrastChecked": 475,
+        "contrast": [],
+        "contrastChecked": 481,
         "headings": [
           {
             "tag": "h1",
@@ -7761,12 +5447,12 @@
             "text": "Sample events"
           },
           {
-            "tag": "h2",
-            "text": "Solana closes above the weekly target · YES / NO"
-          },
-          {
             "tag": "h3",
             "text": "6 readings · 4 pt spread"
+          },
+          {
+            "tag": "h2",
+            "text": "Solana closes above the weekly target · YES / NO"
           },
           {
             "tag": "h2",
@@ -7780,44 +5466,44 @@
           "documentOverflow": false,
           "offenders": [
             {
-              "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-              "right": 429,
-              "width": 74
+              "selector": "div.orb-root > div.orb-sky > span.orb-sky-ring",
+              "right": 635,
+              "width": 880
             },
             {
-              "selector": "div.ledger-strip > span.strip-item > b",
-              "right": 429,
-              "width": 34
+              "selector": "div.orb-root > div.orb-sky > span.orb-sky-ring",
+              "right": 525,
+              "width": 660
             },
             {
-              "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-              "right": 559,
+              "selector": "div.orb-root > div.orb-sky > span.orb-sky-ring",
+              "right": 410,
+              "width": 430
+            },
+            {
+              "selector": "section.orb-scene.orb-scene--prologue > div.orb-strip > span.orb-strip-item",
+              "right": 410,
+              "width": 92
+            },
+            {
+              "selector": "div.orb-strip > span.orb-strip-item > b",
+              "right": 397,
+              "width": 28
+            },
+            {
+              "selector": "section.orb-scene.orb-scene--prologue > div.orb-strip > span.orb-strip-item",
+              "right": 530,
+              "width": 120
+            },
+            {
+              "selector": "div.orb-strip > span.orb-strip-item > b",
+              "right": 517,
+              "width": 50
+            },
+            {
+              "selector": "section.orb-scene.orb-scene--prologue > div.orb-strip > span.orb-strip-item",
+              "right": 638,
               "width": 108
-            },
-            {
-              "selector": "div.ledger-strip > span.strip-item > b",
-              "right": 559,
-              "width": 61
-            },
-            {
-              "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-              "right": 676,
-              "width": 95
-            },
-            {
-              "selector": "div.ledger-strip > span.strip-item > b",
-              "right": 676,
-              "width": 55
-            },
-            {
-              "selector": "div.app-shell > div.ledger-strip > span.strip-item",
-              "right": 786,
-              "width": 88
-            },
-            {
-              "selector": "div.ledger-strip > span.strip-item > b",
-              "right": 786,
-              "width": 14
             }
           ]
         }
@@ -7836,39 +5522,39 @@
             "text": "Skip to content",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(43, 36, 232)",
+            "outlineColor": "rgb(64, 179, 255)",
             "boxShadow": "none",
-            "borderColor": "rgb(43, 36, 232)",
-            "backgroundColor": "rgb(255, 255, 255)"
+            "borderColor": "rgb(4, 18, 28)",
+            "backgroundColor": "rgb(64, 179, 255)"
           },
           {
             "tag": "a",
-            "text": "Shardra home",
+            "text": "Kavrel home",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(43, 36, 232)",
+            "outlineColor": "rgb(64, 179, 255)",
             "boxShadow": "none",
-            "borderColor": "rgb(11, 11, 12)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
+            "borderColor": "rgba(38, 37, 54, 0.8)",
+            "backgroundColor": "rgba(12, 12, 22, 0.62)"
           },
           {
             "tag": "a",
             "text": "Ledger",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(43, 36, 232)",
-            "boxShadow": "none",
-            "borderColor": "rgb(247, 247, 244)",
-            "backgroundColor": "rgb(11, 11, 12)"
+            "outlineColor": "rgb(64, 179, 255)",
+            "boxShadow": "rgba(64, 179, 255, 0.42) 0px 0px 26px 0px",
+            "borderColor": "rgb(4, 18, 28)",
+            "backgroundColor": "rgb(64, 179, 255)"
           },
           {
             "tag": "a",
             "text": "Events",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(43, 36, 232)",
+            "outlineColor": "rgb(64, 179, 255)",
             "boxShadow": "none",
-            "borderColor": "rgb(116, 116, 122)",
+            "borderColor": "rgb(154, 152, 173)",
             "backgroundColor": "rgba(0, 0, 0, 0)"
           },
           {
@@ -7876,9 +5562,9 @@
             "text": "Receipts",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(43, 36, 232)",
+            "outlineColor": "rgb(64, 179, 255)",
             "boxShadow": "none",
-            "borderColor": "rgb(116, 116, 122)",
+            "borderColor": "rgb(154, 152, 173)",
             "backgroundColor": "rgba(0, 0, 0, 0)"
           },
           {
@@ -7886,9 +5572,9 @@
             "text": "Chain",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(43, 36, 232)",
+            "outlineColor": "rgb(64, 179, 255)",
             "boxShadow": "none",
-            "borderColor": "rgb(116, 116, 122)",
+            "borderColor": "rgb(154, 152, 173)",
             "backgroundColor": "rgba(0, 0, 0, 0)"
           },
           {
@@ -7896,20 +5582,20 @@
             "text": "Connect",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(43, 36, 232)",
+            "outlineColor": "rgb(64, 179, 255)",
             "boxShadow": "none",
-            "borderColor": "rgb(11, 11, 12)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
+            "borderColor": "rgba(64, 179, 255, 0.45)",
+            "backgroundColor": "rgba(64, 179, 255, 0.1)"
           },
           {
-            "tag": "button",
-            "text": "Open events",
+            "tag": "a",
+            "text": "LEDGER",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(43, 36, 232)",
+            "outlineColor": "rgb(64, 179, 255)",
             "boxShadow": "none",
-            "borderColor": "rgb(255, 255, 255)",
-            "backgroundColor": "rgb(43, 36, 232)"
+            "borderColor": "rgb(4, 18, 28)",
+            "backgroundColor": "rgb(64, 179, 255)"
           }
         ],
         "visibleCount": 8,
@@ -7917,5 +5603,5 @@
       }
     }
   },
-  "inventoryHash": "3ea587554c06138e3abf29f0deae84a51224fc3ac8442a5dd91bddcbfbdecee1"
+  "inventoryHash": "623d3a5397a3bce834808c85a0156e170b7dcb36afddef8cb85aa8d4b233e258"
 }

@@ -7,7 +7,7 @@ defineProps({
 </script>
 
 <template>
-  <div v-if="message" class="orb-toast" role="status">
+  <div v-if="message" class="brd-toast" role="status">
     <FlowIcon name="check" />
     <span>{{ message }}</span>
   </div>

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "meta": {
-    "projectName": "shardra-terminal",
-    "title": "shardra-terminal",
+    "projectName": "kavrel-terminal",
+    "title": "kavrel-terminal",
     "lang": "en"
   },
   "routes": [
@@ -836,7 +836,7 @@
     {
       "kind": "attr",
       "expr": "icons[page]",
-      "count": 2
+      "count": 4
     },
     {
       "kind": "attr",
@@ -851,7 +851,7 @@
     {
       "kind": "form",
       "expr": "icons[page]",
-      "count": 2
+      "count": 4
     },
     {
       "kind": "interpolation",
@@ -1126,7 +1126,7 @@
     {
       "kind": "interpolation",
       "expr": "market.reference",
-      "count": 8
+      "count": 9
     },
     {
       "kind": "interpolation",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T19:09:24.650Z",
+  "generatedAt": "2026-10-20T15:55:10.241Z",
   "project": {
     "root": "E:/workspace/chuangye/solana/704/website",
-    "name": "shardra-terminal",
-    "baseUrl": "http://127.0.0.1:4319/"
+    "name": "kavrel-terminal",
+    "baseUrl": "http://127.0.0.1:4318/"
   },
   "passed": true,
   "thresholds": {
@@ -19,36 +19,12 @@
     "sourceContract": {
       "passed": true,
       "issues": [],
-      "warnings": [
-        "bindings: \"attr:icons[page]\" count increased 2 -> 4",
-        "bindings: \"form:icons[page]\" count increased 2 -> 4"
-      ],
-      "hash": "bfa659f23ef3a94f72c850fc92257c37eb18b8bf5d3412d558b87cda65fa6281"
+      "warnings": [],
+      "hash": "623d3a5397a3bce834808c85a0156e170b7dcb36afddef8cb85aa8d4b233e258"
     },
     "skeleton": {
       "passed": true,
       "original": {
-        "id": "dashboard-shell",
-        "family": "shell",
-        "traits": {
-          "sidebar": true,
-          "topbar": true,
-          "cards": true,
-          "hero": true,
-          "table": true,
-          "grid": true,
-          "tabs": true,
-          "modal": true,
-          "charts": true,
-          "sticky": true,
-          "orbital": false,
-          "terminal": false,
-          "bento": false,
-          "ticker": false,
-          "gallery": false
-        }
-      },
-      "current": {
         "id": "orbital",
         "family": "spatial",
         "traits": {
@@ -69,10 +45,31 @@
           "gallery": true
         }
       },
+      "current": {
+        "id": "marketing-stack",
+        "family": "editorial",
+        "traits": {
+          "sidebar": false,
+          "topbar": false,
+          "cards": true,
+          "hero": true,
+          "table": true,
+          "grid": true,
+          "tabs": true,
+          "modal": true,
+          "charts": true,
+          "sticky": true,
+          "orbital": false,
+          "terminal": false,
+          "bento": false,
+          "ticker": true,
+          "gallery": false
+        }
+      },
       "accent": {
-        "original": "#0e9f5b",
-        "current": "#40b3ff",
-        "deltaE": 85.44,
+        "original": "#40b3ff",
+        "current": "#ff0421",
+        "deltaE": 136.56,
         "min": 30
       }
     },
@@ -82,17 +79,11 @@
         "passed": true,
         "skipped": false,
         "failures": [],
-        "warnings": [
-          "aria attribute added: aria-label=Section navigation",
-          "link target added: #governance",
-          "link target added: #markets",
-          "link target added: #overview",
-          "link target added: #positions"
-        ],
+        "warnings": [],
         "structure": {
-          "fingerprintSimilarity": 0.358,
-          "landmarkSimilarity": 0.333,
-          "classOverlap": 0
+          "fingerprintSimilarity": 0.337,
+          "landmarkSimilarity": 0.6,
+          "classOverlap": 0.009
         },
         "content": {
           "missing": [],
@@ -125,17 +116,9 @@
     ]
   },
   "failures": [],
-  "warnings": [
-    "bindings: \"attr:icons[page]\" count increased 2 -> 4",
-    "bindings: \"form:icons[page]\" count increased 2 -> 4",
-    "/: aria attribute added: aria-label=Section navigation",
-    "/: link target added: #governance",
-    "/: link target added: #markets",
-    "/: link target added: #overview",
-    "/: link target added: #positions"
-  ],
+  "warnings": [],
   "baseline": {
-    "generatedAt": "2026-10-19T18:47:08.449Z",
+    "generatedAt": "2026-10-20T15:36:48.016Z",
     "routes": [
       "/"
     ]

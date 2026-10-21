@@ -1,0 +1,55 @@
+<script setup>
+import FlowIcon from './FlowIcon.vue'
+import { BRAND_MARK_URL, BRAND_NAME, CLUSTER_LABEL, SOCIAL_URL } from '../config'
+
+defineProps({
+  pages: { type: Array, required: true },
+  labels: { type: Object, required: true },
+  icons: { type: Object, required: true },
+  activePage: { type: String, required: true },
+  connected: { type: Boolean, default: false },
+  shortAccount: { type: String, default: '' },
+  positionCount: { type: Number, default: 0 },
+})
+
+const emit = defineEmits(['go', 'wallet'])
+</script>
+
+<template>
+  <header class="brd-masthead">
+    <a class="brd-brand" href="#overview" :aria-label="`${BRAND_NAME} home`" @click.prevent="emit('go', 'Overview')">
+      <img class="brd-brand-mark" :src="BRAND_MARK_URL" alt="" width="38" height="38">
+      <span class="brd-brand-type">
+        <strong class="brd-brand-name">{{ BRAND_NAME }}</strong>
+        <small class="brd-brand-cluster">{{ CLUSTER_LABEL }}</small>
+      </span>
+    </a>
+
+    <nav class="brd-ticker" aria-label="Primary navigation">
+      <a
+        v-for="page in pages"
+        :key="page"
+        class="brd-ticker-link"
+        :href="'#' + page.toLowerCase()"
+        :class="{ 'is-live': activePage === page }"
+        :aria-current="activePage === page ? 'page' : undefined"
+        @click.prevent="emit('go', page)"
+      >
+        <FlowIcon :name="icons[page]" />
+        <span>{{ labels[page] }}</span>
+        <i v-if="page === 'Positions' && positionCount" class="brd-pip">{{ positionCount }}</i>
+      </a>
+    </nav>
+
+    <div class="brd-tools">
+      <span class="brd-cluster"><i></i>{{ CLUSTER_LABEL }}</span>
+      <a v-if="SOCIAL_URL" class="brd-x" :href="SOCIAL_URL" target="_blank" rel="noopener noreferrer" aria-label="Follow on X">
+        <FlowIcon name="external" />
+      </a>
+      <button class="brd-wallet" type="button" @click="emit('wallet')">
+        <FlowIcon name="wallet" />
+        <span>{{ connected ? shortAccount : 'Connect' }}</span>
+      </button>
+    </div>
+  </header>
+</template>

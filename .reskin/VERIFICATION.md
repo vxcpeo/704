@@ -1,17 +1,17 @@
 # Reskin verification — PASS
 
-Generated: 2026-10-19T19:09:24.650Z
+Generated: 2026-10-20T15:55:10.241Z
 
-- Project: **shardra-terminal**
-- URL: http://127.0.0.1:4319/
-- Original skeleton: `dashboard-shell` (shell)
-- New skeleton: `orbital` (spatial)
-- Accent: #0e9f5b -> #40b3ff (85.44 ΔE; min 30)
-- Source contract: intact (`bfa659f23ef3`)
+- Project: **kavrel-terminal**
+- URL: http://127.0.0.1:4318/
+- Original skeleton: `orbital` (spatial)
+- New skeleton: `marketing-stack` (editorial)
+- Accent: #40b3ff -> #ff0421 (136.56 ΔE; min 30)
+- Source contract: intact (`623d3a5397a3`)
 
 | Route | Result | DOM similarity | Landmark similarity | Axe serious | Screenshot |
 |---|---|---:|---:|---:|---|
-| `/` | PASS | 0.358 | 0.333 | 0 | [desktop](current/home-desktop.png) |
+| `/` | PASS | 0.337 | 0.6 | 0 | [desktop](current/home-desktop.png) |
 
 ## Blocking issues
 
@@ -19,13 +19,7 @@ Generated: 2026-10-19T19:09:24.650Z
 
 ## Warnings
 
-- bindings: "attr:icons[page]" count increased 2 -> 4
-- bindings: "form:icons[page]" count increased 2 -> 4
-- /: aria attribute added: aria-label=Section navigation
-- /: link target added: #governance
-- /: link target added: #markets
-- /: link target added: #overview
-- /: link target added: #positions
+- None.
 
 ## Thresholds
 

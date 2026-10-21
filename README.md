@@ -1,6 +1,6 @@
-# Shardra frontend
+# Kavrel frontend
 
-**Every reading strikes one line.** Vue 3 / Vite on Solana, with a pale ledger sheet interface.
+**Every reading strikes one line.** Vue 3 / Vite on Solana, with a poster-desk interface: cream ground, ink rules, a ticker nav and ruled ledger bands.
 
 The interface supports illustrative event-scenario discovery, a six-reading shard field with a derived field level and point spread, local practice receipts, responsive navigation, and optional read-only SOL and configured outcome-share balance checks through an injected Solana provider. The configured YES market-asset mint `EvatdLdQKLV5pMzp75dCbyWbVewckB2SXuEwnoHQfEbj` is deployed on Testnet as a classic SPL Token with 9 decimals and zero initial supply; prediction-market execution, oracle, settlement, and issuance remain unavailable.
 
@@ -35,13 +35,13 @@ Illustrative event fixtures and the deterministic shard-field derivation live in
 
 | Asset | Role |
 | --- | --- |
-| `shardra-mark.svg` | Primary shard-forge mark (wordmark, avatar, cards) |
+| `kavrel-mark.svg` | Primary shard-forge mark (wordmark, avatar, cards) |
 | `favicon.svg` | Reduced mark for small sizes |
 | `favicon-64.png`, `icon-512.png` | Raster twins of the reduced mark |
-| `shardra-og.png` | 1200 x 630 social and Open Graph card |
+| `kavrel-og.png` | 1200 x 630 social and Open Graph card |
 
 The mark is a shard forge: a rotated-square frame around a diagonal shard with four perpendicular ticks, a bright core and an ember crest. Below roughly 48 px the frame and ticks are dropped, so the favicon uses a reduced variant that keeps only the shard and the crest node; the two shapes are held apart so they stay separate at 16 px.
 
-The palette follows `brand.json`: canvas `#F7F7F4`, sheet `#FFFFFF`, panel `#EFEFE9`, raised panel `#E6E6DE`, ink `#0B0B0C`, soft ink `#3C3C40`, muted `#74747A`, rule `#DCDCD4`, indigo signal `#2B24E8`, deep indigo `#1A15A8`, ultra-violet trace `#8B3DFF`, mint YES `#0E9F5B`, ember NO `#FF5A1F`, amber `#C2790A`.
+The palette follows `brand.json`: ground `#FAFAF9`, sheet `#FFFFFF`, panel `#FFE3D6`, raised panel `#F6EDE7`, ink `#161616`, soft ink `#3A3430`, muted `#6E625C`, rule `#E7D5CA`, signal `#FF0421`, pressed signal `#B00016`, trace `#FF7A00`, YES `#1E6B47`, NO `#B00016`, caution `#8F4B00`.
 
 Brand identity strings live in `src/config.js` (`BRAND_NAME`, `BRAND_SLUG`, `BRAND_TAGLINE`, `BRAND_MARK_URL`, `BRAND_ICON_URL`, `BRAND_DOMAIN`); document metadata lives in `index.html`. `website/a7104sol/` is a synchronized mirror — run `powershell -File scripts/sync-frontend.ps1` from the repository root after frontend changes.

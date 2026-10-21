@@ -1,6 +1,6 @@
-# Reskin inventory — shardra-terminal
+# Reskin inventory — kavrel-terminal
 
-Generated: 2026-10-19T18:46:35.170Z
+Generated: 2026-10-20T15:41:21.635Z
 
 ## Project
 
@@ -15,12 +15,12 @@ Generated: 2026-10-19T18:46:35.170Z
 
 ## Original skeleton
 
-- Archetype: **dashboard-shell** (shell)
-- Traits: sidebar, topbar, cards, hero, table, grid, tabs, modal, charts, sticky
-- Max template depth: 10
-- Top-level tags: div, div, aside, div, svg, section, div, nav, div, ol, div, header, div, div, aside, div, svg, section, div, nav, div, ol, div, header
+- Archetype: **orbital** (spatial)
+- Traits: cards, hero, table, grid, tabs, modal, charts, sticky, orbital, ticker, gallery
+- Max template depth: 12
+- Top-level tags: div, div, div, section, svg, div, a, nav, div, ol, nav, section, div, div, header, div, div, div, section, svg, div, ol, nav, div, div
 
-The replacement skeleton must not be `dashboard-shell` and must not be in the same family (`shell`).
+The replacement skeleton must not be `orbital` and must not be in the same family (`spatial`).
 
 ## Routes
 
@@ -28,14 +28,14 @@ The replacement skeleton must not be `dashboard-shell` and must not be in the sa
 
 ## Palette (most used first)
 
-`#ffffff` (12) · `#0b0b0c` (6) · `#0e9f5b` (6) · `#2b24e8` (6) · `#efefe9` (4) · `#000000` (2) · `#1a15a8` (2) · `#3c3c40` (2) · `#74747a` (2) · `#8b3dff` (2)
+`#40b3ff` (27) · `#f5f4fa` (13) · `#a78bfa` (11) · `#262536` (8) · `#000000` (6) · `#ffffff` (6) · `#5ce1a0` (5) · `#0d0d17` (4) · `#191927` (4) · `#0a0a14` (3)
 
 ## Content lock
 
 - Static visible text tokens: **378**
-- Binding expressions: **336**
+- Binding expressions: **341**
 - Event handlers: **82**
-- Contract hash: `3ea587554c06138e3abf29f0deae84a51224fc3ac8442a5dd91bddcbfbdecee1`
+- Contract hash: `8e4c248282c8678ad3c861ceb1a00bcc93266245b504bff1ce65c402875a459b`
 
 Everything in `.reskin/content-contract.json` is immutable: visible copy, placeholders, labels, routes, link targets, asset sources, bindings, handlers, API endpoints and i18n values. A reskin may move these tokens to new markup but may not rewrite, remove or hide them.
 

@@ -1,4 +1,4 @@
-// Shardra frontend configuration.
+// Kavrel frontend configuration.
 //
 // The brand constants are literal strings on purpose: the repository delivery
 // check reads BRAND_NAME and BRAND_SLUG out of this file and compares them with
@@ -9,12 +9,12 @@ const DEFAULT_RPC_URL = SOLANA_CLUSTER === 'testnet'
   : `https://api.${SOLANA_CLUSTER}.solana.com`
 export const RPC_URL = import.meta.env.VITE_SOLANA_RPC_URL || DEFAULT_RPC_URL
 export const EXPLORER_URL = import.meta.env.VITE_SOLANA_EXPLORER_URL || 'https://explorer.solana.com'
-export const BRAND_NAME = 'Shardra'
-export const BRAND_SLUG = 'shardra'
+export const BRAND_NAME = 'Kavrel'
+export const BRAND_SLUG = 'kavrel'
 export const BRAND_TAGLINE = 'Every reading strikes one line.'
-export const BRAND_MARK_URL = '/shardra-mark.svg'
+export const BRAND_MARK_URL = '/kavrel-mark.svg'
 export const BRAND_ICON_URL = '/icon-512.png'
-export const BRAND_DOMAIN = 'shardra.xyz'
+export const BRAND_DOMAIN = 'kavrel.xyz'
 export const TOKEN_NAME = 'Outcome shares'
 export const TOKEN_SYMBOL = 'YES'
 const DEFAULT_TESTNET_MINT = 'EvatdLdQKLV5pMzp75dCbyWbVewckB2SXuEwnoHQfEbj'
