@@ -19,26 +19,26 @@ const rows = [
 </script>
 
 <template>
-  <div class="st-chain">
-    <section class="st-panel">
-      <p class="st-panel-label">CHAIN FACTS</p>
-      <dl class="st-factlist">
+  <div class="bx-chain">
+    <section class="bx-chain-card">
+      <p class="bx-card-label">CHAIN FACTS</p>
+      <dl class="bx-factlist">
         <div><dt>Cluster</dt><dd>{{ CLUSTER_LABEL }}</dd></div>
         <div><dt>Outcome asset</dt><dd>YES / classic SPL</dd></div>
         <div><dt>Decimals / supply</dt><dd>9 / 0</dd></div>
         <div><dt>Mint authority</dt><dd>Retained</dd></div>
         <div><dt>Freeze authority</dt><dd>Disabled</dd></div>
-        <div><dt>Configured mint</dt><dd class="st-mono">{{ TOKEN_MINT || 'Not configured' }}</dd></div>
+        <div><dt>Configured mint</dt><dd class="bx-mono">{{ TOKEN_MINT || 'Not configured' }}</dd></div>
       </dl>
-      <p v-if="tokenConfigured" class="st-explorer">
+      <p v-if="tokenConfigured" class="bx-explorer">
         <a :href="TOKEN_EXPLORER_URL" target="_blank" rel="noopener noreferrer">Open the mint on Explorer <Glyph name="external" /></a>
       </p>
-      <p v-else class="st-explorer">No mint address is configured for this cluster.</p>
+      <p v-else class="bx-explorer">No mint address is configured for this cluster.</p>
     </section>
 
-    <section class="st-panel">
-      <p class="st-panel-label">CAPABILITY MATRIX</p>
-      <table class="st-matrix">
+    <section class="bx-chain-card">
+      <p class="bx-card-label">CAPABILITY MATRIX</p>
+      <table class="bx-matrix">
         <caption class="sr-only">Program availability on the configured cluster</caption>
         <thead>
           <tr><th scope="col">Capability</th><th scope="col">Scope</th><th scope="col">Status</th></tr>
@@ -51,16 +51,16 @@ const rows = [
             </th>
             <td>{{ row.scope }}</td>
             <td>
-              <span class="st-badge" :class="row.tone === 'ok' ? 'st-badge--ok' : row.tone === 'off' ? 'st-badge--off' : 'st-badge--info'">
+              <span class="bx-badge" :class="row.tone === 'ok' ? 'bx-badge--ok' : row.tone === 'off' ? 'bx-badge--off' : 'bx-badge--info'">
                 <i aria-hidden="true"></i>{{ row.status }}
               </span>
             </td>
           </tr>
         </tbody>
       </table>
-      <div class="st-matrix-actions">
-        <button class="st-btn st-btn--ghost" @click="emit('go', 'Markets')">Open events <Glyph name="arrow" /></button>
-        <button class="st-btn st-btn--ghost" @click="emit('wallet')">Manage wallet <Glyph name="wallet" /></button>
+      <div class="bx-matrix-actions">
+        <button class="bx-button bx-button--quiet" @click="emit('go', 'Markets')">Open events <Glyph name="arrow" /></button>
+        <button class="bx-button bx-button--quiet" @click="emit('wallet')">Manage wallet <Glyph name="wallet" /></button>
       </div>
     </section>
   </div>

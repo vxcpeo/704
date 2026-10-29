@@ -34,15 +34,15 @@ const paths = {
 </script>
 <template>
   <svg
-    class="st-glyph"
-    width="16"
-    height="16"
+    class="bx-glyph"
+    width="18"
+    height="18"
     viewBox="0 0 24 24"
     fill="none"
     stroke="currentColor"
-    stroke-width="1.6"
-    stroke-linecap="square"
-    stroke-linejoin="miter"
+    stroke-width="1.7"
+    stroke-linecap="round"
+    stroke-linejoin="round"
     aria-hidden="true"
   >
     <path :d="paths[name] || paths.arrow" />

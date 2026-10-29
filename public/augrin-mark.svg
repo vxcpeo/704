@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-label="Augrin augur-eye mark">
+  <title>Augrin augur-eye mark</title>
+  <rect width="400" height="400" rx="110" fill="#E6006F"/>
+  <path d="M 85.4 158.3 A 122 122 0 0 1 314.6 158.3" fill="none" stroke="#F8C3DB" stroke-width="14" stroke-linecap="round"/>
+  <line x1="126.00" y1="274.00" x2="278.00" y2="122.00" stroke="#FFFFFF" stroke-width="22.00" stroke-linecap="round"/>
+  <circle cx="171.60" cy="228.40" r="11" fill="#F8C3DB"/>
+  <circle cx="211.12" cy="188.88" r="11" fill="#F8C3DB"/>
+  <circle cx="278.00" cy="122.00" r="30.00" fill="#0D0D0D"/>
+  <circle cx="278.00" cy="122.00" r="11" fill="#FFFFFF"/>
+</svg>

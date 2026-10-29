@@ -14,37 +14,37 @@ const mean = computed(() => Math.round(props.level))
 </script>
 
 <template>
-  <section class="st-field" aria-labelledby="st-field-title">
-    <div class="st-field-head">
+  <section class="bx-readings" aria-labelledby="bx-readings-title">
+    <div class="bx-readings-head">
       <div>
-        <span class="st-label">SHARD FIELD</span>
-        <h3 id="st-field-title">{{ readings.length }} readings · {{ spread }} pt spread</h3>
+        <span class="bx-eyebrow">SHARD FIELD</span>
+        <h3 id="bx-readings-title">{{ readings.length }} readings · {{ spread }} pt spread</h3>
       </div>
-      <span class="st-badge"><i aria-hidden="true"></i>ILLUSTRATIVE</span>
+      <span class="bx-badge"><i aria-hidden="true"></i>ILLUSTRATIVE</span>
     </div>
 
-    <div class="st-field-axis" aria-hidden="true">
+    <div class="bx-axis" aria-hidden="true">
       <span>4%</span>
-      <span class="st-field-rule"><i :style="{ left: mean + '%' }"></i></span>
+      <span class="bx-axis-rule"><i :style="{ left: mean + '%' }"></i></span>
       <span>96%</span>
     </div>
 
-    <ol class="st-shards">
+    <ol class="bx-shards">
       <li
         v-for="(value, index) in readings"
         :key="index"
-        class="st-shard"
+        class="bx-shard"
         :class="{ 'is-lead': index === lead }"
         :style="{ '--value': value + '%' }"
       >
-        <span class="st-shard-id">S{{ index + 1 }}</span>
-        <span class="st-shard-track"><i></i></span>
-        <span class="st-shard-value">{{ value }}%</span>
-        <span class="st-shard-note">{{ value >= level ? 'above field' : 'below field' }}</span>
+        <span class="bx-shard-id">S{{ index + 1 }}</span>
+        <span class="bx-shard-orbit"><i></i></span>
+        <span class="bx-shard-value">{{ value }}%</span>
+        <span class="bx-shard-note">{{ value >= level ? 'above field' : 'below field' }}</span>
       </li>
     </ol>
 
-    <div class="st-field-foot">
+    <div class="bx-readings-foot">
       <div><small>Field level</small><b>{{ level }}%</b></div>
       <div><small>Dispersion</small><b>{{ spread }} pt</b></div>
       <div><small>Lead reading</small><b>S{{ lead + 1 }}</b></div>

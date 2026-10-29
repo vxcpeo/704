@@ -7,7 +7,7 @@ defineProps({
 </script>
 
 <template>
-  <div v-if="message" class="st-toast" role="status">
+  <div v-if="message" class="bx-toast" role="status">
     <Glyph name="check" />
     <span>{{ message }}</span>
   </div>

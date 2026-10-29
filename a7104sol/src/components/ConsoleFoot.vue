@@ -13,17 +13,18 @@ const emit = defineEmits(['go'])
 </script>
 
 <template>
-  <nav class="st-footnav" aria-label="Section navigation">
+  <nav class="bx-rim-nav" aria-label="Section navigation">
     <a
       v-for="page in pages"
       :key="page"
       :href="'#' + page.toLowerCase()"
       :class="{ 'is-current': activePage === page }"
       :aria-current="activePage === page ? 'page' : undefined"
+      :aria-label="labels[page]"
       @click.prevent="emit('go', page)"
     >
       <Glyph :name="icons[page]" />
-      <span class="st-footnav-word">{{ labels[page] }}</span>
+      <span class="bx-rim-word">{{ labels[page] }}</span>
       <i v-if="page === 'Positions' && positionCount">{{ positionCount }}</i>
     </a>
   </nav>

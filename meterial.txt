@@ -1,7 +1,7 @@
-Brand: Corvantis
-Pronunciation: KOR-van-tis
-Name idea: A field of shard readings struck into one line
-Slug / wordmark: corvantis
+Brand: Augrin
+Pronunciation: AW-grin
+Name idea: An augur's reading struck into one line
+Slug / wordmark: augrin
 Project token ticker: none introduced; the market-asset symbol stays YES
 Technical asset: configured market-asset mint (classic SPL Token on Solana Testnet)
 Token mint: EvatdLdQKLV5pMzp75dCbyWbVewckB2SXuEwnoHQfEbj (9 decimals, zero supply, mint authority retained, freeze authority disabled, no on-chain metadata)
@@ -10,7 +10,7 @@ Network: Solana Testnet (cluster configurable through VITE_SOLANA_CLUSTER)
 Product: simulated event contracts, a six-reading shard field, illustrative outcome splits, local practice receipts
 Wallet: injected Phantom/Solflare-compatible provider, read-only native SOL and configured market-asset balances
 Deployment: configured market-asset mint deployed; prediction-market execution, oracle, settlement and issuance remain pending
-Visual direction: spectrum terminal; black ground #000000, panels #0B0B0C, raised fields #161618, hairline rules #29292D, violet signals #9945FF, phosphor-green traces #14F195, warning-red NO states #FF5C7A; scanline grain, tabular numerals, a status-telemetry strip and a three-pane console.
-Mark: shard forge; rotated-square frame around a diagonal shard with four perpendicular ticks, a bright core and an ember crest. Below roughly 48 px a reduced variant keeps only the shard and the crest node.
-Frontend package: corvantis-terminal
-Candidate destinations: corvantis.xyz and @corvantis (read-only Chrome checks on 2026-10-21 returned no record); corvantis.com not checked; ownership not confirmed.
+Visual direction: bubblegum orbital; white ground #FFFFFF, panels #F9F8FA and #F2EEF3, hairline rules #E9E4EB, hot-pink signals #E6006F, plum traces #6B3FA0, brick NO states #B3261E; rounded pills, concentric orbit rings, a circular core figure, tabular numerals and a focused panel with embedded filters.
+Mark: augur's eye; soft pink tile, open orbit arc, struck diagonal reading line and a dark verdict node with a light pupil. Below roughly 48 px a reduced variant keeps a thicker arc, line and node.
+Frontend package: augrin-terminal
+Candidate destinations: augrin.xyz and @augrin (read-only Chrome checks on 2026-10-22 returned no record); augrin.com not checked; ownership not confirmed.

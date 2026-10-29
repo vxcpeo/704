@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T13:48:49.040Z",
+  "generatedAt": "2026-10-22T15:46:52.961Z",
   "project": {
     "root": "E:/workspace/chuangye/solana/704/website",
-    "name": "corvantis-terminal",
+    "name": "augrin-terminal",
     "baseUrl": "http://127.0.0.1:4317/"
   },
   "passed": true,
@@ -20,32 +20,11 @@
       "passed": true,
       "issues": [],
       "warnings": [],
-      "hash": "00fc81c534945b1d151a52cfd80d4f53497e315ee88c9b829987d4f217cb00ed"
+      "hash": "4acaee0535325ac784a6a009a10f571138401f4f99353aaaf12f3236285567a0"
     },
     "skeleton": {
       "passed": true,
       "original": {
-        "id": "marketing-stack",
-        "family": "editorial",
-        "traits": {
-          "sidebar": false,
-          "topbar": false,
-          "cards": true,
-          "hero": true,
-          "table": true,
-          "grid": true,
-          "tabs": true,
-          "modal": true,
-          "charts": true,
-          "sticky": true,
-          "orbital": false,
-          "terminal": false,
-          "bento": false,
-          "ticker": true,
-          "gallery": false
-        }
-      },
-      "current": {
         "id": "sidebar-workspace",
         "family": "shell",
         "traits": {
@@ -66,10 +45,31 @@
           "gallery": false
         }
       },
+      "current": {
+        "id": "orbital",
+        "family": "spatial",
+        "traits": {
+          "sidebar": false,
+          "topbar": false,
+          "cards": true,
+          "hero": true,
+          "table": true,
+          "grid": true,
+          "tabs": true,
+          "modal": true,
+          "charts": true,
+          "sticky": true,
+          "orbital": true,
+          "terminal": false,
+          "bento": false,
+          "ticker": false,
+          "gallery": false
+        }
+      },
       "accent": {
-        "original": "#ff0421",
-        "current": "#9945ff",
-        "deltaE": 135.92,
+        "original": "#9945ff",
+        "current": "#e6006f",
+        "deltaE": 85.01,
         "min": 30
       }
     },
@@ -79,10 +79,15 @@
         "passed": true,
         "skipped": false,
         "failures": [],
-        "warnings": [],
+        "warnings": [
+          "aria attribute added: aria-label=Chain",
+          "aria attribute added: aria-label=Events",
+          "aria attribute added: aria-label=Ledger",
+          "aria attribute added: aria-label=Receipts"
+        ],
         "structure": {
-          "fingerprintSimilarity": 0.38,
-          "landmarkSimilarity": 0.556,
+          "fingerprintSimilarity": 0.405,
+          "landmarkSimilarity": 0.667,
           "classOverlap": 0.008
         },
         "content": {
@@ -116,9 +121,14 @@
     ]
   },
   "failures": [],
-  "warnings": [],
+  "warnings": [
+    "/: aria attribute added: aria-label=Chain",
+    "/: aria attribute added: aria-label=Events",
+    "/: aria attribute added: aria-label=Ledger",
+    "/: aria attribute added: aria-label=Receipts"
+  ],
   "baseline": {
-    "generatedAt": "2026-10-21T13:36:24.337Z",
+    "generatedAt": "2026-10-22T15:15:54.716Z",
     "routes": [
       "/"
     ]

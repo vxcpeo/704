@@ -1,4 +1,4 @@
-// Corvantis frontend configuration.
+// Augrin frontend configuration.
 //
 // The brand constants are literal strings on purpose: the repository delivery
 // check reads BRAND_NAME and BRAND_SLUG out of this file and compares them with
@@ -9,12 +9,12 @@ const DEFAULT_RPC_URL = SOLANA_CLUSTER === 'testnet'
   : `https://api.${SOLANA_CLUSTER}.solana.com`
 export const RPC_URL = import.meta.env.VITE_SOLANA_RPC_URL || DEFAULT_RPC_URL
 export const EXPLORER_URL = import.meta.env.VITE_SOLANA_EXPLORER_URL || 'https://explorer.solana.com'
-export const BRAND_NAME = 'Corvantis'
-export const BRAND_SLUG = 'corvantis'
+export const BRAND_NAME = 'Augrin'
+export const BRAND_SLUG = 'augrin'
 export const BRAND_TAGLINE = 'Every reading strikes one line.'
-export const BRAND_MARK_URL = '/corvantis-mark.svg'
+export const BRAND_MARK_URL = '/augrin-mark.svg'
 export const BRAND_ICON_URL = '/icon-512.png'
-export const BRAND_DOMAIN = 'corvantis.xyz'
+export const BRAND_DOMAIN = 'augrin.xyz'
 export const TOKEN_NAME = 'Outcome shares'
 export const TOKEN_SYMBOL = 'YES'
 const DEFAULT_TESTNET_MINT = 'EvatdLdQKLV5pMzp75dCbyWbVewckB2SXuEwnoHQfEbj'

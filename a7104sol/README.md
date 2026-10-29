@@ -1,6 +1,6 @@
-# Corvantis frontend
+# Augrin frontend
 
-**Every reading strikes one line.** Vue 3 / Vite on Solana, with a spectrum-terminal interface: black ground, violet signal, phosphor-green trace, a command bar and a three-pane console.
+**Every reading strikes one line.** Vue 3 / Vite on Solana, with a bubblegum-orbital interface: white ground, lilac washes, hot-pink signal, concentric orbit rings, a circular core figure and rounded panels.
 
 The interface supports illustrative event-scenario discovery, a six-reading shard field with a derived field level and point spread, local practice receipts, responsive navigation, and optional read-only SOL and configured outcome-share balance checks through an injected Solana provider. The configured YES market-asset mint `EvatdLdQKLV5pMzp75dCbyWbVewckB2SXuEwnoHQfEbj` is deployed on Testnet as a classic SPL Token with 9 decimals and zero initial supply; prediction-market execution, oracle, settlement, and issuance remain unavailable.
 
@@ -8,26 +8,28 @@ Copy `.env.example` to `.env` and set `VITE_SOLANA_CLUSTER`, `VITE_SOLANA_RPC_UR
 
 ## Layout
 
-The shell is a terminal console: a status-telemetry bar, a command bar, then a three-pane work area (filter rail, view, inspector) that collapses to one column below 980 px. It follows the spectrum-terminal direction sampled from solana.com.
+The shell is an orbital stage: a frosted crest ribbon, then a circular core with the selected field level, four route pills placed around the ring, the statement and KPI arc, and a focused page panel below. The old filter rail and right-hand inspector are gone; filters live in a pill row inside the panel, and the selected-event lens sits beside the shard field at the top of the Overview panel. The ring becomes a vertical arc and the core becomes a rounded card below 980 px.
 
 | Surface | Component | Notes |
 | --- | --- | --- |
-| Status bar | `SpectrumBar.vue` | Wordmark, desk telemetry strip, cluster LED, wallet chip |
-| Command bar | `CommandNav.vue` | Route commands with glyphs, labels and saved-receipt count |
-| Filter rail | `App.vue` | Profile segment and search for the Ledger and Events routes; sort is added on Events |
-| Readout | `App.vue` | Kicker, statement headline, lede, actions, session-trace telemetry and four KPI cells |
-| Event ledger | `EventGrid.vue` | Ruled ledger with ref gutter, event title, profile chip, field level and meter, facts and a model action |
-| Inspector | `EventInspector.vue` | Selected event: outcome split slider, illustrative facts, model action and the shard field |
+| Crest ribbon | `CrestBar.vue` | Wordmark, desk telemetry chips, cluster LED, wallet chip |
+| Route orbit | `CommandNav.vue` | Four route pills placed around the core ring; accessible names, current route marked |
+| Core | `App.vue` | Selected field level, session-trace bars, sparkline and caption |
+| Statement | `App.vue` | Headline, lede, actions and the illustrative-data flag below the core |
+| Metric arc | `App.vue` | Four KPI cells under the statement |
+| Event lens | `EventInspector.vue` | Selected event, outcome split, illustrative facts and the shard field |
+| Event ledger | `EventGrid.vue` | Scrolling event cards with a level dial, facts and a model action |
 | Shard field | `ShardMeter.vue` | Six illustrated readings, derived field level, point spread, marked lead reading |
-| Board digest | `App.vue` | Profile coverage, biggest sample moves and deepest sample books, each row driving the view or the inspector |
+| Board digest | `App.vue` | Profile coverage, biggest sample moves and deepest sample books |
 | Receipt list | `ReceiptList.vue` | Saved session previews with per-receipt facts and removal |
 | Chain panel | `ChainPanel.vue` | Chain facts plus a capability matrix on the Chain route |
+| Footer rim | `ConsoleFoot.vue` | Section links on the outer rim |
 | Toast | `SignalToast.vue` | Session notices |
 | Icons | `Glyph.vue` | Inline icon set |
 
-Route hashes stay `#overview`, `#markets`, `#positions` and `#governance`, with `#staking` and `#pools` retained as aliases. The visible labels are Ledger, Events, Receipts and Chain. Dialogs are right-anchored `<dialog class="app-sheet">` sheets rather than centred modals.
+Route hashes stay `#overview`, `#markets`, `#positions` and `#governance`, with `#staking` and `#pools` retained as aliases. The visible labels are Ledger, Events, Receipts and Chain. Dialogs are centred `<dialog class="bx-sheet">` sheets.
 
-Illustrative event fixtures and the deterministic shard-field derivation live in `src/data/fixtures.js`; the optional read-only wallet reader lives in `src/composables/useWallet.js`. The board ships 32 sample events across the Macro, Stable and Long shot profiles, and the derived helpers (`boardStats`, `profileBreakdown`, `topMovers`, `deepestMarkets`, `trendSeries`, `openProbability`, `shardField`, `matchesProfile`) feed the ledger strip, the hero figures and the digest band from that one array — no figure is hardcoded in the template. Each shard field spends its offset out of the remaining headroom, so no reading pins against the 4% or 96% clamp. Every probability, field level, spread, depth, volume and position figure is interface sample data. Local previews are session-only, and no market, oracle, faucet, issuance or settlement program is deployed.
+Illustrative event fixtures and the deterministic shard-field derivation live in `src/data/fixtures.js`; the optional read-only wallet reader lives in `src/composables/useWallet.js`. The board ships 32 sample events across the Macro, Stable and Long shot profiles, and the derived helpers (`boardStats`, `profileBreakdown`, `topMovers`, `deepestMarkets`, `trendSeries`, `openProbability`, `shardField`, `matchesProfile`) feed the telemetry ribbon, the core figure and the digest band from that one array — no figure is hardcoded in the template. Each shard field spends its offset out of the remaining headroom, so no reading pins against the 4% or 96% clamp. Every probability, field level, spread, depth, volume and position figure is interface sample data. Local previews are session-only, and no market, oracle, faucet, issuance or settlement program is deployed.
 
 ## Visual system
 
@@ -35,13 +37,15 @@ Illustrative event fixtures and the deterministic shard-field derivation live in
 
 | Asset | Role |
 | --- | --- |
-| `corvantis-mark.svg` | Primary shard-forge mark (wordmark, avatar, cards) |
+| `augrin-mark.svg` | Primary augur-eye mark (wordmark, avatar, cards) |
 | `favicon.svg` | Reduced mark for small sizes |
 | `favicon-64.png`, `icon-512.png` | Raster twins of the reduced mark |
-| `corvantis-og.png` | 1200 x 630 social and Open Graph card |
+| `augrin-og.png` | 1200 x 630 social and Open Graph card |
 
-The mark is a shard forge: a rotated-square frame around a diagonal shard with four perpendicular ticks, a bright core and an phosphor crest. Below roughly 48 px the frame and ticks are dropped, so the favicon uses a reduced variant that keeps only the shard and the crest node; the two shapes are held apart so they stay separate at 16 px.
+The Augrin mark is an augur's eye: a soft pink tile holding an open orbit arc, a struck diagonal reading line and a single dark verdict node with a light pupil. It states the name idea directly — an augur's reading struck into one line.
 
-The palette follows `brand.json`: ground `#000000`, panel `#0B0B0C`, raised field `#161618`, ink `#FFFFFF`, soft ink `#E6E6EA`, muted `#9B9B9F`, rule `#29292D`, strong rule `#4A4A52`, signal `#9945FF`, pressed signal `#6F2BD1`, trace `#14F195`, YES `#14F195`, NO `#FF5C7A`, caution `#FFD166`.
+Below roughly 48 px the open arc and the small reading dots are dropped, so a reduced variant keeps a thicker arc, a thicker line and a larger node. The reduced variant is used for the favicon and the raster icon twins; the full mark is used for the wordmark, avatar, social cards and the Open Graph card.
+
+The palette follows `brand.json`: ground `#FFFFFF`, panel `#F9F8FA`, raised field `#F2EEF3`, ink `#0D0D0D`, soft ink `#2C2A2E`, muted `#6D6A70`, rule `#E9E4EB`, strong rule `#D8CFDB`, signal `#E6006F`, pressed signal `#B80059`, trace `#6B3FA0`, YES `#0F7B4D`, NO `#B3261E`, caution `#7A4A00`.
 
 Brand identity strings live in `src/config.js` (`BRAND_NAME`, `BRAND_SLUG`, `BRAND_TAGLINE`, `BRAND_MARK_URL`, `BRAND_ICON_URL`, `BRAND_DOMAIN`); document metadata lives in `index.html`. `website/a7104sol/` is a synchronized mirror — run `powershell -File scripts/sync-frontend.ps1` from the repository root after frontend changes.

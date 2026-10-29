@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "current",
-  "generatedAt": "2026-10-21T13:48:42.282Z",
+  "generatedAt": "2026-10-22T15:46:47.735Z",
   "baseUrl": "http://127.0.0.1:4317/",
   "browser": {
     "executablePath": "C:\\Users\\Administrator\\AppData\\Local\\ms-playwright\\chromium-1247\\chrome-win64\\chrome.exe",
@@ -15,10 +15,10 @@
       "status": 200,
       "desktop": {
         "meta": {
-          "title": "Ledger | Corvantis",
+          "title": "Ledger | Augrin",
           "lang": "en",
           "h1Count": 1,
-          "bodyTextLength": 7862,
+          "bodyTextLength": 7813,
           "scrollWidth": 1440,
           "clientWidth": 1440,
           "focusableCount": 100
@@ -653,10 +653,6 @@
             "count": 1
           },
           {
-            "word": "66%",
-            "count": 1
-          },
-          {
             "word": "67.5%",
             "count": 1
           },
@@ -671,6 +667,10 @@
           {
             "word": "68.6%",
             "count": 4
+          },
+          {
+            "word": "68%",
+            "count": 1
           },
           {
             "word": "69.1%",
@@ -805,6 +805,146 @@
             "count": 3
           },
           {
+            "word": "AUG-01",
+            "count": 3
+          },
+          {
+            "word": "AUG-02",
+            "count": 2
+          },
+          {
+            "word": "AUG-03",
+            "count": 1
+          },
+          {
+            "word": "AUG-04",
+            "count": 1
+          },
+          {
+            "word": "AUG-05",
+            "count": 1
+          },
+          {
+            "word": "AUG-06",
+            "count": 1
+          },
+          {
+            "word": "AUG-07",
+            "count": 1
+          },
+          {
+            "word": "AUG-08",
+            "count": 1
+          },
+          {
+            "word": "AUG-09",
+            "count": 2
+          },
+          {
+            "word": "AUG-10",
+            "count": 1
+          },
+          {
+            "word": "AUG-11",
+            "count": 1
+          },
+          {
+            "word": "AUG-12",
+            "count": 1
+          },
+          {
+            "word": "AUG-13",
+            "count": 2
+          },
+          {
+            "word": "AUG-14",
+            "count": 2
+          },
+          {
+            "word": "AUG-15",
+            "count": 1
+          },
+          {
+            "word": "AUG-16",
+            "count": 1
+          },
+          {
+            "word": "AUG-17",
+            "count": 1
+          },
+          {
+            "word": "AUG-18",
+            "count": 2
+          },
+          {
+            "word": "AUG-19",
+            "count": 1
+          },
+          {
+            "word": "AUG-20",
+            "count": 2
+          },
+          {
+            "word": "AUG-21",
+            "count": 2
+          },
+          {
+            "word": "AUG-22",
+            "count": 2
+          },
+          {
+            "word": "AUG-23",
+            "count": 1
+          },
+          {
+            "word": "AUG-24",
+            "count": 1
+          },
+          {
+            "word": "AUG-25",
+            "count": 1
+          },
+          {
+            "word": "AUG-26",
+            "count": 1
+          },
+          {
+            "word": "AUG-27",
+            "count": 1
+          },
+          {
+            "word": "AUG-28",
+            "count": 2
+          },
+          {
+            "word": "AUG-29",
+            "count": 1
+          },
+          {
+            "word": "AUG-30",
+            "count": 1
+          },
+          {
+            "word": "AUG-31",
+            "count": 2
+          },
+          {
+            "word": "AUG-32",
+            "count": 1
+          },
+          {
+            "word": "Augrin",
+            "count": 2
+          },
+          {
+            "word": "AUGRIN",
+            "count": 2
+          },
+          {
+            "word": "augrin.xyz",
+            "count": 3
+          },
+          {
             "word": "Balanced",
             "count": 12
           },
@@ -923,146 +1063,6 @@
           {
             "word": "content",
             "count": 1
-          },
-          {
-            "word": "COR-01",
-            "count": 3
-          },
-          {
-            "word": "COR-02",
-            "count": 2
-          },
-          {
-            "word": "COR-03",
-            "count": 1
-          },
-          {
-            "word": "COR-04",
-            "count": 1
-          },
-          {
-            "word": "COR-05",
-            "count": 1
-          },
-          {
-            "word": "COR-06",
-            "count": 1
-          },
-          {
-            "word": "COR-07",
-            "count": 1
-          },
-          {
-            "word": "COR-08",
-            "count": 1
-          },
-          {
-            "word": "COR-09",
-            "count": 2
-          },
-          {
-            "word": "COR-10",
-            "count": 1
-          },
-          {
-            "word": "COR-11",
-            "count": 1
-          },
-          {
-            "word": "COR-12",
-            "count": 1
-          },
-          {
-            "word": "COR-13",
-            "count": 2
-          },
-          {
-            "word": "COR-14",
-            "count": 2
-          },
-          {
-            "word": "COR-15",
-            "count": 1
-          },
-          {
-            "word": "COR-16",
-            "count": 1
-          },
-          {
-            "word": "COR-17",
-            "count": 1
-          },
-          {
-            "word": "COR-18",
-            "count": 2
-          },
-          {
-            "word": "COR-19",
-            "count": 1
-          },
-          {
-            "word": "COR-20",
-            "count": 2
-          },
-          {
-            "word": "COR-21",
-            "count": 2
-          },
-          {
-            "word": "COR-22",
-            "count": 2
-          },
-          {
-            "word": "COR-23",
-            "count": 1
-          },
-          {
-            "word": "COR-24",
-            "count": 1
-          },
-          {
-            "word": "COR-25",
-            "count": 1
-          },
-          {
-            "word": "COR-26",
-            "count": 1
-          },
-          {
-            "word": "COR-27",
-            "count": 1
-          },
-          {
-            "word": "COR-28",
-            "count": 2
-          },
-          {
-            "word": "COR-29",
-            "count": 1
-          },
-          {
-            "word": "COR-30",
-            "count": 1
-          },
-          {
-            "word": "COR-31",
-            "count": 2
-          },
-          {
-            "word": "COR-32",
-            "count": 1
-          },
-          {
-            "word": "Corvantis",
-            "count": 2
-          },
-          {
-            "word": "CORVANTIS",
-            "count": 2
-          },
-          {
-            "word": "corvantis.xyz",
-            "count": 3
           },
           {
             "word": "count",
@@ -2147,7 +2147,15 @@
         ],
         "attrs": [
           {
-            "key": "aria-label=Corvantis home",
+            "key": "aria-label=Augrin home",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Chain",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Events",
             "count": 1
           },
           {
@@ -2160,6 +2168,10 @@
           },
           {
             "key": "aria-label=Illustrative prediction events",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Ledger",
             "count": 1
           },
           {
@@ -2303,6 +2315,10 @@
             "count": 1
           },
           {
+            "key": "aria-label=Receipts",
+            "count": 1
+          },
+          {
             "key": "aria-label=Search events",
             "count": 1
           },
@@ -2355,370 +2371,376 @@
         "imageIssues": [],
         "interactiveIssues": [],
         "classTokens": [
+          "bx-actions",
+          "bx-arc",
+          "bx-arc-cell",
+          "bx-aura",
+          "bx-axis",
+          "bx-axis-rule",
+          "bx-badge",
+          "bx-bars",
+          "bx-brand",
+          "bx-brand-cluster",
+          "bx-brand-copy",
+          "bx-brand-halo",
+          "bx-brand-mark",
+          "bx-brand-name",
+          "bx-button",
+          "bx-button--quiet",
+          "bx-button--solid",
+          "bx-button--wide",
+          "bx-card",
+          "bx-card-label",
+          "bx-chip",
+          "bx-chip--ember",
+          "bx-chip--indigo",
+          "bx-chip--mint",
+          "bx-colophon",
+          "bx-core",
+          "bx-core-caption",
+          "bx-core-eyebrow",
+          "bx-core-figure",
+          "bx-core-note",
+          "bx-core-session",
+          "bx-core-spark",
+          "bx-core-tag",
+          "bx-crest",
+          "bx-crest-inner",
+          "bx-crest-tools",
+          "bx-deck",
+          "bx-delta",
+          "bx-delta--up",
+          "bx-depth",
+          "bx-dial",
+          "bx-digest",
+          "bx-dot",
+          "bx-dot--no",
+          "bx-dot--yes",
+          "bx-event",
+          "bx-event-action",
+          "bx-event-facts",
+          "bx-event-hit",
+          "bx-event-legend",
+          "bx-event-level",
+          "bx-event-list",
+          "bx-event-profile",
+          "bx-event-ref",
+          "bx-event-title",
+          "bx-events",
+          "bx-eyebrow",
+          "bx-facts",
+          "bx-fill-ember",
+          "bx-fill-indigo",
+          "bx-fill-mint",
+          "bx-flag",
+          "bx-flag--calm",
+          "bx-glyph",
+          "bx-hero",
+          "bx-icon-button",
+          "bx-lede",
+          "bx-legend",
+          "bx-lens",
+          "bx-lens-grid",
+          "bx-lens-head",
+          "bx-lens-main",
+          "bx-lens-meta",
+          "bx-lens-note",
+          "bx-lens-title",
+          "bx-list",
+          "bx-list-body",
+          "bx-list-ref",
+          "bx-list-row",
+          "bx-list-row--depth",
+          "bx-meter",
+          "bx-net",
+          "bx-note",
+          "bx-orb",
+          "bx-orb--one",
+          "bx-orb--three",
+          "bx-orb--two",
+          "bx-orbit",
+          "bx-page",
+          "bx-panel",
+          "bx-panel--digest",
+          "bx-panel--ledger",
+          "bx-panel-head",
+          "bx-panel-title",
+          "bx-pills",
+          "bx-profile",
+          "bx-profiles",
+          "bx-range",
+          "bx-readings",
+          "bx-readings-foot",
+          "bx-readings-head",
+          "bx-ribbon",
+          "bx-ribbon-brand",
+          "bx-ribbon-item",
+          "bx-ribbon-tail",
+          "bx-rim",
+          "bx-rim-nav",
+          "bx-ring",
+          "bx-ring--inner",
+          "bx-ring--mid",
+          "bx-ring--outer",
+          "bx-search",
+          "bx-shard",
+          "bx-shard-id",
+          "bx-shard-note",
+          "bx-shard-orbit",
+          "bx-shard-value",
+          "bx-shards",
+          "bx-skip",
+          "bx-split",
+          "bx-split-head",
+          "bx-split-track",
+          "bx-spoke",
+          "bx-spoke-dot",
+          "bx-spoke-label",
+          "bx-spokes",
+          "bx-stage",
+          "bx-statement",
+          "bx-tools",
+          "bx-wallet-button",
           "is-current",
           "is-lead",
-          "st-actions",
-          "st-app",
-          "st-badge",
-          "st-bar",
-          "st-brand",
-          "st-brand-cluster",
-          "st-brand-mark",
-          "st-brand-name",
-          "st-brand-type",
-          "st-btn",
-          "st-btn--block",
-          "st-btn--ghost",
-          "st-btn--solid",
-          "st-chip",
-          "st-chip--ember",
-          "st-chip--indigo",
-          "st-chip--mint",
-          "st-colophon",
-          "st-command",
-          "st-command-label",
-          "st-commands",
-          "st-delta",
-          "st-delta--up",
-          "st-depth-bar",
-          "st-detail",
-          "st-digest",
-          "st-disclosure",
-          "st-dot",
-          "st-dot--no",
-          "st-dot--yes",
-          "st-facts",
-          "st-field",
-          "st-field-axis",
-          "st-field-foot",
-          "st-field-head",
-          "st-field-rule",
-          "st-fill-ember",
-          "st-fill-indigo",
-          "st-fill-mint",
-          "st-filters",
-          "st-foot",
-          "st-footnav",
-          "st-glyph",
-          "st-iconbtn",
-          "st-inspect",
-          "st-kicker",
-          "st-kpi",
-          "st-kpis",
-          "st-label",
-          "st-lede",
-          "st-ledger",
-          "st-ledger-act",
-          "st-ledger-facts",
-          "st-ledger-hit",
-          "st-ledger-level",
-          "st-ledger-profile",
-          "st-ledger-ref",
-          "st-ledger-row",
-          "st-ledger-rows",
-          "st-ledger-spec",
-          "st-ledger-title",
-          "st-legend",
-          "st-list",
-          "st-list-body",
-          "st-list-ref",
-          "st-list-row",
-          "st-list-row--depth",
-          "st-meter",
-          "st-net",
-          "st-note",
-          "st-panel",
-          "st-panel--digest",
-          "st-panel--ledger",
-          "st-panel-head",
-          "st-panel-title",
-          "st-profile-row",
-          "st-profiles",
-          "st-range",
-          "st-readout",
-          "st-readout-copy",
-          "st-search",
-          "st-segment",
-          "st-selected",
-          "st-selected-head",
-          "st-selected-meta",
-          "st-shard",
-          "st-shard-id",
-          "st-shard-note",
-          "st-shard-track",
-          "st-shard-value",
-          "st-shards",
-          "st-skip",
-          "st-slab",
-          "st-slab-head",
-          "st-spark",
-          "st-split",
-          "st-split-bar",
-          "st-split-head",
-          "st-stamp",
-          "st-stamp--quiet",
-          "st-statement",
-          "st-telemetry",
-          "st-telemetry-bars",
-          "st-telemetry-brand",
-          "st-telemetry-figure",
-          "st-telemetry-foot",
-          "st-telemetry-head",
-          "st-telemetry-item",
-          "st-telemetry-level",
-          "st-telemetry-main",
-          "st-telemetry-note",
-          "st-telemetry-tail",
-          "st-tools",
-          "st-view",
-          "st-wallet",
-          "st-work",
-          "st-work--detail",
-          "st-work--filters"
+          "is-lit"
         ],
         "fingerprint": [
           "a@5:0",
-          "a@6:2",
           "a@7:2",
-          "article@9:2",
-          "aside@6:1",
-          "aside@6:2",
-          "b@10:0",
+          "a@7:3",
+          "a@8:3",
+          "article@8:2",
           "b@11:0",
           "b@12:0",
-          "b@13:0",
           "b@8:0",
+          "b@9:0",
           "button@10:1",
-          "button@11:1",
-          "button@12:3",
-          "button@12:4+",
-          "button@7:2",
+          "button@11:3",
+          "button@11:4+",
           "button@8:0",
+          "button@8:1",
+          "button@8:2",
           "button@9:1",
-          "dd@9:0",
+          "dd@8:0",
           "div@10:1",
           "div@10:2",
           "div@10:4+",
-          "div@11:4+",
           "div@3:1",
           "div@4:4+",
-          "div@5:3",
+          "div@5:1",
           "div@6:2",
-          "div@6:4+",
+          "div@6:3",
           "div@7:2",
+          "div@7:3",
           "div@7:4+",
-          "div@8:2",
-          "div@8:3",
           "div@8:4+",
           "div@9:2",
           "div@9:3",
           "div@9:4+",
-          "dl@7:4+",
-          "dt@9:0",
-          "em@14:0",
-          "figcaption@9:2",
-          "figure@8:3",
+          "dl@6:4+",
+          "dt@8:0",
+          "em@13:0",
           "footer@5:2",
-          "h1@9:0",
+          "h1@7:0",
+          "h2@8:0",
           "h2@9:0",
           "h3@11:0",
-          "header@5:3",
-          "header@8:2",
-          "header@8:3",
+          "header@7:2",
+          "header@7:3",
           "i@10:0",
           "i@11:0",
           "i@12:0",
+          "i@12:1",
           "i@13:0",
-          "i@13:1",
-          "i@14:0",
           "i@8:0",
-          "img@7:0",
+          "i@9:0",
+          "img@8:0",
           "input@10:0",
           "input@8:0",
           "label@11:0",
           "label@7:2",
-          "li@10:3",
+          "li@10:1",
           "li@10:4+",
-          "li@11:1",
-          "main@6:4+",
-          "nav@5:4+",
+          "li@9:3",
+          "main@5:4+",
           "nav@6:4+",
-          "ol@10:4+",
+          "nav@7:4+",
           "ol@9:4+",
-          "p@10:0",
           "p@10:1",
-          "p@8:0",
-          "p@8:1",
+          "p@7:0",
+          "p@7:1",
           "p@9:0",
           "p@9:1",
           "p@9:3",
           "path@10:0",
           "path@11:0",
           "path@12:0",
-          "path@13:0",
-          "path@8:0",
           "path@9:0",
-          "section@7:2",
-          "section@7:3",
-          "section@7:4+",
+          "section@5:3",
+          "section@6:1",
+          "section@6:3",
+          "section@6:4+",
           "section@8:4+",
-          "small@10:0",
           "small@11:0",
+          "small@12:0",
           "small@13:0",
-          "small@14:0",
           "small@8:0",
+          "small@9:0",
           "span@10:0",
           "span@10:1",
           "span@10:2",
-          "span@10:4+",
           "span@11:0",
           "span@11:1",
           "span@11:2",
+          "span@11:3",
+          "span@12:0",
           "span@12:1",
           "span@12:2",
-          "span@12:3",
-          "span@13:0",
-          "span@13:1",
-          "span@13:2",
           "span@7:0",
           "span@7:1",
-          "span@7:2",
           "span@8:0",
+          "span@8:1",
+          "span@8:2",
+          "span@8:4+",
           "span@9:0",
           "strong@11:0",
+          "strong@12:0",
           "strong@13:0",
-          "strong@14:0",
           "strong@8:0",
+          "strong@9:0",
           "svg@10:1",
           "svg@11:1",
-          "svg@12:1",
-          "svg@7:1",
           "svg@8:1",
           "svg@9:1",
-          "ul@10:3",
-          "ul@9:4+"
+          "ul@8:4+",
+          "ul@9:3"
         ],
         "landmarks": [
           {
-            "tag": "header",
-            "role": "",
-            "top": 0,
-            "left": 0,
-            "width": 1440,
-            "height": 39
+            "tag": "div",
+            "role": "banner",
+            "top": -19,
+            "left": 60,
+            "width": 1320,
+            "height": 84
           },
           {
             "tag": "nav",
             "role": "",
-            "top": 39,
-            "left": 0,
-            "width": 1440,
-            "height": 44
-          },
-          {
-            "tag": "aside",
-            "role": "",
-            "top": 83,
-            "left": 0,
-            "width": 196,
-            "height": 229
+            "top": 99,
+            "left": 300,
+            "width": 840,
+            "height": 840
           },
           {
             "tag": "main",
             "role": "",
-            "top": 83,
-            "left": 196,
-            "width": 914,
-            "height": 2113
+            "top": 1363,
+            "left": 60,
+            "width": 1320,
+            "height": 2353
           },
           {
             "tag": "header",
             "role": "",
-            "top": 686,
-            "left": 228,
-            "width": 850,
+            "top": 2217,
+            "left": 155,
+            "width": 1130,
             "height": 37
           },
           {
             "tag": "header",
             "role": "",
-            "top": 1437,
-            "left": 228,
-            "width": 850,
-            "height": 74
-          },
-          {
-            "tag": "aside",
-            "role": "",
-            "top": 83,
-            "left": 1110,
-            "width": 330,
-            "height": 818
+            "top": 3040,
+            "left": 155,
+            "width": 1130,
+            "height": 37
           },
           {
             "tag": "footer",
             "role": "",
-            "top": 2196,
-            "left": 0,
-            "width": 1440,
-            "height": 47
+            "top": 3716,
+            "left": 60,
+            "width": 1320,
+            "height": 89
           },
           {
             "tag": "nav",
             "role": "",
-            "top": 2207,
-            "left": 1133,
-            "width": 279,
-            "height": 26
+            "top": 3719,
+            "left": 1122,
+            "width": 202,
+            "height": 36
           }
         ],
         "colors": [
           {
+            "hex": "#0d0d0d",
+            "count": 603
+          },
+          {
+            "hex": "#2c2a2e",
+            "count": 170
+          },
+          {
+            "hex": "#6d6a70",
+            "count": 116
+          },
+          {
             "hex": "#ffffff",
-            "count": 536
+            "count": 91
           },
           {
-            "hex": "#9b9b9f",
-            "count": 390
+            "hex": "#b80059",
+            "count": 53
           },
           {
-            "hex": "#c6a2ff",
-            "count": 60
+            "hex": "#6b3fa0",
+            "count": 40
           },
           {
-            "hex": "#29292d",
-            "count": 50
+            "hex": "#f9f8fa",
+            "count": 38
           },
           {
-            "hex": "#14f195",
-            "count": 41
+            "hex": "#0f7b4d",
+            "count": 23
           },
           {
-            "hex": "#9945ff",
-            "count": 25
+            "hex": "#f2eef3",
+            "count": 17
           },
           {
-            "hex": "#ffd166",
-            "count": 22
+            "hex": "#f3ecff",
+            "count": 15
           },
           {
-            "hex": "#0b0b0c",
-            "count": 20
+            "hex": "#b3261e",
+            "count": 12
           },
           {
-            "hex": "#4a4a52",
-            "count": 18
+            "hex": "#e8f7ef",
+            "count": 11
           },
           {
-            "hex": "#6f2bd1",
+            "hex": "#fdeceb",
+            "count": 11
+          },
+          {
+            "hex": "#e6006f",
+            "count": 4
+          },
+          {
+            "hex": "#ffeaf3",
+            "count": 4
+          },
+          {
+            "hex": "#ff4da6",
             "count": 3
           },
           {
-            "hex": "#ff5c7a",
-            "count": 2
-          },
-          {
-            "hex": "#000000",
+            "hex": "#d8cfdb",
             "count": 1
           }
         ],
@@ -2727,23 +2749,23 @@
         "headings": [
           {
             "tag": "h1",
-            "text": "ONE LINE, STRUCK FROM SIX READINGS."
+            "text": "One line, struck from six readings."
           },
           {
             "tag": "h2",
-            "text": "SAMPLE EVENTS"
-          },
-          {
-            "tag": "h2",
-            "text": "WHAT THE SAMPLE BOARD HOLDS"
-          },
-          {
-            "tag": "h2",
-            "text": "SOLANA CLOSES ABOVE THE WEEKLY TARGET · YES / NO"
+            "text": "Solana closes above the weekly target · YES / NO"
           },
           {
             "tag": "h3",
             "text": "6 readings · 4 pt spread"
+          },
+          {
+            "tag": "h2",
+            "text": "Sample events"
+          },
+          {
+            "tag": "h2",
+            "text": "What the sample board holds"
           }
         ],
         "navTargets": [
@@ -2768,10 +2790,10 @@
       },
       "mobile": {
         "meta": {
-          "title": "Ledger | Corvantis",
+          "title": "Ledger | Augrin",
           "lang": "en",
           "h1Count": 1,
-          "bodyTextLength": 7787,
+          "bodyTextLength": 7738,
           "scrollWidth": 390,
           "clientWidth": 390,
           "focusableCount": 100
@@ -3406,10 +3428,6 @@
             "count": 1
           },
           {
-            "word": "66%",
-            "count": 1
-          },
-          {
             "word": "67.5%",
             "count": 1
           },
@@ -3424,6 +3442,10 @@
           {
             "word": "68.6%",
             "count": 4
+          },
+          {
+            "word": "68%",
+            "count": 1
           },
           {
             "word": "69.1%",
@@ -3558,6 +3580,146 @@
             "count": 3
           },
           {
+            "word": "AUG-01",
+            "count": 3
+          },
+          {
+            "word": "AUG-02",
+            "count": 2
+          },
+          {
+            "word": "AUG-03",
+            "count": 1
+          },
+          {
+            "word": "AUG-04",
+            "count": 1
+          },
+          {
+            "word": "AUG-05",
+            "count": 1
+          },
+          {
+            "word": "AUG-06",
+            "count": 1
+          },
+          {
+            "word": "AUG-07",
+            "count": 1
+          },
+          {
+            "word": "AUG-08",
+            "count": 1
+          },
+          {
+            "word": "AUG-09",
+            "count": 2
+          },
+          {
+            "word": "AUG-10",
+            "count": 1
+          },
+          {
+            "word": "AUG-11",
+            "count": 1
+          },
+          {
+            "word": "AUG-12",
+            "count": 1
+          },
+          {
+            "word": "AUG-13",
+            "count": 2
+          },
+          {
+            "word": "AUG-14",
+            "count": 2
+          },
+          {
+            "word": "AUG-15",
+            "count": 1
+          },
+          {
+            "word": "AUG-16",
+            "count": 1
+          },
+          {
+            "word": "AUG-17",
+            "count": 1
+          },
+          {
+            "word": "AUG-18",
+            "count": 2
+          },
+          {
+            "word": "AUG-19",
+            "count": 1
+          },
+          {
+            "word": "AUG-20",
+            "count": 2
+          },
+          {
+            "word": "AUG-21",
+            "count": 2
+          },
+          {
+            "word": "AUG-22",
+            "count": 2
+          },
+          {
+            "word": "AUG-23",
+            "count": 1
+          },
+          {
+            "word": "AUG-24",
+            "count": 1
+          },
+          {
+            "word": "AUG-25",
+            "count": 1
+          },
+          {
+            "word": "AUG-26",
+            "count": 1
+          },
+          {
+            "word": "AUG-27",
+            "count": 1
+          },
+          {
+            "word": "AUG-28",
+            "count": 2
+          },
+          {
+            "word": "AUG-29",
+            "count": 1
+          },
+          {
+            "word": "AUG-30",
+            "count": 1
+          },
+          {
+            "word": "AUG-31",
+            "count": 2
+          },
+          {
+            "word": "AUG-32",
+            "count": 1
+          },
+          {
+            "word": "Augrin",
+            "count": 2
+          },
+          {
+            "word": "AUGRIN",
+            "count": 2
+          },
+          {
+            "word": "augrin.xyz",
+            "count": 3
+          },
+          {
             "word": "Balanced",
             "count": 12
           },
@@ -3676,146 +3838,6 @@
           {
             "word": "content",
             "count": 1
-          },
-          {
-            "word": "COR-01",
-            "count": 3
-          },
-          {
-            "word": "COR-02",
-            "count": 2
-          },
-          {
-            "word": "COR-03",
-            "count": 1
-          },
-          {
-            "word": "COR-04",
-            "count": 1
-          },
-          {
-            "word": "COR-05",
-            "count": 1
-          },
-          {
-            "word": "COR-06",
-            "count": 1
-          },
-          {
-            "word": "COR-07",
-            "count": 1
-          },
-          {
-            "word": "COR-08",
-            "count": 1
-          },
-          {
-            "word": "COR-09",
-            "count": 2
-          },
-          {
-            "word": "COR-10",
-            "count": 1
-          },
-          {
-            "word": "COR-11",
-            "count": 1
-          },
-          {
-            "word": "COR-12",
-            "count": 1
-          },
-          {
-            "word": "COR-13",
-            "count": 2
-          },
-          {
-            "word": "COR-14",
-            "count": 2
-          },
-          {
-            "word": "COR-15",
-            "count": 1
-          },
-          {
-            "word": "COR-16",
-            "count": 1
-          },
-          {
-            "word": "COR-17",
-            "count": 1
-          },
-          {
-            "word": "COR-18",
-            "count": 2
-          },
-          {
-            "word": "COR-19",
-            "count": 1
-          },
-          {
-            "word": "COR-20",
-            "count": 2
-          },
-          {
-            "word": "COR-21",
-            "count": 2
-          },
-          {
-            "word": "COR-22",
-            "count": 2
-          },
-          {
-            "word": "COR-23",
-            "count": 1
-          },
-          {
-            "word": "COR-24",
-            "count": 1
-          },
-          {
-            "word": "COR-25",
-            "count": 1
-          },
-          {
-            "word": "COR-26",
-            "count": 1
-          },
-          {
-            "word": "COR-27",
-            "count": 1
-          },
-          {
-            "word": "COR-28",
-            "count": 2
-          },
-          {
-            "word": "COR-29",
-            "count": 1
-          },
-          {
-            "word": "COR-30",
-            "count": 1
-          },
-          {
-            "word": "COR-31",
-            "count": 2
-          },
-          {
-            "word": "COR-32",
-            "count": 1
-          },
-          {
-            "word": "Corvantis",
-            "count": 2
-          },
-          {
-            "word": "CORVANTIS",
-            "count": 2
-          },
-          {
-            "word": "corvantis.xyz",
-            "count": 3
           },
           {
             "word": "count",
@@ -4880,7 +4902,15 @@
         ],
         "attrs": [
           {
-            "key": "aria-label=Corvantis home",
+            "key": "aria-label=Augrin home",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Chain",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Events",
             "count": 1
           },
           {
@@ -4893,6 +4923,10 @@
           },
           {
             "key": "aria-label=Illustrative prediction events",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Ledger",
             "count": 1
           },
           {
@@ -5036,6 +5070,10 @@
             "count": 1
           },
           {
+            "key": "aria-label=Receipts",
+            "count": 1
+          },
+          {
             "key": "aria-label=Search events",
             "count": 1
           },
@@ -5088,367 +5126,374 @@
         "imageIssues": [],
         "interactiveIssues": [],
         "classTokens": [
+          "bx-actions",
+          "bx-arc",
+          "bx-arc-cell",
+          "bx-aura",
+          "bx-axis",
+          "bx-axis-rule",
+          "bx-badge",
+          "bx-bars",
+          "bx-brand",
+          "bx-brand-cluster",
+          "bx-brand-copy",
+          "bx-brand-halo",
+          "bx-brand-mark",
+          "bx-brand-name",
+          "bx-button",
+          "bx-button--quiet",
+          "bx-button--solid",
+          "bx-button--wide",
+          "bx-card",
+          "bx-card-label",
+          "bx-chip",
+          "bx-chip--ember",
+          "bx-chip--indigo",
+          "bx-chip--mint",
+          "bx-colophon",
+          "bx-core",
+          "bx-core-caption",
+          "bx-core-eyebrow",
+          "bx-core-figure",
+          "bx-core-note",
+          "bx-core-session",
+          "bx-core-spark",
+          "bx-core-tag",
+          "bx-crest",
+          "bx-crest-inner",
+          "bx-crest-tools",
+          "bx-deck",
+          "bx-delta",
+          "bx-delta--up",
+          "bx-depth",
+          "bx-dial",
+          "bx-digest",
+          "bx-dot",
+          "bx-dot--no",
+          "bx-dot--yes",
+          "bx-event",
+          "bx-event-action",
+          "bx-event-facts",
+          "bx-event-hit",
+          "bx-event-level",
+          "bx-event-list",
+          "bx-event-profile",
+          "bx-event-ref",
+          "bx-event-title",
+          "bx-events",
+          "bx-eyebrow",
+          "bx-facts",
+          "bx-fill-ember",
+          "bx-fill-indigo",
+          "bx-fill-mint",
+          "bx-flag",
+          "bx-flag--calm",
+          "bx-glyph",
+          "bx-hero",
+          "bx-icon-button",
+          "bx-lede",
+          "bx-legend",
+          "bx-lens",
+          "bx-lens-grid",
+          "bx-lens-head",
+          "bx-lens-main",
+          "bx-lens-meta",
+          "bx-lens-note",
+          "bx-lens-title",
+          "bx-list",
+          "bx-list-body",
+          "bx-list-ref",
+          "bx-list-row",
+          "bx-list-row--depth",
+          "bx-meter",
+          "bx-note",
+          "bx-orb",
+          "bx-orb--one",
+          "bx-orb--three",
+          "bx-orb--two",
+          "bx-orbit",
+          "bx-page",
+          "bx-panel",
+          "bx-panel--digest",
+          "bx-panel--ledger",
+          "bx-panel-head",
+          "bx-panel-title",
+          "bx-pills",
+          "bx-profile",
+          "bx-profiles",
+          "bx-range",
+          "bx-readings",
+          "bx-readings-foot",
+          "bx-readings-head",
+          "bx-ribbon",
+          "bx-ribbon-brand",
+          "bx-ribbon-item",
+          "bx-ribbon-tail",
+          "bx-rim",
+          "bx-rim-nav",
+          "bx-ring",
+          "bx-ring--inner",
+          "bx-ring--mid",
+          "bx-ring--outer",
+          "bx-search",
+          "bx-shard",
+          "bx-shard-id",
+          "bx-shard-note",
+          "bx-shard-orbit",
+          "bx-shard-value",
+          "bx-shards",
+          "bx-skip",
+          "bx-split",
+          "bx-split-head",
+          "bx-split-track",
+          "bx-spoke",
+          "bx-spoke-dot",
+          "bx-spoke-label",
+          "bx-spokes",
+          "bx-stage",
+          "bx-statement",
+          "bx-tools",
+          "bx-wallet-button",
           "is-current",
           "is-lead",
-          "st-actions",
-          "st-app",
-          "st-badge",
-          "st-bar",
-          "st-brand",
-          "st-brand-cluster",
-          "st-brand-mark",
-          "st-brand-name",
-          "st-brand-type",
-          "st-btn",
-          "st-btn--block",
-          "st-btn--ghost",
-          "st-btn--solid",
-          "st-chip",
-          "st-chip--ember",
-          "st-chip--indigo",
-          "st-chip--mint",
-          "st-colophon",
-          "st-command",
-          "st-command-label",
-          "st-commands",
-          "st-delta",
-          "st-delta--up",
-          "st-depth-bar",
-          "st-detail",
-          "st-digest",
-          "st-disclosure",
-          "st-dot",
-          "st-dot--no",
-          "st-dot--yes",
-          "st-facts",
-          "st-field",
-          "st-field-axis",
-          "st-field-foot",
-          "st-field-head",
-          "st-field-rule",
-          "st-fill-ember",
-          "st-fill-indigo",
-          "st-fill-mint",
-          "st-filters",
-          "st-foot",
-          "st-footnav",
-          "st-glyph",
-          "st-iconbtn",
-          "st-inspect",
-          "st-kicker",
-          "st-kpi",
-          "st-kpis",
-          "st-label",
-          "st-lede",
-          "st-ledger",
-          "st-ledger-act",
-          "st-ledger-facts",
-          "st-ledger-hit",
-          "st-ledger-level",
-          "st-ledger-profile",
-          "st-ledger-ref",
-          "st-ledger-row",
-          "st-ledger-rows",
-          "st-ledger-title",
-          "st-legend",
-          "st-list",
-          "st-list-body",
-          "st-list-ref",
-          "st-list-row",
-          "st-list-row--depth",
-          "st-meter",
-          "st-note",
-          "st-panel",
-          "st-panel--digest",
-          "st-panel--ledger",
-          "st-panel-head",
-          "st-panel-title",
-          "st-profile-row",
-          "st-profiles",
-          "st-range",
-          "st-readout",
-          "st-readout-copy",
-          "st-search",
-          "st-segment",
-          "st-selected",
-          "st-selected-head",
-          "st-selected-meta",
-          "st-shard",
-          "st-shard-id",
-          "st-shard-note",
-          "st-shard-track",
-          "st-shard-value",
-          "st-shards",
-          "st-skip",
-          "st-slab",
-          "st-slab-head",
-          "st-spark",
-          "st-split",
-          "st-split-bar",
-          "st-split-head",
-          "st-stamp",
-          "st-stamp--quiet",
-          "st-statement",
-          "st-telemetry",
-          "st-telemetry-bars",
-          "st-telemetry-brand",
-          "st-telemetry-figure",
-          "st-telemetry-foot",
-          "st-telemetry-head",
-          "st-telemetry-item",
-          "st-telemetry-level",
-          "st-telemetry-main",
-          "st-telemetry-note",
-          "st-telemetry-tail",
-          "st-tools",
-          "st-view",
-          "st-wallet",
-          "st-work",
-          "st-work--detail",
-          "st-work--filters"
+          "is-lit"
         ],
         "fingerprint": [
           "a@5:0",
-          "a@6:2",
           "a@7:2",
-          "article@9:2",
-          "aside@6:1",
-          "aside@6:2",
-          "b@10:0",
+          "a@7:3",
+          "a@8:3",
+          "article@8:2",
           "b@11:0",
           "b@12:0",
-          "b@13:0",
           "b@8:0",
+          "b@9:0",
           "button@10:1",
-          "button@11:1",
-          "button@12:3",
-          "button@12:4+",
-          "button@7:2",
+          "button@11:3",
+          "button@11:4+",
           "button@8:0",
+          "button@8:1",
+          "button@8:2",
           "button@9:1",
-          "dd@9:0",
+          "dd@8:0",
           "div@10:1",
           "div@10:2",
           "div@10:4+",
-          "div@11:4+",
           "div@3:1",
           "div@4:4+",
-          "div@5:3",
+          "div@5:1",
           "div@6:2",
-          "div@6:4+",
+          "div@6:3",
           "div@7:2",
+          "div@7:3",
           "div@7:4+",
-          "div@8:2",
-          "div@8:3",
           "div@8:4+",
           "div@9:2",
           "div@9:3",
           "div@9:4+",
-          "dl@7:4+",
-          "dt@9:0",
-          "em@14:0",
-          "figcaption@9:2",
-          "figure@8:3",
+          "dl@6:4+",
+          "dt@8:0",
+          "em@13:0",
           "footer@5:2",
-          "h1@9:0",
+          "h1@7:0",
+          "h2@8:0",
           "h2@9:0",
           "h3@11:0",
-          "header@5:3",
-          "header@8:2",
-          "header@8:3",
+          "header@7:2",
+          "header@7:3",
           "i@10:0",
           "i@11:0",
           "i@12:0",
+          "i@12:1",
           "i@13:0",
-          "i@13:1",
-          "i@14:0",
-          "img@7:0",
+          "i@8:0",
+          "i@9:0",
+          "img@8:0",
           "input@10:0",
           "input@8:0",
           "label@11:0",
           "label@7:2",
-          "li@10:3",
+          "li@10:1",
           "li@10:4+",
-          "li@11:1",
-          "main@6:4+",
-          "nav@5:4+",
+          "li@9:3",
+          "main@5:4+",
           "nav@6:4+",
-          "ol@10:4+",
+          "nav@7:4+",
           "ol@9:4+",
-          "p@10:0",
           "p@10:1",
-          "p@8:0",
-          "p@8:1",
+          "p@7:0",
+          "p@7:1",
           "p@9:0",
           "p@9:1",
           "p@9:3",
           "path@10:0",
           "path@11:0",
           "path@12:0",
-          "path@13:0",
-          "path@8:0",
           "path@9:0",
-          "section@7:2",
-          "section@7:3",
-          "section@7:4+",
+          "section@5:3",
+          "section@6:1",
+          "section@6:3",
+          "section@6:4+",
           "section@8:4+",
-          "small@10:0",
           "small@11:0",
+          "small@12:0",
           "small@13:0",
-          "small@14:0",
           "small@8:0",
+          "small@9:0",
           "span@10:0",
           "span@10:1",
           "span@10:2",
-          "span@10:4+",
           "span@11:0",
           "span@11:1",
           "span@11:2",
+          "span@11:3",
+          "span@12:0",
           "span@12:1",
           "span@12:2",
-          "span@12:3",
-          "span@13:0",
-          "span@13:1",
-          "span@13:2",
           "span@7:0",
           "span@7:1",
-          "span@7:2",
           "span@8:0",
+          "span@8:1",
+          "span@8:2",
+          "span@8:4+",
           "span@9:0",
           "strong@11:0",
+          "strong@12:0",
           "strong@13:0",
-          "strong@14:0",
           "strong@8:0",
+          "strong@9:0",
           "svg@10:1",
           "svg@11:1",
-          "svg@12:1",
-          "svg@7:1",
           "svg@8:1",
           "svg@9:1",
-          "ul@10:3",
-          "ul@9:4+"
+          "ul@8:4+",
+          "ul@9:3"
         ],
         "landmarks": [
           {
-            "tag": "header",
-            "role": "",
+            "tag": "div",
+            "role": "banner",
             "top": 0,
             "left": 0,
             "width": 390,
-            "height": 56
+            "height": 120
           },
           {
             "tag": "nav",
             "role": "",
-            "top": 56,
-            "left": 0,
-            "width": 390,
-            "height": 44
-          },
-          {
-            "tag": "aside",
-            "role": "",
-            "top": 100,
-            "left": 0,
-            "width": 390,
-            "height": 101
+            "top": 144,
+            "left": 16,
+            "width": 358,
+            "height": 86
           },
           {
             "tag": "main",
             "role": "",
-            "top": 201,
+            "top": 1172,
             "left": 0,
             "width": 390,
-            "height": 7698
+            "height": 3772
           },
           {
             "tag": "header",
             "role": "",
-            "top": 1159,
-            "left": 14,
-            "width": 362,
-            "height": 28
+            "top": 2570,
+            "left": 37,
+            "width": 316,
+            "height": 26
           },
           {
             "tag": "header",
             "role": "",
-            "top": 6510,
-            "left": 14,
-            "width": 362,
-            "height": 109
-          },
-          {
-            "tag": "aside",
-            "role": "",
-            "top": 7899,
-            "left": 0,
-            "width": 390,
-            "height": 1069
+            "top": 3412,
+            "left": 37,
+            "width": 316,
+            "height": 100
           },
           {
             "tag": "footer",
             "role": "",
-            "top": 8967,
+            "top": 4944,
             "left": 0,
             "width": 390,
-            "height": 102
+            "height": 140
           },
           {
             "tag": "nav",
             "role": "",
-            "top": 9031,
-            "left": 14,
-            "width": 362,
-            "height": 28
+            "top": 5020,
+            "left": 16,
+            "width": 202,
+            "height": 36
           }
         ],
         "colors": [
           {
+            "hex": "#0d0d0d",
+            "count": 603
+          },
+          {
+            "hex": "#2c2a2e",
+            "count": 168
+          },
+          {
+            "hex": "#6d6a70",
+            "count": 107
+          },
+          {
             "hex": "#ffffff",
-            "count": 536
+            "count": 91
           },
           {
-            "hex": "#9b9b9f",
-            "count": 379
+            "hex": "#b80059",
+            "count": 53
           },
           {
-            "hex": "#c6a2ff",
-            "count": 60
-          },
-          {
-            "hex": "#29292d",
-            "count": 50
-          },
-          {
-            "hex": "#14f195",
+            "hex": "#6b3fa0",
             "count": 40
           },
           {
-            "hex": "#9945ff",
-            "count": 25
+            "hex": "#f9f8fa",
+            "count": 38
           },
           {
-            "hex": "#ffd166",
+            "hex": "#0f7b4d",
             "count": 22
           },
           {
-            "hex": "#0b0b0c",
-            "count": 19
+            "hex": "#f2eef3",
+            "count": 16
           },
           {
-            "hex": "#4a4a52",
-            "count": 18
+            "hex": "#f3ecff",
+            "count": 15
           },
           {
-            "hex": "#6f2bd1",
+            "hex": "#b3261e",
+            "count": 12
+          },
+          {
+            "hex": "#e8f7ef",
+            "count": 11
+          },
+          {
+            "hex": "#fdeceb",
+            "count": 11
+          },
+          {
+            "hex": "#e6006f",
+            "count": 4
+          },
+          {
+            "hex": "#ffeaf3",
+            "count": 4
+          },
+          {
+            "hex": "#ff4da6",
             "count": 3
           },
           {
-            "hex": "#ff5c7a",
-            "count": 2
-          },
-          {
-            "hex": "#000000",
+            "hex": "#d8cfdb",
             "count": 1
           }
         ],
@@ -5457,23 +5502,23 @@
         "headings": [
           {
             "tag": "h1",
-            "text": "ONE LINE, STRUCK FROM SIX READINGS."
+            "text": "One line, struck from six readings."
           },
           {
             "tag": "h2",
-            "text": "SAMPLE EVENTS"
-          },
-          {
-            "tag": "h2",
-            "text": "WHAT THE SAMPLE BOARD HOLDS"
-          },
-          {
-            "tag": "h2",
-            "text": "SOLANA CLOSES ABOVE THE WEEKLY TARGET · YES / NO"
+            "text": "Solana closes above the weekly target · YES / NO"
           },
           {
             "tag": "h3",
             "text": "6 readings · 4 pt spread"
+          },
+          {
+            "tag": "h2",
+            "text": "Sample events"
+          },
+          {
+            "tag": "h2",
+            "text": "What the sample board holds"
           }
         ],
         "navTargets": [
@@ -5483,43 +5528,43 @@
           "documentOverflow": false,
           "offenders": [
             {
-              "selector": "header.st-bar > div.st-telemetry > span.st-telemetry-item",
-              "right": 410,
-              "width": 87
+              "selector": "div.bx-crest-inner > div.bx-ribbon > span.bx-ribbon-item",
+              "right": 438,
+              "width": 89
             },
             {
-              "selector": "div.st-telemetry > span.st-telemetry-item > b",
-              "right": 398,
-              "width": 29
+              "selector": "div.bx-ribbon > span.bx-ribbon-item > b",
+              "right": 427,
+              "width": 31
             },
             {
-              "selector": "header.st-bar > div.st-telemetry > span.st-telemetry-item",
-              "right": 526,
-              "width": 116
+              "selector": "div.bx-crest-inner > div.bx-ribbon > span.bx-ribbon-item",
+              "right": 563,
+              "width": 120
             },
             {
-              "selector": "div.st-telemetry > span.st-telemetry-item > b",
-              "right": 514,
-              "width": 53
+              "selector": "div.bx-ribbon > span.bx-ribbon-item > b",
+              "right": 552,
+              "width": 55
             },
             {
-              "selector": "header.st-bar > div.st-telemetry > span.st-telemetry-item",
-              "right": 630,
-              "width": 104
+              "selector": "div.bx-crest-inner > div.bx-ribbon > span.bx-ribbon-item",
+              "right": 677,
+              "width": 107
             },
             {
-              "selector": "div.st-telemetry > span.st-telemetry-item > b",
-              "right": 618,
-              "width": 47
+              "selector": "div.bx-ribbon > span.bx-ribbon-item > b",
+              "right": 666,
+              "width": 49
             },
             {
-              "selector": "header.st-bar > div.st-telemetry > span.st-telemetry-item",
-              "right": 728,
-              "width": 98
+              "selector": "div.bx-crest-inner > div.bx-ribbon > span.bx-ribbon-item",
+              "right": 784,
+              "width": 101
             },
             {
-              "selector": "div.st-telemetry > span.st-telemetry-item > b",
-              "right": 716,
+              "selector": "div.bx-ribbon > span.bx-ribbon-item > b",
+              "right": 773,
               "width": 12
             }
           ]
@@ -5539,19 +5584,19 @@
             "text": "Skip to content",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(20, 241, 149)",
+            "outlineColor": "rgb(184, 0, 89)",
             "boxShadow": "none",
-            "borderColor": "rgb(153, 69, 255)",
-            "backgroundColor": "rgb(111, 43, 209)"
+            "borderColor": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(13, 13, 13)"
           },
           {
             "tag": "a",
-            "text": "Corvantis home",
+            "text": "Augrin home",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(20, 241, 149)",
+            "outlineColor": "rgb(184, 0, 89)",
             "boxShadow": "none",
-            "borderColor": "rgb(255, 255, 255) rgb(41, 41, 45) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "borderColor": "rgb(13, 13, 13)",
             "backgroundColor": "rgba(0, 0, 0, 0)"
           },
           {
@@ -5559,60 +5604,60 @@
             "text": "Illustrative desk summary",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(20, 241, 149)",
+            "outlineColor": "rgb(184, 0, 89)",
             "boxShadow": "none",
-            "borderColor": "rgb(155, 155, 159)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
+            "borderColor": "rgb(13, 13, 13)",
+            "backgroundColor": "rgb(249, 248, 250)"
           },
           {
             "tag": "button",
-            "text": "CONNECT",
+            "text": "Connect",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(20, 241, 149)",
+            "outlineColor": "rgb(184, 0, 89)",
             "boxShadow": "none",
-            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgb(255, 255, 255) rgb(41, 41, 45)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
+            "borderColor": "rgb(255, 255, 255)",
+            "backgroundColor": "rgb(13, 13, 13)"
           },
           {
             "tag": "a",
-            "text": "LEDGER",
+            "text": "Ledger",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(20, 241, 149)",
-            "boxShadow": "none",
-            "borderColor": "rgb(255, 255, 255) rgb(41, 41, 45) rgb(255, 255, 255) rgb(255, 255, 255)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
+            "outlineColor": "rgb(184, 0, 89)",
+            "boxShadow": "rgba(13, 13, 13, 0.18) 0px 16px 34px 0px",
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgb(13, 13, 13)"
           },
           {
             "tag": "a",
-            "text": "EVENTS",
+            "text": "Events",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(20, 241, 149)",
-            "boxShadow": "none",
-            "borderColor": "rgb(155, 155, 159) rgb(41, 41, 45) rgb(155, 155, 159) rgb(155, 155, 159)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
+            "outlineColor": "rgb(184, 0, 89)",
+            "boxShadow": "rgba(30, 10, 25, 0.07) 0px 18px 40px 0px",
+            "borderColor": "rgb(233, 228, 235)",
+            "backgroundColor": "rgba(255, 255, 255, 0.92)"
           },
           {
             "tag": "a",
-            "text": "RECEIPTS",
+            "text": "Receipts",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(20, 241, 149)",
-            "boxShadow": "none",
-            "borderColor": "rgb(155, 155, 159) rgb(41, 41, 45) rgb(155, 155, 159) rgb(155, 155, 159)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
+            "outlineColor": "rgb(184, 0, 89)",
+            "boxShadow": "rgba(30, 10, 25, 0.07) 0px 18px 40px 0px",
+            "borderColor": "rgb(233, 228, 235)",
+            "backgroundColor": "rgba(255, 255, 255, 0.92)"
           },
           {
             "tag": "a",
-            "text": "CHAIN",
+            "text": "Chain",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(20, 241, 149)",
-            "boxShadow": "none",
-            "borderColor": "rgb(155, 155, 159) rgb(41, 41, 45) rgb(155, 155, 159) rgb(155, 155, 159)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
+            "outlineColor": "rgb(184, 0, 89)",
+            "boxShadow": "rgba(30, 10, 25, 0.07) 0px 18px 40px 0px",
+            "borderColor": "rgb(233, 228, 235)",
+            "backgroundColor": "rgba(255, 255, 255, 0.92)"
           }
         ],
         "visibleCount": 8,

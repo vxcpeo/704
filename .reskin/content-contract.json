@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "meta": {
-    "projectName": "corvantis-terminal",
-    "title": "corvantis-terminal",
+    "projectName": "augrin-terminal",
+    "title": "augrin-terminal",
     "lang": "en"
   },
   "routes": [

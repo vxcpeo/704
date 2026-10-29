@@ -1,17 +1,17 @@
 # Reskin verification — PASS
 
-Generated: 2026-10-21T13:48:49.040Z
+Generated: 2026-10-22T15:46:52.961Z
 
-- Project: **corvantis-terminal**
+- Project: **augrin-terminal**
 - URL: http://127.0.0.1:4317/
-- Original skeleton: `marketing-stack` (editorial)
-- New skeleton: `sidebar-workspace` (shell)
-- Accent: #ff0421 -> #9945ff (135.92 ΔE; min 30)
-- Source contract: intact (`00fc81c53494`)
+- Original skeleton: `sidebar-workspace` (shell)
+- New skeleton: `orbital` (spatial)
+- Accent: #9945ff -> #e6006f (85.01 ΔE; min 30)
+- Source contract: intact (`4acaee053532`)
 
 | Route | Result | DOM similarity | Landmark similarity | Axe serious | Screenshot |
 |---|---|---:|---:|---:|---|
-| `/` | PASS | 0.38 | 0.556 | 0 | [desktop](current/home-desktop.png) |
+| `/` | PASS | 0.405 | 0.667 | 0 | [desktop](current/home-desktop.png) |
 
 ## Blocking issues
 
@@ -19,7 +19,10 @@ Generated: 2026-10-21T13:48:49.040Z
 
 ## Warnings
 
-- None.
+- /: aria attribute added: aria-label=Chain
+- /: aria attribute added: aria-label=Events
+- /: aria attribute added: aria-label=Ledger
+- /: aria attribute added: aria-label=Receipts
 
 ## Thresholds
 

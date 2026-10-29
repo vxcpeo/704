@@ -1,200 +1,97 @@
-# Reskin report — Corvantis
+# Reskin report — Bubblegum Exchange / Orbital
 
-Generated: 2026-10-21 (Asia/Shanghai)
+## Direction
 
-## Art direction
+- **Style:** Bubblegum Exchange (`uniswap-bubblegum`, clean-fintech), live-sampled from
+  [https://uniswap.org](https://uniswap.org) (8/10 blockchain references sampled).
+- **Skeleton:** Orbital (`orbital`, spatial). The original shell was
+  `sidebar-workspace` (shell).
+- **Accent:** `#9945FF` → `#E6006F` (85.01 ΔE; minimum 30).
+- **Ground:** `#000000` → `#FFFFFF`; panels `#0B0B0C` → `#F9F8FA` / `#F2EEF3`.
+- **Tokens:** `--bx-*` token layer in `src/styles/orbital.css`; the old
+  `src/style.css` was removed from the render path and archived in
+  `.reskin/original-src/`.
 
-| Field | Value |
-|---|---|
-| Style | **Spectrum Terminal** (`solana-spectrum`, performance-brutalist) |
-| Source DNA | [https://solana.com](https://solana.com) — live sampled (3 927 ms, HTTP 200) |
-| Live vs fallback | **Live**: 9/10 blockchain references answered; the selector scored every direction against the original accent (`#ff0421`) and background (`#fafaf9`) |
-| Original | `marketing-stack` / editorial / accent `#ff0421` |
-| Accent distance | `#ff0421` → `#9945ff` = **135.92 ΔE** (minimum 30) |
-| Palette | ground `#000000`, panel `#0B0B0C`, raised `#161618`, ink `#FFFFFF`, muted `#9B9B9F`, rule `#29292D`, signal `#9945FF`, trace `#14F195`, YES `#14F195`, NO `#FF5C7A`, caution `#FFD166` |
+The selected direction was not chosen by the agent: `choose-style.mjs` sampled the
+catalog live, scored every direction for perceptual distance from the original
+accent and background, added deterministic seed jitter, and selected Bubblegum
+Exchange with the Orbital skeleton.
 
-Only abstract DNA was taken from the reference: black ground, violet signal with a
-phosphor-green secondary, narrow uppercase display type, monospaced data,
-hairline rules, scanline grain, compact density and 120 ms eased motion. No logo,
-image, copy or code from any reference site is used. The brand, mint, routes and
-copy are the project's own.
+## Evidence
 
-## Skeleton
-
-**Terminal Console** → implemented as a dense three-pane console:
-
-- a **status bar** carries the wordmark, the desk telemetry strip, the cluster LED
-  and the wallet chip; a **command bar** carries the four route commands;
-- the work area is a **grid of filter rail | view | inspector**; the filter rail
-  holds the profile segment and search (plus sort on Events), the view holds the
-  route's content, and the inspector is a sticky rail with the selected event and
-  the shard field;
-- the Overview readout is a compact kicker + statement + lede + actions beside a
-  session-trace telemetry panel, followed by four KPI cells, a ruled event ledger
-  and a three-slab digest;
-- receipts are stacked console receipts, and Chain is a two-panel fact/matrix
-  block;
-- below 980 px the three panes collapse to one column with the filter rail as a
-  horizontal strip, and the inspector follows the view.
-
-### Skeleton deviation, and why
-
-`choose-style.mjs` proposed **Ticker Stage** for the detected `marketing-stack`
-original. The live shell being replaced *is already a ticker/broadcast stage*
-(the previous cycle's poster desk: sticky masthead, horizontal ticker ribbon,
-full-width horizontal beats, ruled ledger bands). The inventory's keyword
-classifier labels it `marketing-stack` because frozen copy contains "panel" and a
-fixture comment contains "hero". Rebuilding Ticker Stage would reproduce the
-current skeleton and fail the "visibly different skeleton" requirement and the
-DOM-similarity gate. The same catalogue's **Terminal Console** was used instead:
-same `linear` family, same Spectrum Terminal DNA, and the documented fix for a
-"too similar" skeleton. The art direction itself was not substituted.
-
-Diff vs the original shell, as measured by the verifier:
-
-| Signal | Baseline | Current | Gate |
-|---|---|---|---|
-| Detected archetype / family | `marketing-stack` / editorial | `sidebar-workspace` / shell | changed ✓ |
-| Sidebar / terminal / ticker traits | false / false / **true** | **true** / **true** / false | changed ✓ |
-| Landmark sequence similarity | — | 0.556 | ≤ 0.68 ✓ |
-| DOM fingerprint similarity | — | 0.380 | ≤ 0.50 ✓ |
-| Rendered CSS class overlap | — | 0.008 | ≤ 0.10 ✓ |
+- Content contract: `4acaee0535325ac784a6a009a10f571138401f4f99353aaaf12f3236285567a0`
+  (unchanged; 0 issues, 0 warnings).
+- Verification: **PASS** (`.reskin/VERIFICATION.md`, `.reskin/verification.json`).
+- Content parity: 530 visible words, 105 numeric tokens, 0 missing, 0 extra; every binding,
+  handler, form and route preserved. Four aria-labels were added to the icon-only footer
+  links; the verifier records them as non-blocking accessibility warnings.
+- Structure: DOM fingerprint similarity **0.405** (limit 0.50); landmark similarity
+  **0.667** (limit 0.68); CSS class overlap **0.008** (limit 0.10).
+- Accessibility: 0 axe serious/critical; 0 contrast failures in 444 checks; every
+  control has an accessible name; visible focus rings; one `h1` per route.
+- Responsive: no horizontal overflow at 1440×900 or 390×844; the orbit ring
+  becomes a vertical arc, the core becomes a rounded card, and panels stack.
+- Build: clean Vite production build.
 
 ## Screenshots
 
-| View | Baseline (poster ticker) | Current (terminal console) |
-|---|---|---|
-| Desktop 1440×900 | ![baseline desktop](baseline/home-desktop.png) | ![current desktop](current/home-desktop.png) |
-| Mobile 390×844 | ![baseline mobile](baseline/home-mobile.png) | ![current mobile](current/home-mobile.png) |
+| View | Baseline | Current |
+| --- | --- | --- |
+| Desktop 1440×900 (full page) | `.reskin/baseline/home-desktop.png` | `.reskin/current/home-desktop.png` |
+| Mobile 390×844 (full page) | `.reskin/baseline/home-mobile.png` | `.reskin/current/home-mobile.png` |
 
-The baseline is cream, poster-sized and horizontally banded with a ticker ribbon
-and no rail; the current is black, console-dense, split into a filter rail, a view
-and an inspector, with a status bar and a command bar. The two are not readable as
-the same shell at a glance: the accent family, the card/rule silhouettes, the
-navigation pattern and the page composition all differ.
+The baseline is the black three-pane Spectrum Terminal console; the current page
+is a white bubblegum orbit with a circular core, four route pills on the ring,
+a statement and KPI arc, and focused rounded panels. The silhouettes do not match:
+the old left filter rail and right inspector are gone, and the first viewport is
+dominated by a circle rather than a headline block plus telemetry strip.
 
-## Verification
+## Changes
 
-```
-node <reskin>/scripts/verify.mjs check --project <repo>/website --out .reskin
-PASS — 1 route(s), content intact, skeleton replaced, usability clean.
-```
-
-**Verdict: PASS** (`.reskin/VERIFICATION.md`, `.reskin/verification.json`).
-
-| Gate | Result |
-|---|---|
-| Source content contract | intact — 0 issues, 0 warnings |
-| Content-contract hash | baseline `00fc81c53494…` → current `00fc81c53494…` (identical) |
-| Rendered words `/` | 530 — 0 missing, 0 extra |
-| Rendered numeric tokens | 105 distinct / 144 total on both sides |
-| Rendered attributes | 0 missing, 0 extra |
-| Form fields | identical |
-| Document title | `Ledger | Corvantis` unchanged |
-| Routes | `/` (single-page hash app); no route added |
-| Console / page errors | 0 |
-| Contrast | **0** failures in 444 checks |
-| axe WCAG 2.0/2.1/2.2 A+AA | **0** violations (serious, moderate) |
-| Horizontal overflow | none at 1440 and at 390 |
-| Labels / accessible names / alt | 0 issues |
-| Keyboard focus | visible indicator on every sampled stop |
-| Mobile navigation | reachable, same targets as baseline |
-| Build | passes (`vite build`) |
-
-No warnings.
-
-## Files
-
-Replaced in place:
-
-- `website/src/style.css` — new design system on the Spectrum Terminal tokens.
-  New class namespace (`st-*`), new token names (`--bg`, `--surface`, `--accent`,
-  `--accent-fill`, `--accent-safe`, `--accent-2`, `--line-strong`, `--bar-h`,
-  `--cmd-h` …). No `brd-*` selector and no poster token survives.
-- `website/src/App.vue` — template rebuilt around the status bar, command bar,
-  three-pane work grid, readout, KPI cells, ledger, digest, inspector and footer.
-  `<script setup>` is unchanged except the component imports, plus two
-  presentational computeds (`showFilters`, `showDetail`).
-- `website/index.html` — `color-scheme` and `theme-color` follow the dark palette;
-  title, description, Open Graph metadata, icon links and `lang` are unchanged.
-- `website/a7104sol/**` — mirror re-synchronised (`scripts/sync-frontend.ps1`),
-  both projects build and `scripts/verify-delivery.py` passes.
-
-New components:
-
-- `src/components/SpectrumBar.vue`, `CommandNav.vue`, `ConsoleFoot.vue`,
-  `EventGrid.vue`, `EventInspector.vue`, `ShardMeter.vue`, `ReceiptList.vue`,
-  `ChainPanel.vue`, `Glyph.vue`, `SignalToast.vue`.
-
-Removed from the render path (sources kept byte-for-byte in
-`.reskin/original-src/`):
-
-- `src/components/{BroadcastBar,TickerBand,RouteRoll,EventLedger,EventBeat,FieldBeat,ReceiptLedger,ChainLedger,FlowIcon,Toast}.vue`
-  — every text token they rendered now lives in the new components above.
-
-No application logic was touched: `src/config.js`, `src/data/fixtures.js`,
-`src/composables/useWallet.js`, `src/main.js`, `src/polyfills.js`,
-`vite.config.js`, `package.json`, the tests and the deployed mint record are
-unchanged.
-
-## Accessibility and responsive results
-
-- One `h1` per route. Overview's `h1` is the statement; Events, Receipts and Chain
-  each have their own. Semantic `header`, `nav`, `main`, `aside`, `footer`.
-- The profile segment is a named `group` with `aria-pressed`; every ledger row
-  exposes a `role="button"` target with `tabindex="0"`, `aria-pressed` and the
-  original accessible name, and `Model` is a sibling button (no nested
-  interactive controls).
-- The telemetry strip and command bar scroll natively; both remain reachable by
-  keyboard. Focus indicators are visible on all controls.
-- Body copy is `#9B9B9F` on `#000000` (8.1:1) and `#FFFFFF` on `#000000`
-  (21:1); `--accent-safe` `#C6A2FF` is used for accent text (9.9:1) while
-  `--accent` fills buttons only behind white text on `#6F2BD1` (7.4:1).
-- Responsive: 1180 px narrows the inspector; 980 px collapses to one column with
-  the filter rail as a horizontal strip and the inspector below the view; 720 px
-  stacks the header telemetry, keeps the command bar scrollable and turns ledger
-  rows into a ref + stack layout; 430 px stacks KPI and fact grids. Nothing is
-  hidden to make this work.
-- `prefers-reduced-motion: reduce` disables transitions and smooth scrolling.
+- **New shell:** `App.vue` now renders a crest ribbon, an orbital stage
+  (`.bx-orbit`: aura rings, route pills, circular core), a hero statement, a KPI
+  arc, a focused deck and an outer rim footer.
+- **New route composition:** filters moved into a pill row inside the focused
+  panel; the selected-event lens moved to the top of the Overview panel beside the
+  shard field; the event ledger is a scrolling card list with a circular level dial.
+- **Rewritten presentational components:** `CrestBar.vue` (renamed from
+  `SpectrumBar.vue`), `CommandNav.vue`, `EventGrid.vue`, `EventInspector.vue`,
+  `ShardMeter.vue`, `ReceiptList.vue`, `ChainPanel.vue`, `ConsoleFoot.vue`,
+  `SignalToast.vue`, `Glyph.vue`.
+- **Removed from the render path:** `src/style.css` (the old global token and
+  layout layer), the old `.st-*` class system, the filter rail and the inspector
+  rail.
+- **New token/layout layer:** `src/styles/orbital.css` (namespaced `--bx-*`
+  variables, base/reset/typography, orbital shell, responsive rules,
+  `prefers-reduced-motion` guard).
 
 ## Twitter materials
 
-The media kit (`twitter/rebrand_assets.py`) was regenerated from the same
-`twitter/brand.json` palette after the reskin, so the avatar, banner, launch and
-CA cards, practice and testnet guides, manifesto card and the Open Graph card all
-belong to the shipped interface: black ground, violet signal, phosphor trace,
-shard-forge mark. The kit ships in `twitter/`, `website/public-active/` and the
-review sheets in `output/corvantis/`. This was the second generation in the cycle:
-the first ran before the reskin, the second after it (the `.rebrand` documents
-record the palette change).
+The X media kit (`twitter/`) was reskinned with the same art direction:
 
-## Known limitations
+- a new **augur-eye mark** (pink tile, open orbit arc, struck reading line,
+  verdict node) shared by the avatar, SVG mark, favicons and raster icons;
+- a white/lilac ground, hot-pink signal, plum trace, rounded panels and orbit
+  rings for the banner, launch card, practice guide, Testnet card, CA build
+  cards, manifesto and OG card;
+- the two posts, card copy, mint address, disclosures and file names were kept
+  (only the brand name changed); all media was regenerated by
+  `twitter/rebrand_assets.py` and reviewed via `output/augrin/artwork-review.png`.
 
-- The app is a hash-routed single page, so the verifier captures `/` (Ledger) for
-  its structural, contrast and axe gates. Events, Receipts and Chain share the
-  same console, filter rail and inspector and were reviewed through the
-  post-reskin rebrand capture in `.rebrand/screenshots/`.
-- The Overview ledger scrolls inside a fixed-height console body (as the previous
-  ledger rail did), so the full 32-row ledger is reachable by scroll rather than
-  printed in one very tall page. No row is hidden.
-- The footer navigation labels are revealed on hover/focus, preserving the same
-  information pattern as the previous footer index; the command bar above it is
-  always labelled.
-- The Open Graph description in `index.html` is frozen metadata and still reads
-  "A pale ledger workspace …"; it was not rewritten because the content contract
-  treats metadata as immutable.
-- `.reskin/` artifacts (baseline, current, verification, wireframe, report,
-  original sources) are ignored by the app build and by the inventory scan.
+## Limitations
 
-## Repository delivery checks
+- Only route `/` is captured by the verifier; the hash routes
+  (`#markets`, `#positions`, `#governance`) share the same shell and were reviewed
+  in the rebrand browser screenshots (`.rebrand/screenshots/`).
+- The meta title/description in `website/index.html` is content-locked by the
+  contract and was not rewritten; it still carries a "pale ledger workspace"
+  phrase even though the visible UI and OG card now carry the bubblegum-orbital
+  direction.
+- Dynamic figures are interface fixtures, so numeric counts are compared as
+  warnings rather than hard failures.
+- `output/corvantis/`, `output/kavrel/` and earlier review sheets are retained as
+  history outside the reskin gates; the current kit is `output/augrin/`.
 
-```
-cd website && npm test && npm run build            # 12/12 tests, build OK
-cd website/a7104sol && npm run build               # build OK
-powershell -File scripts/sync-frontend.ps1
-python scripts/verify-delivery.py                  # "Corvantis Testnet delivery checks passed …"
-```
-
-> The UI was rebuilt around **Spectrum Terminal / Terminal Console**; the original
-> **marketing-stack** shell and palette were removed while the content contract
-> stayed byte-for-byte intact.
+The UI was rebuilt around **Bubblegum Exchange** / **Orbital**; the original
+**sidebar-workspace** shell and palette were removed while the content contract
+stayed byte-for-byte intact.
